@@ -3,8 +3,8 @@
 
 #EXTM3U K+
 #EXTINF:-1 tvg-id="k1hd" tvg-logo="https://i.ibb.co/rQWYSLY/k1.png" group-title="K+",K+1 HD
-http://103.216.122.72:8889/udp/225.0.0.61:5000
-#http://203.162.123.178:8080/kplus/tracks-v1a1/mono.m3u8
+#http://103.216.122.72:8889/udp/225.0.0.61:5000
+http://203.162.123.178:8080/kplus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="knshd" tvg-logo="https://i.ibb.co/hcrTWt2/kns.png" group-title="K+",K+NS HD
 #http://103.216.122.72:8889/udp/225.0.0.62:5000
