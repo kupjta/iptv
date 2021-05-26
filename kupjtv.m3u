@@ -339,15 +339,15 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0  tvg-id="hbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.3.101:10648
-#http://quangvinh997.duckdns.org:8889/udp/225.1.2.233:30120
+http://quangvinh997.duckdns.org:8889/udp/225.1.2.233:30120
 
 #EXTINF:0  tvg-id="redbyhbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/S3LHf04.png",Red by HBO
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.44:8244
-#http://quangvinh997.duckdns.org:8889/udp/225.1.1.93:30120
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.93:30120
 
 #EXTINF:0  tvg-id="cinemaxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.3.117:10654
-#http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
+http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
 
 #EXTINF:0 tvg-id="movieboxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/fSv164Q/box1.jpg",Box Movies 1
 #http://103.216.122.72:8889/udp/225.0.1.86:5000
@@ -385,17 +385,17 @@ https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
 #EXTINF:0 tvg-id="disney" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png",Disney Channel
-#http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
+http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
 
 #EXTINF:0 tvg-id="disneyjunior" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/RC0yJqD/disneyjunior.png",Disney Junior
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.3.200:11122
-#http://quangvinh997.duckdns.org:8889/udp/225.1.1.233:30120
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.233:30120
 
 #EXTINF:0 tvg-id="happykids"  group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vXSWhQJ/hapyykids.jpg",Happy Kids
 http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="dreamwork" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/bb/DreamWorks_Animation_SKG_logo.svg.png" group-title="🌍|Quốc Tế",Dreamworks
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.136:30120
+#http://quangvinh997.duckdns.org:8889/udp/225.1.1.136:30120
 
 #EXTINF:-1 tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png" group-title="🌍|Quốc Tế",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
