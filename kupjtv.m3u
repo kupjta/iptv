@@ -11,10 +11,10 @@ http://203.162.123.178:8080/kplus/tracks-v1a1/mono.m3u8
 http://203.162.123.178:8080/kns/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kpchd" tvg-logo="https://i.ibb.co/dmrwZDw/kpc.png" group-title="K+",K+PC HD
-http://103.216.122.72:8889/udp/225.0.0.63:5000
+#http://103.216.122.72:8889/udp/225.0.0.63:5000
 
 #EXTINF:-1 tvg-id="kpmhd" tvg-logo="https://i.ibb.co/2ZhvW7w/kpm.png" group-title="K+",K+PM HD
-http://103.216.122.72:8889/udp/225.0.0.64:5000
+#http://103.216.122.72:8889/udp/225.0.0.64:5000
 
 #EXTM3U VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/NsTDYmD/vtv1.jpg" group-title="🇻🇳|VTV",VTV1 HD
