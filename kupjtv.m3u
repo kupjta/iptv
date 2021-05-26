@@ -770,17 +770,12 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U Radio
-#EXTINF:-1 group-title="Radio",Xone FM
-https://vnno-zn-1-tf-playlist-live-zmp3.zadn.vn/hpOx2UjqVEQ/zhls/live/standard-audio/855a669d5ad8b386eac9/standard-audio.m3u8
 
 #EXTINF:-1 group-title="Radio",On Air
 https://vnno-zn-11-tf-multi-playlist-zmp3.zadn.vn/HZQveZhPc-8/zhls/playback-realtime/very-low/a07d79b945fcaca2f5ed/very-low.m3u8
 
 #EXTINF:-1 group-title="Radio",Chạm
 https://vnno-zn-14-tf-multi-playlist-zmp3.zadn.vn/Ok1SSsyycZY/zhls/playback-realtime/very-low/db68d4afe8ea01b458fb/very-low.m3u8
-
-#EXTINF:-1 group-title="Radio",The One Radio
-https://vnno-pt-3-tf-playlist-live-zmp3.zadn.vn/C0ti9DKXaS4/zhls/live/standard-audio/5c0872cf4e8aa7d4fe9b/standard-audio.m3u8
 
 #EXTINF:-1 group-title="Radio",V-Pop
 https://vnno-zn-2-tf-multi-playlist-zmp3.zadn.vn/8t3wW77ohJw/zhls/playback-realtime/very-low/6eeb692c5569bc37e578/very-low.m3u8
