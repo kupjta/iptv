@@ -108,7 +108,7 @@ http://203.162.123.178:8080/vtvcab16/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/hLvZ22T/cab19.jpg",🇻🇳|VTVCab19 - Vie DRAMAS
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.169:8988
-https://rlink.vn/cocacab19
+https://sgn-vnpt-002-livecdn-vthn-vnd.vieon.vn/3399ec29f1e385ffb578c16236398e18/1622426773617/vtvcab/live/hd_vtvcab_19/TV_HD/hd_vtvcab_19_480p/chunks.m3u8
 
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab20hd.jpg",🇻🇳|VTVCab20 - V Family
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.245:10344
