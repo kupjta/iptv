@@ -108,7 +108,6 @@ http://203.162.123.178:8080/vtvcab16/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/hLvZ22T/cab19.jpg",🇻🇳|VTVCab19 - Vie DRAMAS
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.169:8988
-https://sgn-vnpt-002-livecdn-vthn-vnd.vieon.vn/3399ec29f1e385ffb578c16236398e18/1622426773617/vtvcab/live/hd_vtvcab_19/TV_HD/hd_vtvcab_19_480p/chunks.m3u8
 
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab20hd.jpg",🇻🇳|VTVCab20 - V Family
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.245:10344
@@ -116,10 +115,8 @@ https://sgn-vnpt-002-livecdn-vthn-vnd.vieon.vn/3399ec29f1e385ffb578c16236398e18/
 #EXTINF:0 tvg-id="vtvcab21hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab21hd.jpg",🇻🇳|VTVCab21 - Bibi+
 #http://14.232.214.220:8888/udp/239.2.100.181:5000
 
-
 #EXTINF:0 tvg-id="vtvcab23hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab23hd.png",🇻🇳|VTVCab23 - GOLF TV
 #http://14.232.214.220:8888/udp/239.2.100.183:5000
-
 
 #EXTM3U VTC
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/RSFtDPh/vtc1.jpg" group-title="🇻🇳|VTC",VTC1
@@ -258,7 +255,7 @@ http://51.210.99.3:21585/sctv9/tracks-v1a1/index.m3u8
 #http://mikc.vacovska.cf:1935/live/SCTVVHNT_HD_4/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="sctv13hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/3pQsyPf/logo26072108-sctv13-hd.png",SCTV 13 | Lady TV
-http://vtsstr1.tv24.vn:1935/live/SCTVHDPhunuGiadinh_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
+http://vtsstr1.tv24.vn:1935/live/SCTVHDPhunuGiadinh_4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/wLKj69Q/logo26072108-sctv14-hd.png",SCTV 14 | Phim Việt
 #http://mika.vacovska.cf:1935/live/SCTV_HD_PhimViet_4/chunklist.m3u8
@@ -392,11 +389,11 @@ https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
 #EXTINF:0 tvg-id="disney" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png",Disney Channel
-http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
+#http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
 
 #EXTINF:0 tvg-id="disneyjunior" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/RC0yJqD/disneyjunior.png",Disney Junior
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.3.200:11122
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.233:30120
+#http://quangvinh997.duckdns.org:8889/udp/225.1.1.233:30120
 
 #EXTINF:0 tvg-id="happykids"  group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vXSWhQJ/hapyykids.jpg",Happy Kids
 http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist.m3u8
@@ -463,7 +460,7 @@ https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="dwnews" tvg-logo="https://i.ibb.co/QPQLHyN/dw.jpg" group-title="🌍|Quốc Tế",DW News
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-id="tv5monde_asie" tvg-logo="https://i.imgur.com/JuELCHc.png" group-title="🌍|Quốc Tế",TV5 MONDE
 http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
@@ -472,7 +469,7 @@ http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FbsvZMx/RT-news.jpg" group-title="🌍|Quốc Tế",RT News
-http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+#http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 
 #EXTINF:-1 tvg-id="arirang" tvg-logo="https://i.imgur.com/iIrAEGx.png" group-title="🌍|Quốc Tế",ARIRANG HD
 https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
@@ -524,9 +521,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="🌍|Quốc Tế" tvg-id="privehd" tvg-logo="https://i.ibb.co/M6pWKSB/prive.jpg",&Privé
 #EXTVLCOPT:http-user-agent="KupjTV"
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-
-#EXTINF:0 group-title="🌍|Quốc Tế" tvg-id="celestialhd" tvg-logo="https://i.ibb.co/qNTrMwb/CMC.jpg",Celestial Movies
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
 #EXTINF:0 tvg-id="hbohd-asia" group-title="🎬|HBO" tvg-logo="https://i.ibb.co/8zmMx6y/hbo.png",HBO (𝔸𝕤𝕚𝕒)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
