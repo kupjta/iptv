@@ -226,7 +226,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 https://vtsstr1.tv24.vn/live/SCTV_HD_Hai_new.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png",SCTV2 | AMC
-#http://vtsstr6.tv24.vn:1935/live/sctv2_HD_4/chunklist.m3u8
 https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/pwy6LhX/sctv3-hd.png",SCTV3 | Thiếu Nhi
@@ -354,7 +353,6 @@ http://51.210.99.3:21585/hbo/tracks-v1a1/index.m3u8
 #http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
 
 #EXTINF:0 tvg-id="movieboxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/fSv164Q/box1.jpg",Box Movies 1
-#http://103.216.122.72:8889/udp/225.0.1.86:5000
 http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/playlist.m3u8
 #http://mika.vacovska.cf:1935/live/BOX_MOVIE_HD.smil/chunklist_b4692000.m3u8
 
@@ -362,7 +360,7 @@ http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/playlist.m3u8
 http://mika.vacovska.cf:1935/live/Hollywood.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="fxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/HBVBTSZ/fxhd.jpg",FX HD
-http://103.216.122.72:8889/udp/225.0.2.89:5000
+#http://103.216.122.72:8889/udp/225.0.2.89:5000
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="🌍|Quốc Tế",Cartoon Network
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
@@ -463,7 +461,7 @@ http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FbsvZMx/RT-news.jpg" group-title="🌍|Quốc Tế",RT News
-#http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 
 #EXTINF:-1 tvg-id="arirang" tvg-logo="https://i.imgur.com/iIrAEGx.png" group-title="🌍|Quốc Tế",ARIRANG HD
 https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
@@ -501,7 +499,7 @@ https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u
 #EXTINF:-1 tvg-id="channelvhd" tvg-logo="https://i.imgur.com/BT8eRjq.png" group-title="🌍|Quốc Tế",Channel V HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="woman" tvg-logo="https://i.ibb.co/GTrnKhc/woman.jpg" group-title="🌍|Quốc Tế",Woman
+#EXTINF:-1 tvg-id="woman" tvg-logo="https://i.ibb.co/GTrnKhc/woman.jpg" group-title="🌍|Quốc Tế",Woman (No Sound)
 http://mika.vacovska.cf:1935/live/Woman.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="mtvhd" tvg-logo="https://i.imgur.com/gpWosop.png" group-title="🌍|Quốc Tế",MTV
