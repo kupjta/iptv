@@ -78,7 +78,7 @@ http://51.210.99.3:21585/vtvcab5/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab7hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/GdSvphV/cab7.jpg",🇻🇳|VTVCab7 - Sức khỏe
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.26:8130
-http://103.216.122.72:8889/udp/225.0.0.95:5000
+#http://103.216.122.72:8889/udp/225.0.0.95:5000
 
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/vdxbmPn/cab8.jpg",🇻🇳|VTVCab8 - BIBI
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.206:9210
@@ -375,8 +375,8 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://i.ibb.co/Q8P4H3Y/babytv.jpg" group-title="🌍|Quốc Tế",Baby TV
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.3.128:10624
-##http://quangvinh997.duckdns.org:8889/udp/225.1.2.146:30120
-http://103.216.122.72:8889/udp/225.0.2.71:5000
+#http://quangvinh997.duckdns.org:8889/udp/225.1.2.146:30120
+#http://103.216.122.72:8889/udp/225.0.2.71:5000
 
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://i.ibb.co/30mwfjW/animax.png" group-title="🌍|Quốc Tế",Animax
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
@@ -397,9 +397,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
 #EXTINF:0 tvg-id="happykids"  group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vXSWhQJ/hapyykids.jpg",Happy Kids
 http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="dreamwork" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/bb/DreamWorks_Animation_SKG_logo.svg.png" group-title="🌍|Quốc Tế",Dreamworks
-#http://quangvinh997.duckdns.org:8889/udp/225.1.1.136:30120
 
 #EXTINF:-1 tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png" group-title="🌍|Quốc Tế",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
@@ -450,17 +447,14 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://i.imgur.com/krupazx.png" group-title="🌍|Quốc Tế",CNN
 https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="cnbc" tvg-logo="https://i.ibb.co/h7xsfby/cnbc.png" group-title="🌍|Quốc Tế",CNBC
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.3.179:10488
-
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://i.ibb.co/Qmq2pMm/blooberg.png" group-title="🌍|Quốc Tế",Bloomberg TV Asia HD
 https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="dw" tvg-logo="https://i.ibb.co/QPQLHyN/dw.jpg" group-title="🌍|Quốc Tế",DW
 https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="dwnews" tvg-logo="https://i.ibb.co/QPQLHyN/dw.jpg" group-title="🌍|Quốc Tế",DW News
-#http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://i.ibb.co/dpnMMwS/euronews.png" group-title="🌍|Quốc Tế",Euro News
+https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
 
 #EXTINF:-1 tvg-id="tv5monde_asie" tvg-logo="https://i.imgur.com/JuELCHc.png" group-title="🌍|Quốc Tế",TV5 MONDE
 http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
