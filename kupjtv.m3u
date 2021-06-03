@@ -368,8 +368,7 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://i.ibb.co/Q8P4H3Y/babytv.jpg" group-title="🌍|Quốc Tế",Baby TV
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.3.128:10624
-#http://quangvinh997.duckdns.org:8889/udp/225.1.2.146:30120
-#http://103.216.122.72:8889/udp/225.0.2.71:5000
+http://203.154.243.88:11088/hi/baby
 
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://i.ibb.co/30mwfjW/animax.png" group-title="🌍|Quốc Tế",Animax
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
