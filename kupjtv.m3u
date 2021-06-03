@@ -57,11 +57,11 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/BgLSkSf/cab1.jpg",🇻🇳|VTVCab1 - Vie Giải Trí
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.143:8832
-http://51.210.99.3:21585/vtvcab1/tracks-v1a1/mono.m3u8
+http://203.162.123.178:8080/vtvcab1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/K6M1dw2/cab2.jpg",🇻🇳|VTVCab2 - Phim Việt
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.168:8982
-http://51.210.99.3:21585/vtvcab2/tracks-v1a1/mono.m3u8
+http://203.162.123.178:8080/vtvcab2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/x1XzN0j/cab3.png",🇻🇳|VTVCab3 HD - Thể thao TV
 http://203.162.123.178:8080/vtvcab3/tracks-v1a1/mono.m3u8
@@ -71,7 +71,7 @@ http://203.162.123.178:8080/vtvcab3/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab5hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/syDtbxt/cab5.jpg",🇻🇳|VTVCab5 - E Channel
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.193:9132
-http://51.210.99.3:21585/vtvcab5/tracks-v1a1/mono.m3u8
+http://203.162.123.178:8080/vtvcab5/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab6hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/RPQyG1W/cab6.jpg",🇻🇳|VTVCab6 - HayTV
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.220:9294
@@ -89,7 +89,7 @@ http://203.162.123.178:8080/vtvcab8/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/dpm5chZ/cab10.png",🇻🇳|VTVcab10 - Film TV
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.205:9204
-http://51.210.99.3:21585/vtvcab7/tracks-v1a1/mono.m3u8
+http://203.162.123.178:8080/vtvcab7/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab12hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/Lgb1ryR/cab12.jpg",🇻🇳|VTVCab12 - StyleTV
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.244:9438
@@ -248,7 +248,7 @@ http://mikc.vacovska.cf:1935/live/SCTV8_SD_4/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/bdMgBLN/logo26072108-sctv9-hd.png",SCTV9 | Phim Châu Á
 #https://rlink.vn/cocastv9
-http://51.210.99.3:21585/sctv9/tracks-v1a1/index.m3u8
+http://203.162.123.178:8080/sctv9/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png",SCTV11 | Ngôi Sao
 #http://mikc.vacovska.cf:1935/live/SCTVVHNT_HD_4/chunklist.m3u8
@@ -342,7 +342,7 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0  tvg-id="hbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.3.101:10648
 #http://quangvinh997.duckdns.org:8889/udp/225.1.2.233:30120
-http://51.210.99.3:21585/hbo/tracks-v1a1/index.m3u8
+http://203.162.123.178:8080/hbo/tracks-v1a1/index.m3u8
 
 #EXTINF:0  tvg-id="redbyhbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/S3LHf04.png",Red by HBO
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.44:8244
