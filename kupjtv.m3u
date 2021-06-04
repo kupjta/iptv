@@ -8,7 +8,7 @@
 
 #EXTINF:-1 tvg-id="knshd" tvg-logo="https://i.ibb.co/hcrTWt2/kns.png" group-title="K+",K+NS HD
 #http://103.216.122.72:8889/udp/225.0.0.62:5000
-#http://203.162.123.178:8080/kns/tracks-v1a1/mono.m3u8
+http://51.210.99.3:21585/kns/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kpchd" tvg-logo="https://i.ibb.co/dmrwZDw/kpc.png" group-title="K+",K+PC HD
 #http://103.216.122.72:8889/udp/225.0.0.63:5000
@@ -495,6 +495,12 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="foxsports3hd" tvg-logo="https://i.imgur.com/dhRuUbt.png" group-title="🌍|Quốc Tế",Fox Sports 3
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="bein1" tvg-logo="https://i.imgur.com/dhRuUbt.png" group-title="🌍|Quốc Tế",beIN Sports 1
+http://51.210.99.3:21585/kplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bein3" tvg-logo="https://i.imgur.com/dhRuUbt.png" group-title="🌍|Quốc Tế",beIN Sports 3
+http://51.210.99.3:21585/kpm/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="fashion_tv" tvg-logo="https://i.imgur.com/Zyy11Cs.png" group-title="🌍|Quốc Tế",Fashion TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
