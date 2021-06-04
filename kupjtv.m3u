@@ -247,7 +247,7 @@ https://vtsstr6.tv24.vn/live/SCTV_HD_SanKhau_new.smil/chunklist.m3u8
 http://mikc.vacovska.cf:1935/live/SCTV8_SD_4/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/bdMgBLN/logo26072108-sctv9-hd.png",SCTV9 | Phim Châu Á
-#http://203.162.123.178:8080/sctv9/tracks-v1a1/index.m3u8
+http://51.210.99.3:21585/hbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png",SCTV11 | Ngôi Sao
 #http://mikc.vacovska.cf:1935/live/SCTVVHNT_HD_4/chunklist.m3u8
@@ -339,7 +339,7 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0  tvg-id="hbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO
-#http://203.162.123.178:8080/hbo/tracks-v1a1/index.m3u8
+http://51.210.99.3:21585/hbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:0  tvg-id="redbyhbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/S3LHf04.png",Red by HBO
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.44:8244
