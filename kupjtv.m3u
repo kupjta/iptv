@@ -247,7 +247,7 @@ https://vtsstr6.tv24.vn/live/SCTV_HD_SanKhau_new.smil/chunklist.m3u8
 http://mikc.vacovska.cf:1935/live/SCTV8_SD_4/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/bdMgBLN/logo26072108-sctv9-hd.png",SCTV9 | Phim Châu Á
-http://51.210.99.3:21585/hbo/tracks-v1a1/mono.m3u8
+http://51.210.99.3:21585/sctv9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png",SCTV11 | Ngôi Sao
 #http://mikc.vacovska.cf:1935/live/SCTVVHNT_HD_4/chunklist.m3u8
@@ -279,10 +279,10 @@ https://vtsstr6.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
 https://vtsstr6.tv24.vn/live/SCTV20_HD_new.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="btv5hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/9YbSyVM/logo26072108-BTV5-HD.png",BTV5 | 🅢Sport 3
-http://mikb.vacovska.cf:1935/elive1/btv5_HD_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks
+#http://mikb.vacovska.cf:1935/elive1/btv5_HD_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks
 
 #EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.ibb.co/G2XQD3X/logo26072108-sctv-phim-THHD.png" group-title="🇻🇳|SCTV",SCTV HD Phim Tổng Hợp
-http://vtsstr1.tv24.vn:1935/live/SCTVHDPhimTH_4/chunklist.b2692000.m3u8
+#http://vtsstr1.tv24.vn:1935/live/SCTVHDPhimTH_4/chunklist.b2692000.m3u8
 
 #EXTM3U AVG
 #EXTINF:-1  tvg-id="anvienhd" group-title="🇻🇳|AVG" tvg-logo="https://i.ibb.co/bbvJBv6/anvien.jpg",An Viên HD-BTV 9
@@ -384,10 +384,10 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&marketingRegion=US
 
 #EXTINF:0 tvg-id="nickjr" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/JqhhwyV/nickjr.jpg",Nickelodeon Jr
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&marketingRegion=US
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&marketingRegion=US
 
 #EXTINF:0 tvg-id="nick" group-title="🌍|Quốc Tế" tvg-logo="",Super Sentai
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&marketingRegion=US
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&marketingRegion=US
 
 #EXTINF:0 tvg-id="disney" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png",Disney Channel
 #http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
