@@ -3,11 +3,9 @@
 
 #EXTM3U K+
 #EXTINF:-1 tvg-id="k1hd" tvg-logo="https://i.ibb.co/rQWYSLY/k1.png" group-title="K+",K+1 HD
-#http://103.216.122.72:8889/udp/225.0.0.61:5000
 #http://203.162.123.178:8080/kplus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="knshd" tvg-logo="https://i.ibb.co/hcrTWt2/kns.png" group-title="K+",K+NS HD
-#http://103.216.122.72:8889/udp/225.0.0.62:5000
 http://51.210.99.3:21585/kns/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kpchd" tvg-logo="https://i.ibb.co/dmrwZDw/kpc.png" group-title="K+",K+PC HD
@@ -56,11 +54,9 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 #EXTM3U VTV CAB
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/BgLSkSf/cab1.jpg",🇻🇳|VTVCab1 - Vie Giải Trí
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.143:8832
 http://203.162.123.178:8080/vtvcab1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/K6M1dw2/cab2.jpg",🇻🇳|VTVCab2 - Phim Việt
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.168:8982
 http://203.162.123.178:8080/vtvcab2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/x1XzN0j/cab3.png",🇻🇳|VTVCab3 HD - Thể thao TV
@@ -70,25 +66,21 @@ http://203.162.123.178:8080/vtvcab3/tracks-v1a1/mono.m3u8
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.2.190:10924
 
 #EXTINF:0 tvg-id="vtvcab5hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/syDtbxt/cab5.jpg",🇻🇳|VTVCab5 - E Channel
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.193:9132
 http://203.162.123.178:8080/vtvcab5/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab6hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/RPQyG1W/cab6.jpg",🇻🇳|VTVCab6 - HayTV
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.220:9294
 
 #EXTINF:0 tvg-id="vtvcab7hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/GdSvphV/cab7.jpg",🇻🇳|VTVCab7 - Sức khỏe
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.26:8130
 #http://103.216.122.72:8889/udp/225.0.0.95:5000
 
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/vdxbmPn/cab8.jpg",🇻🇳|VTVCab8 - BIBI
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.206:9210
 http://203.162.123.178:8080/vtvcab8/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/4Fj6h9Z/cab9.jpg",🇻🇳|VTVCab9 - Info TV
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.2.191:10930
 
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/dpm5chZ/cab10.png",🇻🇳|VTVcab10 - Film TV
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.205:9204
 http://203.162.123.178:8080/vtvcab7/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab12hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/Lgb1ryR/cab12.jpg",🇻🇳|VTVCab12 - StyleTV
@@ -380,13 +372,13 @@ https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
 #EXTINF:0 tvg-id="nick" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/yF1m33Y/nick.jpg",Nickelodeon
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&marketingRegion=US
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:0 tvg-id="nickjr" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/JqhhwyV/nickjr.jpg",Nickelodeon Jr
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&marketingRegion=US
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:0 tvg-id="nick" group-title="🌍|Quốc Tế" tvg-logo="",Super Sentai
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&marketingRegion=US
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:0 tvg-id="disney" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png",Disney Channel
 #http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
