@@ -54,19 +54,19 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 #EXTM3U VTV CAB
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/BgLSkSf/cab1.jpg",🇻🇳|VTVCab1 - Vie Giải Trí
-http://203.162.123.178:8080/vtvcab1/tracks-v1a1/mono.m3u8
+http://51.210.99.3:21585/vtvcab1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/K6M1dw2/cab2.jpg",🇻🇳|VTVCab2 - Phim Việt
-http://203.162.123.178:8080/vtvcab2/tracks-v1a1/mono.m3u8
+http://51.210.99.3:21585/vtvcab2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/x1XzN0j/cab3.png",🇻🇳|VTVCab3 HD - Thể thao TV
-http://203.162.123.178:8080/vtvcab3/tracks-v1a1/mono.m3u8
+http://51.210.99.3:21585/vtvcab3/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/6tSq3hP/cab4.jpg" ,🇻🇳|VTVCab4 - Văn Hóa
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.2.190:10924
 
 #EXTINF:0 tvg-id="vtvcab5hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/syDtbxt/cab5.jpg",🇻🇳|VTVCab5 - E Channel
-http://203.162.123.178:8080/vtvcab5/tracks-v1a1/mono.m3u8
+http://51.210.99.3:21585/vtvcab5/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab6hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/RPQyG1W/cab6.jpg",🇻🇳|VTVCab6 - HayTV
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.220:9294
@@ -75,13 +75,13 @@ http://203.162.123.178:8080/vtvcab5/tracks-v1a1/mono.m3u8
 #http://103.216.122.72:8889/udp/225.0.0.95:5000
 
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/vdxbmPn/cab8.jpg",🇻🇳|VTVCab8 - BIBI
-http://203.162.123.178:8080/vtvcab8/tracks-v1a1/mono.m3u8
+http://51.210.99.3:21585/vtvcab8/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/4Fj6h9Z/cab9.jpg",🇻🇳|VTVCab9 - Info TV
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.2.191:10930
 
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/dpm5chZ/cab10.png",🇻🇳|VTVcab10 - Film TV
-http://203.162.123.178:8080/vtvcab7/tracks-v1a1/mono.m3u8
+http://51.210.99.3:21585/vtvcab7/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab12hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/Lgb1ryR/cab12.jpg",🇻🇳|VTVCab12 - StyleTV
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.244:9438
@@ -90,7 +90,7 @@ http://203.162.123.178:8080/vtvcab7/tracks-v1a1/mono.m3u8
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.2.192:10936
 
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/KWKLZFt/cab16.jpg",🇻🇳|VTVCab16 - Bóng đá TV
-http://203.162.123.178:8080/vtvcab16/tracks-v1a1/mono.m3u8
+http://51.210.99.3:21585/vtvcab16/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MDxj7xt/cab17.jpg",🇻🇳|VTVCab17 - Yeah1! TV
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.217:9276
