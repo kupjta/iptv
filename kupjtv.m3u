@@ -456,6 +456,9 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/wwTUVYP.png" group-title="🌍|Quốc Tế",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/TvDzB1s/drfit.jpg" group-title="🌍|Quốc Tế",Dr Fit HD
+http://112.197.12.62/hls/drfit/index.m3u8
+
 #EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.imgur.com/amlBPub.png" group-title="🌍|Quốc Tế",TLC
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
@@ -529,24 +532,21 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="bein1" tvg-logo="https://i.imgur.com/dhRuUbt.png" group-title="🌍|Quốc Tế",beIN Sports 1
-http://51.210.99.3:21585/kplus/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="bein3" tvg-logo="https://i.imgur.com/dhRuUbt.png" group-title="🌍|Quốc Tế",beIN Sports 3
-http://51.210.99.3:21585/kpm/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="fashion_tv" tvg-logo="https://i.imgur.com/Zyy11Cs.png" group-title="🌍|Quốc Tế",Fashion TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="channelvhd" tvg-logo="https://i.imgur.com/BT8eRjq.png" group-title="🌍|Quốc Tế",Channel V HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="woman" tvg-logo="https://i.ibb.co/GTrnKhc/woman.jpg" group-title="🌍|Quốc Tế",Woman (No Sound)
+#EXTINF:-1 tvg-id="woman" tvg-logo="https://i.ibb.co/GTrnKhc/woman.jpg" group-title="🌍|Quốc Tế",Woman
 http://mika.vacovska.cf:1935/live/Woman.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="mtvhd" tvg-logo="https://i.imgur.com/gpWosop.png" group-title="🌍|Quốc Tế",MTV
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.3.107:10834
 #http://quangvinh997.duckdns.org:8889/udp/225.1.1.245:30120
+
+#EXTINF:-1 tvg-id="boxmusichd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vcbB6qh/Musicbox.jpg",Music Box
+http://112.197.12.62/hls/boxmusic/index.m3u8
 
 #EXTINF:0 group-title="🌍|Quốc Tế" tvg-id="flixhd" tvg-logo="https://i.ibb.co/5M40xDk/flix.jpg",&Flix
 #EXTVLCOPT:http-user-agent="KupjTV"
