@@ -372,7 +372,7 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0  tvg-id="hbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO
-http://51.210.99.3:21585/hbo/tracks-v1a1/mono.m3u8
+#http://51.210.99.3:21585/hbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:0  tvg-id="redbyhbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/S3LHf04.png",Red by HBO
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.44:8244
@@ -595,6 +595,15 @@ http://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Kênh Khác" tvg-id="vovtv" tvg-logo="https://i.ibb.co/z6vB5Mt/vovtv.jpg",VOV TV
 https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇻🇳|Kênh Khác" tvg-logo="https://i.ibb.co/0q2fJq1/hanoicab1-BEARTV.png",Hanoicab1 - HiTV
+http://nex.xemtiviviet.com/next.php?id=52
+
+#EXTINF:-1 tvg-id="" group-title="🇻🇳|Kênh Khác" tvg-logo="https://i.ibb.co/fqgMpWb/hanoicab2-BEARTV.png",Hanoicab2 - YouTV
+http://nex.xemtiviviet.com/next.php?id=50
+
+#EXTINF:-1 tvg-id="" group-title="🇻🇳|Kênh Khác" tvg-logo="https://i.ibb.co/T15XyG2/hanoicab4-BEARTV.png",Hanoicab4 - MOV
+http://nex.xemtiviviet.com/next.php?id=30
 
 #EXTM3U Địa Phương
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/fkkbJK1/atv.jpg",An Giang
