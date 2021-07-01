@@ -306,10 +306,10 @@ https://vtsstr6.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
 https://vtsstr6.tv24.vn/live/SCTV20_HD_new.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/nmxNkPG/s21-hd.jpg",SCTV21 | Việt Nam Ký Ức
-http://112.197.12.58/hls/sctv21/sd1/index.m3u8
+http://112.197.12.54/hls/sctv21/sd1/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv22hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/JK0TF38/sctv22-hd.png",SCTV22 | 🅢Sport 1
-http://112.197.12.58/hls/sctv22/sd1/index.m3u8
+http://112.197.12.54/hls/sctv22/sd1/index.m3u8
 
 #EXTINF:-1 tvg-id="btv5hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/9YbSyVM/logo26072108-BTV5-HD.png",BTV5 | 🅢Sport 3
 http://112.197.12.58/hls/btv5/sd1/index.m3u8
