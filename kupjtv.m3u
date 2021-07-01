@@ -131,6 +131,7 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab20_SD_4/chunklist_b2692000.m3u8
 
 #EXTINF:0 tvg-id="vtvcab21hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab21hd.jpg",🇻🇳|VTVCab21 - Bibi+
 #http://14.232.214.220:8888/udp/239.2.100.181:5000
+http://trongftp.ddns.net:4055/udp/239.2.100.181:5000
 
 #EXTINF:0 tvg-id="vtvcab23hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab23hd.png",🇻🇳|VTVCab23 - GOLF TV
 #http://14.232.214.220:8888/udp/239.2.100.183:5000
