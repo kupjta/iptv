@@ -670,7 +670,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/tx0ymtj/drt.png",Đắk Nông
-http://103.216.122.72:8889/udp/225.0.0.120:5000
+http://rglink.ml/vieon.m3u8?kenh=dak-nong
 
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/qrsL0yf/dbtv.jpg",Điện Biên
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
