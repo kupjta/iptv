@@ -9,7 +9,7 @@ http://s4live.tv1asia.com:21585/kplus2/index.m3u8
 http://s4live.tv1asia.com:21585/kns2/index.m3u8
 
 #EXTINF:-1 tvg-id="kpchd" tvg-logo="https://i.ibb.co/dmrwZDw/kpc.png" group-title="K+",K+PC HD
-http://s4live.tv1asia.com:21585/kpc2/index.m3u8
+#http://s4live.tv1asia.com:21585/kpc2/index.m3u8
 
 #EXTINF:-1 tvg-id="kpmhd" tvg-logo="https://i.ibb.co/2ZhvW7w/kpm.png" group-title="K+",K+PM HD
 #http://103.216.122.72:8889/udp/225.0.0.64:5000
@@ -705,6 +705,21 @@ https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/FXgd3qw/httv.jpg",Hà Tĩnh
 https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-id="haiduong" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/144.png", Hải Dương
+http://rglink.ml/vtvgo2.m3u8?id=143
+
+#EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/145.png", Hải Phòng HD
+https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
+
+#EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/146.png", Hải Phòng Plus HD
+https://live.thhp.vn/hls/thpplus/index.m3u8
+
+#EXTINF:-1 tvg-id="haugiang" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/147.png", Hậu Giang HD
+https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="hoabinh" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/148.png", Hòa Bình
+https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/JB0KYSR/hungyen.jpg",Hưng Yên
 http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
 
@@ -767,6 +782,9 @@ https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/PhzCVfR/soctrang.jpg",Sóc Trăng
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="https://i.ibb.co/PhzCVfR/soctrang.jpg", Sóc Trăng 2
+http://115.78.3.164:8135/liveeventstv2.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/8srcnnH/sonla.jpg",Sơn La
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
