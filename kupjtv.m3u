@@ -37,7 +37,7 @@ http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.ibb.co/ckmbV3R/vtv5.jpg" group-title="🇻🇳|VTV",VTV5 Tây Nam Bộ HD
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
-https://vtvgo-livewebs.vtvdigital.vn/e483649701bd15b87f058151707807b8/1626013301877/vtv5tnb/index.m3u8
+#https://vtvgo-livewebs.vtvdigital.vn/e483649701bd15b87f058151707807b8/1626013301877/vtv5tnb/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://i.ibb.co/ckmbV3R/vtv5.jpg" group-title="🇻🇳|VTV",VTV5 Tây Nguyên HD
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
