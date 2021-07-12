@@ -73,7 +73,7 @@ http://112.197.12.59/hls/vtvcab2/index.m3u8
 #http://14.177.57.116:4025/rtp/232.84.1.168:8982
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/x1XzN0j/cab3.png",🇻🇳|VTVCab3 HD - Thể thao TV
-http://203.162.123.178:8080/vtvcab3/index.m3u8
+#http://203.162.123.178:8080/vtvcab3/index.m3u8
 http://112.197.12.59/hls/vtvcab3/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/6tSq3hP/cab4.jpg" ,🇻🇳|VTVCab4 - Văn Hóa
