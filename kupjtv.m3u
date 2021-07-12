@@ -17,23 +17,23 @@ http://s4live.tv1asia.com:21585/kns2/index.m3u8
 #EXTM3U VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/NsTDYmD/vtv1.jpg" group-title="🇻🇳|VTV",VTV1 HD
 #https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv01/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.ibb.co/j5076gc/vtv2.jpg" group-title="🇻🇳|VTV",VTV2 HD 
 #https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv02/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.ibb.co/xLqK8wr/vtv3.jpg" group-title="🇻🇳|VTV",VTV3 HD
 #https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv03/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.ibb.co/fQfbt7d/vtv4.jpg" group-title="🇻🇳|VTV",VTV4 HD
 #https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv04/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.ibb.co/ckmbV3R/vtv5.jpg" group-title="🇻🇳|VTV",VTV5 HD
 #https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv05/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.ibb.co/ckmbV3R/vtv5.jpg" group-title="🇻🇳|VTV",VTV5 Tây Nam Bộ HD
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
@@ -46,19 +46,19 @@ https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.ibb.co/5Y1LGMm/vtv6.jpg" group-title="🇻🇳|VTV",VTV6 HD
 #https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv06/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.ibb.co/C1qgD6V/vtv7.jpg" group-title="🇻🇳|VTV",VTV7 HD
 #https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv07/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.ibb.co/3TsHT9T/vtv8.jpg" group-title="🇻🇳|VTV",VTV8 HD
 #https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv08/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/2kS3QWn/vtv9.jpg" group-title="🇻🇳|VTV",VTV9 HD
 #https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv09/index.m3u8
 
 #EXTM3U VTV CAB
 
