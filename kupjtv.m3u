@@ -377,8 +377,8 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0  tvg-id="hbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO
-#http://51.210.99.3:21585/hbo/tracks-v1a1/mono.m3u8
-http://trongftp.ddns.net:4055/rtp/232.84.2.138:10648
+http://203.162.123.178:8080/hbo/index.m3u8
+#http://trongftp.ddns.net:4055/rtp/232.84.2.138:10648
 
 #EXTINF:0  tvg-id="redbyhbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/S3LHf04.png",Red by HBO
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.44:8244
