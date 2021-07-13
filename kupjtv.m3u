@@ -320,7 +320,7 @@ http://112.197.12.54/hls/sctv22/sd1/index.m3u8
 http://112.197.12.58/hls/btv5/sd1/index.m3u8
 
 #EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.ibb.co/G2XQD3X/logo26072108-sctv-phim-THHD.png" group-title="🇻🇳|SCTV",SCTV HD Phim Tổng Hợp
-http://112.197.12.54/hls/sctvphimtonghop/sd4/index.m3u8
+http://112.197.12.54/hls/sctvphimtonghop/sd1/index.m3u8
 
 #EXTM3U AVG
 #EXTINF:-1  tvg-id="anvienhd" group-title="🇻🇳|AVG" tvg-logo="https://i.ibb.co/bbvJBv6/anvien.jpg",An Viên HD-BTV 9
