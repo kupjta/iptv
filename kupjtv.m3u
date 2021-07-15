@@ -419,10 +419,10 @@ https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
 #EXTINF:0 tvg-id="nick" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/yF1m33Y/nick.jpg",Nickelodeon
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 
 #EXTINF:0 tvg-id="nickjr" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/JqhhwyV/nickjr.jpg",Nickelodeon Jr
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 
 #EXTINF:0 tvg-id="nick" group-title="🌍|Quốc Tế" tvg-logo="",Super Sentai
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
