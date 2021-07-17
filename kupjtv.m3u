@@ -68,13 +68,13 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 http://rglink.ml/vieon.m3u8?kenh=vie-giai-tri-hd
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/K6M1dw2/cab2.jpg",🇻🇳|VTVCab2 - Phim Việt
-http://112.197.12.59/hls/vtvcab2/index.m3u8
-#http://203.162.123.178:8080/vtvcab2/index.m3u8
+#http://112.197.12.59/hls/vtvcab2/index.m3u8
+http://203.162.123.178:8080/vtvcab2/index.m3u8
 #http://14.177.57.116:4025/rtp/232.84.1.168:8982
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/x1XzN0j/cab3.png",🇻🇳|VTVCab3 HD - Thể thao TV
-#http://203.162.123.178:8080/vtvcab3/index.m3u8
-http://112.197.12.59/hls/vtvcab3/index.m3u8
+http://203.162.123.178:8080/vtvcab3/index.m3u8
+#http://112.197.12.59/hls/vtvcab3/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/6tSq3hP/cab4.jpg" ,🇻🇳|VTVCab4 - Văn Hóa
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab4_HD_4/chunklist_b2692000.m3u8
@@ -113,8 +113,8 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab15_SD_4/chunklist_b2692000.m3u8
 
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/KWKLZFt/cab16.jpg",🇻🇳|VTVCab16 - Bóng đá TV
 #http://51.210.99.3:21585/vtvcab16/tracks-v1a1/mono.m3u8
-http://112.197.12.59/hls/vtvcab16/index.m3u8
-#http://203.162.123.178:8080/vtvcab16/index.m3u8
+#http://112.197.12.59/hls/vtvcab16/index.m3u8
+http://203.162.123.178:8080/vtvcab16/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MDxj7xt/cab17.jpg",🇻🇳|VTVCab17 - Yeah1! TV
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab17_SD_4/chunklist_b2692000.m3u8 
