@@ -58,7 +58,7 @@ http://trongftp.ddns.net:4055/rtp/232.84.1.42:8226
 #EXTINF:-1,VTV7
 http://trongftp.ddns.net:4055/rtp/232.84.2.201:10990
 
-#EXTINF:-1,VTV8 https://iptv.live
+#EXTINF:-1,VTV8
 http://trongftp.ddns.net:4055/rtp/232.84.1.148:8862
 
 #EXTINF:-1,VTV9
