@@ -63,12 +63,12 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 #EXTM3U VTV CAB
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/BgLSkSf/cab1.jpg",🇻🇳|VTVCab1 - Vie Giải Trí
-#http://51.210.99.3:21585/vtvcab2/tracks-v1a1/mono.m3u8
+#http://51.210.99.3:21585/vtvcab1/index.m3u8
+#http://203.162.123.178:8080/vtvcab1/index.m3u8
 #https://vtsstr1.tv24.vn/live/_definst_/VTVcab1_SD_4/chunklist_b2692000.m3u8
 http://rglink.ml/vieon.m3u8?kenh=vie-giai-tri-hd
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/K6M1dw2/cab2.jpg",🇻🇳|VTVCab2 - Phim Việt
-#http://112.197.12.59/hls/vtvcab2/index.m3u8
 http://203.162.123.178:8080/vtvcab2/index.m3u8
 #http://14.177.57.116:4025/rtp/232.84.1.168:8982
 
@@ -92,7 +92,7 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab7_SD_4/chunklist_b2692000.m3u8
 
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/vdxbmPn/cab8.jpg",🇻🇳|VTVCab8 - BIBI
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab8_SD_4/chunklist_b2692000.m3u8 
-#http://112.197.12.59/hls/vtvcab8/index.m3u8
+#http://203.162.123.178:8080/vtvcab8/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/4Fj6h9Z/cab9.jpg",🇻🇳|VTVCab9 - Info TV
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab9_SD_4/chunklist_b2692000.m3u8 
@@ -533,6 +533,18 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0sWDyZ0/Asss1.png" group-title="🌍|Quốc Tế",ASSP1
+http://3.0.20.58:8000/play/ASSP1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCBSfhV/Asss2.png" group-title="🌍|Quốc Tế",ASSP2
+http://3.0.20.58:8000/play/ASSP2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kxzfbPJ/asss3.png" group-title="🌍|Quốc Tế",ASSP3
+http://3.0.20.58:8000/play/ASSP3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TmFQd5n/asss4.png" group-title="🌍|Quốc Tế",ASSP4
+http://3.0.20.58:8000/play/ASSP4/index.m3u8
+
 #EXTINF:-1 tvg-id="fashion_tv" tvg-logo="https://i.imgur.com/Zyy11Cs.png" group-title="🌍|Quốc Tế",Fashion TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 
@@ -705,19 +717,19 @@ https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/FXgd3qw/httv.jpg",Hà Tĩnh
 https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="haiduong" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/144.png", Hải Dương
+#EXTINF:-1 tvg-id="haiduong" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/144.png",Hải Dương
 http://rglink.ml/vtvgo2.m3u8?id=143
 
-#EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/145.png", Hải Phòng HD
+#EXTINF:-1 tvg-id="haiphong" group-title="🇻🇳|Địa Phương" tvg-logo="http://vthanh.live/ic/145.png",Hải Phòng HD
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
 
-#EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/146.png", Hải Phòng Plus HD
+#EXTINF:-1 tvg-id="haiphongplus" group-title="🇻🇳|Địa Phương" tvg-logo="http://vthanh.live/ic/146.png",Hải Phòng Plus HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
 
-#EXTINF:-1 tvg-id="haugiang" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/147.png", Hậu Giang HD
+#EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳|Địa Phương" tvg-logo="http://vthanh.live/ic/147.png",Hậu Giang HD
 https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="hoabinh" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/148.png", Hòa Bình
+#EXTINF:-1 tvg-id="hoabinh" group-title="🇻🇳|Địa Phương" tvg-logo="http://vthanh.live/ic/148.png",Hòa Bình
 https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/JB0KYSR/hungyen.jpg",Hưng Yên
