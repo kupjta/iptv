@@ -1,0 +1,1047 @@
+#EXTM3U url-tvg="http://gg.gg/epgvn03"
+
+#---VTV HD----#
+
+#EXTINF:-1,VTV1 HD
+http://trongftp.ddns.net:4055/rtp/232.84.1.117:10254
+
+#EXTINF:-1,VTV2 HD
+http://trongftp.ddns.net:4055/rtp/232.84.2.31:10594
+
+#EXTINF:-1,VTV3 HD
+http://trongftp.ddns.net:4055/rtp/232.84.1.118:10260
+
+#EXTINF:-1,VTV4 HD
+http://trongftp.ddns.net:4055/rtp/232.84.2.32:10600
+
+#EXTINF:-1,VTV4 HD
+http://trongftp.ddns.net:4055/rtp/232.84.3.106:10600
+
+#EXTINF:-1,VTV5 HD
+http://trongftp.ddns.net:4055/rtp/232.84.2.33:10606
+
+#EXTINF:-1,VTV6 HD
+http://trongftp.ddns.net:4055/rtp/232.84.1.119:10266
+
+#EXTINF:-1,VTV7 HD
+http://trongftp.ddns.net:4055/rtp/232.84.2.202:10996
+
+#EXTINF:-1,VTV8 HD
+http://trongftp.ddns.net:4055/rtp/232.84.2.34:10612
+
+#EXTINF:-1,VTV8 HD
+http://trongftp.ddns.net:4055/rtp/232.84.3.104:10612
+
+#EXTINF:-1,VTV9 HD
+http://trongftp.ddns.net:4055/rtp/232.84.2.35:10618
+
+#---VTV SD---#
+
+#EXTINF:-1,VTV1
+http://trongftp.ddns.net:4055/rtp/232.84.1.27:8136
+
+#EXTINF:-1,VTV2
+http://trongftp.ddns.net:4055/rtp/232.84.1.39:8208
+
+#EXTINF:-1,VTV3
+http://trongftp.ddns.net:4055/rtp/232.84.1.28:8142
+
+#EXTINF:-1,VTV4
+http://trongftp.ddns.net:4055/rtp/232.84.1.40:8214
+
+#EXTINF:-1,VTV5
+http://trongftp.ddns.net:4055/rtp/232.84.1.41:8220
+
+#EXTINF:-1,VTV6
+http://trongftp.ddns.net:4055/rtp/232.84.1.42:8226
+
+#EXTINF:-1,VTV7
+http://trongftp.ddns.net:4055/rtp/232.84.2.201:10990
+
+#EXTINF:-1,VTV8 https://iptv.live
+http://trongftp.ddns.net:4055/rtp/232.84.1.148:8862
+
+#EXTINF:-1,VTV9
+http://trongftp.ddns.net:4055/rtp/232.84.1.241:9420
+
+#---VTVCAB---#
+
+#EXTINF:-1,VTVcab 1 Vie GIẢI TRÍ
+http://trongftp.ddns.net:4055/rtp/232.84.1.143:8832
+
+#EXTINF:-1,VTVcab 2 Phim Việt
+http://trongftp.ddns.net:4055/rtp/232.84.1.168:8982
+
+#EXTINF:-1,VTVcab 4
+http://trongftp.ddns.net:4055/rtp/232.84.2.190:10924
+
+#EXTINF:-1,VTVcab 6 HAYTV
+http://trongftp.ddns.net:4055/rtp/232.84.1.220:9294
+
+#EXTINF:-1,VTVcab 7
+http://trongftp.ddns.net:4055/rtp/232.84.1.26:8130
+
+#EXTINF:-1,VTVcab 8 BiBi
+http://trongftp.ddns.net:4055/rtp/232.84.1.206:9210
+
+#EXTINF:-1,VTVcab 9 InfoTV
+http://trongftp.ddns.net:4055/rtp/232.84.2.191:10930
+
+#EXTINF:-1,VTVcab 10 Vie DRAMAS
+http://trongftp.ddns.net:4055/rtp/232.84.1.205:9204
+
+#EXTINF:-1,VTVcab 12 Style TV
+http://trongftp.ddns.net:4055/rtp/232.84.1.244:9438
+
+#EXTINF:-1,VTVcab 15
+http://trongftp.ddns.net:4055/rtp/232.84.2.192:10936
+
+#EXTINF:-1,VTVcab 17 Yeah1!TV
+http://trongftp.ddns.net:4055/rtp/232.84.1.217:9276
+
+#EXTINF:-1,VTVcab 19
+http://trongftp.ddns.net:4055/rtp/232.84.1.169:8988
+
+#EXTINF:-1,VTVcab 20 V Family
+http://trongftp.ddns.net:4055/rtp/232.84.1.245:10344
+
+#---VTC HD---#
+
+#EXTINF:-1,VTC1 HD 
+http://trongftp.ddns.net:4055/rtp/232.84.2.173:10846
+
+#EXTINF:-1,VTC1 HD 
+http://trongftp.ddns.net:4055/rtp/232.84.3.102:10846
+
+#EXTINF:-1,VTC3 HD
+http://trongftp.ddns.net:4055/rtp/232.84.1.81:8460
+
+#EXTINF:-1,VTC4 HD 
+http://trongftp.ddns.net:4055/rtp/232.84.2.149:10714
+
+#EXTINF:-1,VTC4 HD 
+http://trongftp.ddns.net:4055/rtp/232.84.3.147:10714
+
+#EXTINF:-1,VTC5 HD 
+http://trongftp.ddns.net:4055/rtp/232.84.3.136:10720
+
+#EXTINF:-1,VTC7 HD
+http://trongftp.ddns.net:4055/rtp/232.84.2.151:10726
+
+#EXTINF:-1,VTC7 HD
+http://trongftp.ddns.net:4055/rtp/232.84.3.120:10726
+
+#EXTINF:-1,VTC9 HD
+http://trongftp.ddns.net:4055/rtp/232.84.3.141:10732
+
+#EXTINF:-1,VTC13 HD 
+http://trongftp.ddns.net:4055/rtp/232.84.1.74:8418
+
+#---VTC SD---#
+
+#EXTINF:-1,VTC1
+http://trongftp.ddns.net:4055/rtp/232.84.1.30:8154
+
+#EXTINF:-1,VTC2
+http://trongftp.ddns.net:4055/rtp/232.84.1.57:8322
+
+#EXTINF:-1,VTC3
+http://trongftp.ddns.net:4055/rtp/232.84.1.60:8232
+
+#EXTINF:-1,VTC4
+http://trongftp.ddns.net:4055/rtp/232.84.2.37:10630
+
+#EXTINF:-1,VTC5
+http://trongftp.ddns.net:4055/rtp/232.84.2.38:10636
+
+#EXTINF:-1,VTC6
+http://trongftp.ddns.net:4055/rtp/232.84.1.58:8328
+
+#EXTINF:-1,VTC7
+http://trongftp.ddns.net:4055/rtp/232.84.1.213:9252
+
+#EXTINF:-1,VTC8
+http://trongftp.ddns.net:4055/rtp/232.84.2.39:10642
+
+#EXTINF:-1,VTC9
+http://trongftp.ddns.net:4055/rtp/232.84.1.59:8334
+
+#EXTINF:-1,VTC10
+http://trongftp.ddns.net:4055/rtp/232.84.1.214:9258
+
+#EXTINF:-1,VTC11
+http://trongftp.ddns.net:4055/rtp/232.84.1.61:8340
+
+#EXTINF:-1,VTC12
+http://trongftp.ddns.net:4055/rtp/232.84.3.193:11080
+
+#EXTINF:-1,VTC13
+http://trongftp.ddns.net:4055/rtp/232.84.1.62:8346
+
+#EXTINF:-1,VTC14
+http://trongftp.ddns.net:4055/rtp/232.84.1.216:9270
+
+#EXTINF:-1,VTC16
+http://trongftp.ddns.net:4055/rtp/232.84.1.215:9264
+
+#---HTV HD
+
+#EXTINF:-1,HTV2 Vie Channel HD
+http://trongftp.ddns.net:4055/rtp/232.84.2.182:9306
+
+#EXTINF:-1,HTV7 HD 
+http://trongftp.ddns.net:4055/rtp/232.84.1.223:9312
+
+#EXTINF:-1,HTV9 HD
+http://trongftp.ddns.net:4055/rtp/232.84.1.224:9318
+
+#EXTINF:-1,HTVC Phim HD
+http://trongftp.ddns.net:4055/rtp/232.84.2.133:9594
+
+#EXTINF:-1,HTVC Phim HD
+http://trongftp.ddns.net:4055/rtp/232.84.3.118:9594
+
+#EXTINF:-1,Thuần Việt HD
+http://trongftp.ddns.net:4055/rtp/232.84.2.134:9600
+
+#---HTV SD---#
+
+#EXTINF:-1,HTV1
+http://trongftp.ddns.net:4055/rtp/232.84.1.35:8184
+
+#EXTINF:-1,HTV2 Vie Channel
+http://trongftp.ddns.net:4055/rtp/232.84.1.36:8190
+
+#EXTINF:-1,HTV3 Dreams TV
+http://trongftp.ddns.net:4055/rtp/232.84.1.104:8598
+
+#EXTINF:-1,HTV Keys
+http://trongftp.ddns.net:4055/rtp/232.84.1.25:8124
+
+#EXTINF:-1,HTV7
+http://trongftp.ddns.net:4055/rtp/232.84.1.21:8100
+
+#EXTINF:-1,HTV9
+http://trongftp.ddns.net:4055/rtp/232.84.1.31:8160
+
+#EXTINF:-1,HTV THỂ THAO
+http://trongftp.ddns.net:4055/rtp/232.84.1.24:8118
+
+#EXTINF:-1,HTVC Ca Nhạc
+http://trongftp.ddns.net:4055/rtp/232.84.1.126:8730
+
+#EXTINF:-1,HTVC Du Lịch và Cuộc Sống
+http://trongftp.ddns.net:4055/rtp/232.84.1.221:9300
+
+#EXTINF:-1,HTVC Gia Đình
+http://trongftp.ddns.net:4055/rtp/232.84.1.170:8994
+
+#EXTINF:-1,HTVC Phim
+http://trongftp.ddns.net:4055/rtp/232.84.1.105:8604
+
+#EXTINF:-1,HTVC Phụ Nữ
+http://trongftp.ddns.net:4055/rtp/232.84.1.127:8736
+
+#EXTINF:-1,HTVC Thuần Việt
+http://trongftp.ddns.net:4055/rtp/232.84.1.22:8106
+
+#---OTHER---#
+
+#EXTINF:-1,VOV TV
+http://trongftp.ddns.net:4055/rtp/232.84.1.46:8256
+
+#EXTINF:-1,Nhân Dân TV
+http://trongftp.ddns.net:4055/rtp/232.84.3.124:10822
+
+#EXTINF:-1,QUỐC HỘI
+http://trongftp.ddns.net:4055/rtp/232.84.1.234:10290
+
+#EXTINF:-1,QUỐC HỘI
+http://trongftp.ddns.net:4055/rtp/232.84.2.181:10290
+
+#EXTINF:-1,QPVN
+http://trongftp.ddns.net:4055/rtp/232.84.3.127:10816
+
+#EXTINF:-1,VNEWS 
+http://trongftp.ddns.net:4055/rtp/232.84.3.125:10434
+
+#EXTINF:-1,ANTV
+http://trongftp.ddns.net:4055/rtp/232.84.1.212:9246
+
+#EXTINF:-1,QPVN
+http://trongftp.ddns.net:4055/rtp/232.84.1.228:9342
+
+#EXTINF:-1,VNEWS
+http://trongftp.ddns.net:4055/rtp/232.84.1.52:8292
+
+#EXTINF:-1,HiTV
+http://trongftp.ddns.net:4055/rtp/232.84.1.55:8310
+
+#EXTINF:-1,SCTV8 VITV
+http://trongftp.ddns.net:4055/rtp/232.84.1.32:8166
+
+#---INTERNATIONAL---#
+
+#EXTINF:-1,MTV
+http://trongftp.ddns.net:4055/rtp/232.84.2.171:10834
+
+#EXTINF:-1,MTV
+http://trongftp.ddns.net:4055/rtp/232.84.3.107:10834
+
+#EXTINF:-1,MTV
+http://trongftp.ddns.net:4055/rtp/232.84.1.82:8466
+
+#EXTINF:-1,Animal Planet 
+http://trongftp.ddns.net:4055/rtp/232.84.3.139:10702
+
+#EXTINF:-1,Asian Food Network 
+http://trongftp.ddns.net:4055/rtp/232.84.2.129:9570
+
+#EXTINF:-1,AXN
+http://trongftp.ddns.net:4055/rtp/232.84.3.121:10660
+
+#EXTINF:-1,Baby TV 
+http://trongftp.ddns.net:4055/rtp/232.84.2.36:10624
+
+#EXTINF:-1,Baby TV 
+http://trongftp.ddns.net:4055/rtp/232.84.3.128:10624
+
+#EXTINF:-1,Bloomberg 
+http://trongftp.ddns.net:4055/rtp/232.84.3.157:10696
+
+#EXTINF:-1,Cartoon Network
+http://trongftp.ddns.net:4055/rtp/232.84.2.144:10684
+
+#EXTINF:-1,[V] HD 
+http://trongftp.ddns.net:4055/rtp/232.84.2.132:9588
+
+#EXTINF:-1,[V] HD 
+http://trongftp.ddns.net:4055/rtp/232.84.3.144:9588
+
+#EXTINF:-1,CINEMAX
+http://trongftp.ddns.net:4055/rtp/232.84.2.139:10654
+
+#EXTINF:-1,CINEMAX
+http://trongftp.ddns.net:4055/rtp/232.84.3.117:10654
+
+#EXTINF:-1,Clubbing TV
+http://trongftp.ddns.net:4055/rtp/232.84.3.194:11086
+
+#EXTINF:-1,CNA 
+http://trongftp.ddns.net:4055/rtp/232.84.2.55:10540
+
+#EXTINF:-1,CNA 
+http://trongftp.ddns.net:4055/rtp/232.84.3.155:10540
+
+#EXTINF:-1,CNN
+http://trongftp.ddns.net:4055/rtp/232.84.3.153:10690
+
+#EXTINF:-1,Da Vinci
+http://trongftp.ddns.net:4055/rtp/232.84.2.131:9582
+
+#EXTINF:-1,Discovery Channel
+http://trongftp.ddns.net:4055/rtp/232.84.2.53:10528
+
+#EXTINF:-1,Discovery Channel
+http://trongftp.ddns.net:4055/rtp/232.84.3.132:10528
+
+#EXTINF:-1,Disney Channel
+http://trongftp.ddns.net:4055/rtp/232.84.2.143:10678
+
+#EXTINF:-1,Disney Junior|
+http://trongftp.ddns.net:4055/rtp/232.84.3.200:11122
+
+#EXTINF:-1,DW (English)
+http://trongftp.ddns.net:4055/rtp/232.84.2.233:10416
+
+#EXTINF:-1,DW (English)
+http://trongftp.ddns.net:4055/rtp/232.84.3.154:10416
+
+#EXTINF:-1,Fashion TV 
+http://trongftp.ddns.net:4055/rtp/232.84.2.52:10522
+
+#EXTINF:-1,Fashion TV 
+http://trongftp.ddns.net:4055/rtp/232.84.3.149:10522
+
+#EXTINF:-1,FOX HD|
+http://trongftp.ddns.net:4055/rtp/232.84.2.120:8448
+
+#EXTINF:-1,FOX Family Movies|
+http://trongftp.ddns.net:4055/rtp/232.84.3.214:11206
+
+#EXTINF:-1,FOX LIFE 
+http://trongftp.ddns.net:4055/rtp/232.84.1.78:8442
+
+#EXTINF:-1,FOX MOVIES
+http://trongftp.ddns.net:4055/rtp/232.84.1.77:8436
+
+#EXTINF:-1,FOX SPORTS
+http://trongftp.ddns.net:4055/rtp/232.84.2.141:10666
+
+#EXTINF:-1,FOX SPORTS 2
+http://trongftp.ddns.net:4055/rtp/232.84.2.142:10672
+
+#EXTINF:-1,FOX SPORTS
+http://trongftp.ddns.net:4055/rtp/232.84.3.111:10666
+
+#EXTINF:-1,FOX SPORTS 2
+http://trongftp.ddns.net:4055/rtp/232.84.3.129:10672
+
+#EXTINF:-1,HBO
+http://trongftp.ddns.net:4055/rtp/232.84.2.138:10648
+
+#EXTINF:-1,HBO
+http://trongftp.ddns.net:4055/rtp/232.84.3.101:10648
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD 
+http://trongftp.ddns.net:4055/rtp/232.84.1.1:7980
+
+#EXTINF:-1,NAT GEO PEOPLE|
+http://trongftp.ddns.net:4055/rtp/232.84.1.76:8430
+
+#EXTINF:-1,NAT GEO WILD|
+http://trongftp.ddns.net:4055/rtp/232.84.2.123:8454
+
+#EXTINF:-1,NHK WORLD JAPAN
+http://trongftp.ddns.net:4055/rtp/232.84.1.72:8406
+
+#EXTINF:-1,Outdoor Channel 
+http://trongftp.ddns.net:4055/rtp/232.84.1.107:10218
+
+#EXTINF:-1,RED BY HBO 
+http://trongftp.ddns.net:4055/rtp/232.84.2.172:10840
+
+#EXTINF:-1,RED BY HBO 
+http://trongftp.ddns.net:4055/rtp/232.84.3.103:10840
+
+#EXTINF:-1,TLC
+http://trongftp.ddns.net:4055/rtp/232.84.3.156:10708
+
+#EXTINF:-1,TVE 
+http://trongftp.ddns.net:4055/rtp/232.84.3.205:11152
+
+#EXTINF:-1,WBTV
+http://trongftp.ddns.net:4055/rtp/232.84.2.51:10516
+
+#EXTINF:-1,WBTV
+http://trongftp.ddns.net:4055/rtp/232.84.3.114:10516
+
+#EXTINF:-1,Aljazeera
+http://trongftp.ddns.net:4055/rtp/232.84.3.206:11158
+
+#EXTINF:-1,Animal Planet
+http://trongftp.ddns.net:4055/rtp/232.84.1.48:8268
+
+#EXTINF:-1,Arirang
+http://trongftp.ddns.net:4055/rtp/232.84.1.43:8238
+
+#EXTINF:-1,Asian Food Network
+http://trongftp.ddns.net:4055/rtp/232.84.1.115:10236
+
+#EXTINF:-1,ABC AUSTRALIA
+http://trongftp.ddns.net:4055/rtp/232.84.2.244:10482
+
+#EXTINF:-1,ABC AUSTRALIA
+http://trongftp.ddns.net:4055/rtp/232.84.3.131:10482
+
+#EXTINF:-1,AXN
+http://trongftp.ddns.net:4055/rtp/232.84.1.14:8058
+
+#EXTINF:-1,BBC WORLD NEWS
+http://trongftp.ddns.net:4055/rtp/232.84.2.239:10452
+
+#EXTINF:-1,Bloomberg
+http://trongftp.ddns.net:4055/rtp/232.84.1.7:8016
+
+#EXTINF:-1,Cartoon Network
+http://trongftp.ddns.net:4055/rtp/232.84.1.16:8070
+
+#EXTINF:-1,CCTV2
+http://trongftp.ddns.net:4055/rtp/232.84.2.240:10458
+
+#EXTINF:-1,CCTV2
+http://trongftp.ddns.net:4055/rtp/232.84.3.166:10458
+
+#EXTINF:-1,CCTV4
+http://trongftp.ddns.net:4055/rtp/232.84.3.183:11020
+
+#EXTINF:-1,CCTV7
+http://trongftp.ddns.net:4055/rtp/232.84.3.184:11026
+
+#EXTINF:-1,CCTV10
+http://trongftp.ddns.net:4055/rtp/232.84.2.170:10828
+
+#EXTINF:-1,CCTV10
+http://trongftp.ddns.net:4055/rtp/232.84.3.159:10828
+
+#EXTINF:-1,CCTV12
+http://trongftp.ddns.net:4055/rtp/232.84.3.180:11002
+
+#EXTINF:-1,CCTV14
+http://trongftp.ddns.net:4055/rtp/232.84.3.182:11014
+
+#EXTINF:-1,CCTV15
+http://trongftp.ddns.net:4055/rtp/232.84.3.181:11008
+
+#EXTINF:-1,[V]
+http://trongftp.ddns.net:4055/rtp/232.84.1.13:8052
+
+#EXTINF:-1,CINEMAX
+http://trongftp.ddns.net:4055/rtp/232.84.1.20:8094
+
+#EXTINF:-1,CNA
+http://trongftp.ddns.net:4055/rtp/232.84.1.5:8004
+
+#EXTINF:-1,CNBC
+http://trongftp.ddns.net:4055/rtp/232.84.3.179:10488
+
+#EXTINF:-1,CNN
+http://trongftp.ddns.net:4055/rtp/232.84.2.126:8076
+
+#EXTINF:-1,Da Vinci
+http://trongftp.ddns.net:4055/rtp/232.84.1.108:10224
+
+#EXTINF:-1,Discovery Channel
+http://trongftp.ddns.net:4055/rtp/232.84.1.47:8262
+
+#EXTINF:-1,Disney Channel
+http://trongftp.ddns.net:4055/rtp/232.84.1.18:8082
+
+#EXTINF:-1,Disney Junior
+http://trongftp.ddns.net:4055/rtp/232.84.1.90:10398
+
+#EXTINF:-1,Dragon TV (Chinese)
+http://trongftp.ddns.net:4055/rtp/232.84.3.185:11032
+
+#EXTINF:-1,DW (English)
+http://trongftp.ddns.net:4055/rtp/232.84.1.6:8010
+
+#EXTINF:-1,DW (Deutsch)
+http://trongftp.ddns.net:4055/rtp/232.84.3.168:10428
+
+#EXTINF:-1,Fashion TV
+http://trongftp.ddns.net:4055/rtp/232.84.1.2:7986
+
+#EXTINF:-1,Filmy
+http://trongftp.ddns.net:4055/rtp/232.84.3.210:11182
+
+#EXTINF:-1,FOX
+http://trongftp.ddns.net:4055/rtp/232.84.1.66:8370
+
+#EXTINF:-1,FOX Family Movies
+http://trongftp.ddns.net:4055/rtp/232.84.3.215:11212
+
+#EXTINF:-1,FOX LIFE
+http://trongftp.ddns.net:4055/rtp/232.84.2.119:8382
+
+#EXTINF:-1,FOX MOVIES
+http://trongftp.ddns.net:4055/rtp/232.84.1.10:8034
+
+#EXTINF:-1,FOX SPORTS
+http://trongftp.ddns.net:4055/rtp/232.84.1.11:8040
+
+#EXTINF:-1,FOX SPORTS 2
+http://trongftp.ddns.net:4055/rtp/232.84.1.12:8046
+
+#EXTINF:-1,FRANCE 24 (English)
+http://trongftp.ddns.net:4055/rtp/232.84.2.135:9606
+
+#EXTINF:-1,FRANCE 24 (English)
+http://trongftp.ddns.net:4055/rtp/232.84.3.145:9606
+
+#EXTINF:-1,FRANCE 24 (Francais)
+http://trongftp.ddns.net:4055/rtp/232.84.3.207:11164
+
+#EXTINF:-1,HBO
+http://trongftp.ddns.net:4055/rtp/232.84.1.19:8088
+
+#EXTINF:-1,Hunan (Chinese)
+http://trongftp.ddns.net:4055/rtp/232.84.3.188:11050
+
+#EXTINF:-1,KBS WORLD
+http://trongftp.ddns.net:4055/rtp/232.84.2.136:9612
+
+#EXTINF:-1,MSTV
+http://trongftp.ddns.net:4055/rtp/232.84.3.192:11074
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://trongftp.ddns.net:4055/rtp/232.84.2.122:8364
+
+#EXTINF:-1,NAT GEO PEOPLE
+http://trongftp.ddns.net:4055/rtp/232.84.3.162:8376
+
+#EXTINF:-1,NHK WORLD JAPAN
+http://trongftp.ddns.net:4055/rtp/232.84.1.8:8022
+
+#EXTINF:-1,NHK Premium
+http://trongftp.ddns.net:4055/rtp/232.84.3.172:10494
+
+#EXTINF:-1,OPT1
+http://trongftp.ddns.net:4055/rtp/232.84.2.128:8352
+
+#EXTINF:-1,Phoenix
+http://trongftp.ddns.net:4055/rtp/232.84.3.191:11068
+
+#EXTINF:-1,Phoenix Infonews
+http://trongftp.ddns.net:4055/rtp/232.84.3.190:11062
+
+#EXTINF:-1,Россия PTP
+http://trongftp.ddns.net:4055/rtp/232.84.2.127:8544
+
+#EXTINF:-1,Rai Italia
+http://trongftp.ddns.net:4055/rtp/232.84.2.124:8358
+
+#EXTINF:-1,Cinema Wolrd
+http://trongftp.ddns.net:4055/rtp/232.84.1.44:8244
+
+#EXTINF:-1,Russia Today
+http://trongftp.ddns.net:4055/rtp/232.84.2.125:8538
+
+#EXTINF:-1,Sahara One
+http://trongftp.ddns.net:4055/rtp/232.84.3.209:11176
+
+#EXTINF:-1,Shenzhen Satellite TV
+http://trongftp.ddns.net:4055/rtp/232.84.3.186:11038
+
+#EXTINF:-1,TLC
+http://trongftp.ddns.net:4055/rtp/232.84.1.49:8274
+
+#EXTINF:-1,TV5 MONDE ASIE
+http://trongftp.ddns.net:4055/rtp/232.84.1.45:8250
+
+#EXTINF:-1,WBTV
+http://trongftp.ddns.net:4055/rtp/232.84.1.91:10404
+
+#EXTINF:-1,Xing Kong (Chinese)
+http://trongftp.ddns.net:4055/rtp/232.84.3.189:11056
+
+#EXTINF:-1,Youman (Chinese)
+http://trongftp.ddns.net:4055/rtp/232.84.3.187:11044
+
+#EXTINF:-1,YTN
+http://trongftp.ddns.net:4055/rtp/232.84.3.208:11170
+
+#---LOCAL HD---#
+
+#EXTINF:-1,HBTV HD|TH Hòa Bình
+http://trongftp.ddns.net:4055/rtp/232.84.3.213:11200
+
+#EXTINF:-1,TN1 HD|TH Thái Nguyên 
+http://trongftp.ddns.net:4055/rtp/232.84.3.146:10774
+
+#EXTINF:-1,PTV HD|TH Phú Thọ
+http://trongftp.ddns.net:4055/rtp/232.84.3.148:10792
+
+#EXTINF:-1,CRTV HD|TH Cao Bằng
+http://trongftp.ddns.net:4055/rtp/232.84.3.202:11134
+
+#EXTINF:-1,LSTV HD|TH Lạng Sơn
+http://trongftp.ddns.net:4055/rtp/232.84.3.203:11140
+
+#EXTINF:-1,QTV1 HD|TH Quảng Ninh 
+http://trongftp.ddns.net:4055/rtp/232.84.1.248:10978
+
+#EXTINF:-1,QTV3 HD|TH Quảng Ninh 
+http://trongftp.ddns.net:4055/rtp/232.84.1.249:10984
+
+#EXTINF:-1,BTV|TH Bắc Ninh
+http://trongftp.ddns.net:4055/rtp/232.84.2.245:10506
+
+#EXTINF:-1,H1 HD|TH Hà Nội 
+http://trongftp.ddns.net:4055/rtp/232.84.3.143:10738
+
+#EXTINF:-1,H2 HD_ TH Hà Nội 
+http://trongftp.ddns.net:4055/rtp/232.84.3.137:10744
+
+#EXTINF:-1,THP HD|TH TP. Hải Phòng 
+http://trongftp.ddns.net:4055/rtp/232.84.3.142:10780
+
+#EXTINF:-1,HY HD|TH Hưng Yên 
+http://trongftp.ddns.net:4055/rtp/232.84.3.110:10786
+
+#EXTINF:-1,TTV HD|TH Thanh Hóa 
+http://trongftp.ddns.net:4055/rtp/232.84.3.198:11110
+
+#EXTINF:-1,NTV HD|TH Nghệ An 
+http://trongftp.ddns.net:4055/rtp/232.84.2.198:10972
+
+#EXTINF:-1,HTTV HD|TH Hà Tĩnh 
+http://trongftp.ddns.net:4055/rtp/232.84.3.134:10768
+
+#EXTINF:-1,PTQ|TH Quảng Ngãi
+http://trongftp.ddns.net:4055/rtp/232.84.3.126:10798
+
+#EXTINF:-1,BTV1 HD|TH Bình Dương 
+http://trongftp.ddns.net:4055/rtp/232.84.3.109:10750
+
+#EXTINF:-1,BTV4 HD|TH Bình Dương 
+http://trongftp.ddns.net:4055/rtp/232.84.2.156:10756
+
+#EXTINF:-1,BTV9 An Viên HD
+http://trongftp.ddns.net:4055/rtp/232.84.3.199:11116
+
+#EXTINF:-1,ĐNRTV1 HD|TH Đồng Nai
+http://trongftp.ddns.net:4055/rtp/232.84.3.112:10762
+
+#EXTINF:-1,THTG HD|TH Tiền Giang
+http://trongftp.ddns.net:4055/rtp/232.84.3.204:11146
+
+#EXTINF:-1,THVL1 HD|TH Vĩnh Long 
+http://trongftp.ddns.net:4055/rtp/232.84.2.183:10882
+
+#EXTINF:-1,THVL2 HD|TH Vĩnh Long 
+http://trongftp.ddns.net:4055/rtp/232.84.2.184:10888
+
+#EXTINF:-1,THVL1 HD|TH Vĩnh Long 
+http://trongftp.ddns.net:4055/rtp/232.84.3.152:10882
+
+#EXTINF:-1,THVL2 HD|TH Vĩnh Long 
+http://trongftp.ddns.net:4055/rtp/232.84.3.164:10888
+
+#EXTINF:-1,THVL3 HD|TH Vĩnh Long 
+http://trongftp.ddns.net:4055/rtp/232.84.3.165:10900
+
+#EXTINF:-1,THVL4 HD|TH Vĩnh Long
+http://trongftp.ddns.net:4055/rtp/232.84.3.160:10912
+
+#---LOCAL SD---#
+
+#EXTINF:-1,KG|TH Kiên Giang
+http://trongftp.ddns.net:4055/rtp/232.84.3.161:10918
+
+#EXTINF:-1,THLC|TH Lào Cai
+http://trongftp.ddns.net:4055/rtp/232.84.2.93:8718
+
+#EXTINF:-1,YTV|TH Yên Bái
+http://trongftp.ddns.net:4055/rtp/232.84.2.75:9162
+
+#EXTINF:-1,ĐTV|TH Điện Biên
+http://trongftp.ddns.net:4055/rtp/232.84.3.116:8880
+
+#EXTINF:-1,HBTV|TH Hòa Bình
+http://trongftp.ddns.net:4055/rtp/232.84.3.130:8946
+
+#EXTINF:-1,LTV|TH Lai Châu
+http://trongftp.ddns.net:4055/rtp/232.84.3.133:9174
+
+#EXTINF:-1,STV|TH Sơn La
+http://trongftp.ddns.net:4055/rtp/232.84.1.184:9078
+
+#EXTINF:-1,HGTV|TH Hà Giang
+http://trongftp.ddns.net:4055/rtp/232.84.2.85:8910
+
+#EXTINF:-1,CRTV|TH Cao Bằng
+http://trongftp.ddns.net:4055/rtp/232.84.2.109:8844
+
+#EXTINF:-1,TBK|TH Bắc Kạn
+http://trongftp.ddns.net:4055/rtp/232.84.2.92:8760
+
+#EXTINF:-1,LSTV|TH Lạng Sơn
+http://trongftp.ddns.net:4055/rtp/232.84.2.107:8646
+
+#EXTINF:-1,TTV|TH Tuyên Quang
+http://trongftp.ddns.net:4055/rtp/232.84.2.91:9138
+
+#EXTINF:-1,TN1|TH Thái Nguyên
+http://trongftp.ddns.net:4055/rtp/232.84.2.87:9096
+
+#EXTINF:-1,TN2|TH Thái Nguyên
+http://trongftp.ddns.net:4055/rtp/232.84.3.123:9168
+
+#EXTINF:-1,PTV|TH Phú Thọ
+http://trongftp.ddns.net:4055/rtp/232.84.2.95:9030
+
+#EXTINF:-1,BGTV|TH Bắc Giang
+http://trongftp.ddns.net:4055/rtp/232.84.2.89:8754
+
+#EXTINF:-1,QTV1|TH Quảng Ninh
+http://trongftp.ddns.net:4055/rtp/232.84.3.105:9060
+
+#EXTINF:-1,BTV|TH Bắc Ninh
+http://trongftp.ddns.net:4055/rtp/232.84.1.133:8772
+
+#EXTINF:-1,THHN|TH Hà Nam
+http://trongftp.ddns.net:4055/rtp/232.84.2.82:8916
+
+#EXTINF:-1,H1|TH Hà Nội
+http://trongftp.ddns.net:4055/rtp/232.84.1.29:8148
+
+#EXTINF:-1,H2|TH Hà Nội
+http://trongftp.ddns.net:4055/rtp/232.84.1.23:8112
+
+#EXTINF:-1,THD|TH Hải Dương
+http://trongftp.ddns.net:4055/rtp/232.84.2.79:8928
+
+#EXTINF:-1,THD|TH Hải Dương
+http://trongftp.ddns.net:4055/rtp/232.84.3.113:8928
+
+#EXTINF:-1,THP|TH TP. Hải Phòng
+http://trongftp.ddns.net:4055/rtp/232.84.2.104:8934
+
+#EXTINF:-1,HY|TH Hưng Yên
+http://trongftp.ddns.net:4055/rtp/232.84.2.84:8952
+
+#EXTINF:-1,NTV|TH Nam Định
+http://trongftp.ddns.net:4055/rtp/232.84.3.119:9006
+
+#EXTINF:-1,NTV|TH Ninh Bình
+http://trongftp.ddns.net:4055/rtp/232.84.2.80:9018
+
+#EXTINF:-1,TBTV|TH Thái Bình
+http://trongftp.ddns.net:4055/rtp/232.84.2.100:9090
+
+#EXTINF:-1,VP|TH Vĩnh Phúc
+http://trongftp.ddns.net:4055/rtp/232.84.2.83:9156
+
+#EXTINF:-1,TTV|TH Thanh Hóa
+http://trongftp.ddns.net:4055/rtp/232.84.2.111:9102
+
+#EXTINF:-1,NTV|TH Nghệ An
+http://trongftp.ddns.net:4055/rtp/232.84.2.101:9012
+
+#EXTINF:-1,HTTV|TH Hà Tĩnh
+http://trongftp.ddns.net:4055/rtp/232.84.2.96:8922
+
+#EXTINF:-1,QBTV|TH Quảng Bình
+http://trongftp.ddns.net:4055/rtp/232.84.2.98:9042
+
+#EXTINF:-1,QRTV|TH Quảng Trị
+http://trongftp.ddns.net:4055/rtp/232.84.2.105:9066
+
+#EXTINF:-1,TRT|TH Thừa Thiên Huế
+http://trongftp.ddns.net:4055/rtp/232.84.2.106:9120
+
+#EXTINF:-1,DaNangTV1|TH TP. Đà Nẵng
+http://trongftp.ddns.net:4055/rtp/232.84.1.146:8850
+
+#EXTINF:-1,DaNangTV2|TH TP. Đà Nẵng
+http://trongftp.ddns.net:4055/rtp/232.84.3.122:8856
+
+#EXTINF:-1,QRT|TH Quảng Nam
+http://trongftp.ddns.net:4055/rtp/232.84.2.81:9048
+
+#EXTINF:-1,PTQ|TH Quảng Ngãi
+http://trongftp.ddns.net:4055/rtp/232.84.2.108:9054
+
+#EXTINF:-1,BTV|TH Bình Định
+http://trongftp.ddns.net:4055/rtp/232.84.2.88:8784
+
+#EXTINF:-1,PTP|TH Phú Yên
+http://trongftp.ddns.net:4055/rtp/232.84.3.108:10362
+
+#EXTINF:-1,KTV|TH Khánh Hòa
+http://trongftp.ddns.net:4055/rtp/232.84.2.99:8958
+
+#EXTINF:-1,NTV|TH Ninh Thuận
+http://trongftp.ddns.net:4055/rtp/232.84.2.74:9024
+
+#EXTINF:-1,BTV|TH Bình Thuận
+http://trongftp.ddns.net:4055/rtp/232.84.2.77:8820
+
+#EXTINF:-1,KRT|TH Kon Tum
+http://trongftp.ddns.net:4055/rtp/232.84.3.115:8970
+
+#EXTINF:-1,THGL|TH Gia Lai
+http://trongftp.ddns.net:4055/rtp/232.84.3.138:8904
+
+#EXTINF:-1,DRT|TH Đắk Lắk
+http://trongftp.ddns.net:4055/rtp/232.84.1.149:8868
+
+#EXTINF:-1,PTD|TH Đắk Nông
+http://trongftp.ddns.net:4055/rtp/232.84.3.140:8874
+
+#EXTINF:-1,LTV|TH Lâm Đồng
+http://trongftp.ddns.net:4055/rtp/232.84.2.78:8976
+
+#EXTINF:-1,BPTV1|TH Bình Phước
+http://trongftp.ddns.net:4055/rtp/232.84.2.90:8814
+
+#EXTINF:-1,BTV1|TH Bình Dương
+http://trongftp.ddns.net:4055/rtp/232.84.1.136:8790
+
+#EXTINF:-1,BTV2|TH Bình Dương
+http://trongftp.ddns.net:4055/rtp/232.84.1.137:8796
+
+#EXTINF:-1,BTV4|TH Bình Dương
+http://trongftp.ddns.net:4055/rtp/232.84.1.139:8808
+
+#EXTINF:-1,ĐNRTV1|TH Đồng Nai
+http://trongftp.ddns.net:4055/rtp/232.84.1.152:8886
+
+#EXTINF:-1,ĐNRTV2|TH Đồng Nai
+http://trongftp.ddns.net:4055/rtp/232.84.1.153:8892
+
+#EXTINF:-1,TTV11|TH Tây Ninh
+http://trongftp.ddns.net:4055/rtp/232.84.2.97:9084
+
+#EXTINF:-1,BRT|TH Bà Rịa Vũng Tàu
+http://trongftp.ddns.net:4055/rtp/232.84.2.73:8748
+
+#EXTINF:-1,LA34|TH Long An
+http://trongftp.ddns.net:4055/rtp/232.84.1.171:9000
+
+#EXTINF:-1,THĐT1|TH Đồng Tháp
+http://trongftp.ddns.net:4055/rtp/232.84.1.154:8898
+
+#EXTINF:-1,THTG|TH Tiền Giang
+http://trongftp.ddns.net:4055/rtp/232.84.1.189:9108
+
+#EXTINF:-1,ATV|TH An Giang
+http://trongftp.ddns.net:4055/rtp/232.84.2.110:8742
+
+#EXTINF:-1,THBT|TH Bến Tre
+http://trongftp.ddns.net:4055/rtp/232.84.2.115:8778
+
+#EXTINF:-1,THVL1|TH Vĩnh Long
+http://trongftp.ddns.net:4055/rtp/232.84.1.195:9144
+
+#EXTINF:-1,THVL2|TH Vĩnh Long
+http://trongftp.ddns.net:4055/rtp/232.84.1.196:9150
+
+#EXTINF:-1,THVL3|TH Vĩnh Long
+http://trongftp.ddns.net:4055/rtp/232.84.3.151:10894
+
+#EXTINF:-1,THVL4|TH Vĩnh Long
+http://trongftp.ddns.net:4055/rtp/232.84.3.150:10906
+
+#EXTINF:-1,THTV|TH Trà Vinh
+http://trongftp.ddns.net:4055/rtp/232.84.2.102:9114
+
+#EXTINF:-1,HGTV|TH Hậu Giang
+http://trongftp.ddns.net:4055/rtp/232.84.2.112:8940
+
+#EXTINF:-1,KG|TH Kiên Giang
+http://trongftp.ddns.net:4055/rtp/232.84.2.113:8964
+
+#EXTINF:-1,STV1|TH Sóc Trăng
+http://trongftp.ddns.net:4055/rtp/232.84.2.103:9072
+
+#EXTINF:-1,BLTV|TH Bạc Liêu
+http://trongftp.ddns.net:4055/rtp/232.84.2.116:8766
+
+#EXTINF:-1,CTV|TH Cà Mau
+http://trongftp.ddns.net:4055/rtp/232.84.2.117:8826
+
+#EXTINF:-1,THTPCT|TH TP. Cần Thơ
+http://trongftp.ddns.net:4055/rtp/232.84.2.118:8838
+
+
+#EXTINF:-1,Feed Quốc Hội
+http://trongftp.ddns.net:4055/rtp/232.84.3.1:10278
+
+#EXTINF:-1,801
+http://trongftp.ddns.net:4055/rtp/232.84.2.175:10858
+
+#EXTINF:-1,802
+http://trongftp.ddns.net:4055/rtp/232.84.2.176:10864
+
+#EXTINF:-1,803
+http://trongftp.ddns.net:4055/rtp/232.84.2.195:10954
+
+#EXTINF:-1,804
+http://trongftp.ddns.net:4055/rtp/232.84.2.196:10960
+
+#EXTINF:-1,Mosaic 1
+http://trongftp.ddns.net:4055/rtp/232.84.3.174:9426
+
+#EXTINF:-1,Mosaic 2
+http://trongftp.ddns.net:4055/rtp/232.84.3.173:9432
+
+#EXTINF:-1,Meliã Hotels International
+http://trongftp.ddns.net:4055/rtp/232.84.2.54:10534
+
+#EXTINF:-1,Meliã Hotels International
+http://trongftp.ddns.net:4055/rtp/232.84.1.197:11080
+
+#EXTINF:-1,Vin Group 1
+http://trongftp.ddns.net:4055/rtp/232.84.1.159:10422
+
+#EXTINF:-1,Vin Group 2
+http://trongftp.ddns.net:4055/rtp/232.84.1.239:10302
+
+#EXTINF:-1,MyTV Giới Thiệu Chương Trình
+http://trongftp.ddns.net:4055/rtp/232.84.3.195:11092
+
+#EXTINF:-1,MyTV Giới Thiệu Chương Trình
+http://trongftp.ddns.net:4055/rtp/232.84.1.238:10296
+
+#EXTINF:-1,MyTV Giới Thiệu Dịch Vụ
+http://trongftp.ddns.net:4055/rtp/232.84.1.4:7998
+
+#EXTINF:-1,MyTV Quảng Cáo
+http://trongftp.ddns.net:4055/rtp/232.84.2.56:10546
+
+#EXTINF:-1,Unknown
+http://trongftp.ddns.net:4055/rtp/232.84.1.233:10284
+
+#EXTINF:-1,Unknown
+http://trongftp.ddns.net:4055/rtp/232.84.2.180:10338
+
+#EXTINF:-1,Unknown
+http://trongftp.ddns.net:4055/rtp/232.84.1.109:10230
+
+#EXTINF:-1,Unknown
+http://trongftp.ddns.net:4055/rtp/232.84.2.130:9576
+
+#EXTINF:-1,Unknown
+http://trongftp.ddns.net:4055/rtp/232.84.2.197:10966
+
+#EXTINF:-1,Unknown
+http://trongftp.ddns.net:4055/rtp/232.84.3.201:11128
+
+#EXTINF:-1,Unknown
+http://trongftp.ddns.net:4055/rtp/232.84.3.216:11218
+
+#EXTINF:-1,ĐNRTV9 Sky Shop
+http://trongftp.ddns.net:4055/rtp/232.84.3.135:10476
+
+#EXTINF:-1,VTVcab11 GS Shop
+http://trongftp.ddns.net:4055/rtp/232.84.1.229:9348
+
+#EXTINF:-1,VTVcab13 VTV Hyundai Homeshopping
+http://trongftp.ddns.net:4055/rtp/232.84.1.142:10386
+
+#EXTINF:-1,VTVcab3 Thể Thao TV HD (DRM)
+http://trongftp.ddns.net:4055/rtp/232.84.1.207:9216
+
+#EXTINF:-1,VTVcab16 Bóng Đá TV HD (DRM)
+http://trongftp.ddns.net:4055/rtp/232.84.1.210:9234
+
+#EXTINF:-1,VTVcab 18 THỂ THAO TIN TỨC HD (DRM)
+http://trongftp.ddns.net:4055/rtp/232.84.2.193:10942
+
+#EXTINF:-1,VTVcab 23 GOLF TV HD
+http://trongftp.ddns.net:4055/rtp/232.84.2.246:10876
+
+#EXTINF:-1,VTVcab3 Thể Thao TV (DRM)
+http://trongftp.ddns.net:4055/rtp/232.84.1.208:9222
+
+#EXTINF:-1,VTVcab5 E Channel (DRM)
+http://trongftp.ddns.net:4055/rtp/232.84.1.193:9132
+
+#EXTINF:-1,VTVcab16 Bóng Đá TV (DRM)
+http://trongftp.ddns.net:4055/rtp/232.84.1.138:8802
+
+#EXTINF:-1,K+1 HD (DRM)
+http://trongftp.ddns.net:4055/rtp/232.84.1.122:10314
+
+#EXTINF:-1,K+NS HD (DRM)
+http://trongftp.ddns.net:4055/rtp/232.84.1.123:10320
+
+#EXTINF:-1,K+PM HD (DRM)
+http://trongftp.ddns.net:4055/rtp/232.84.1.125:10326
+
+#EXTINF:-1,K+PC HD (DRM)
+http://trongftp.ddns.net:4055/rtp/232.84.1.176:10374
+
+#EXTINF:-1,K+1 (DRM)
+http://trongftp.ddns.net:4055/rtp/232.84.1.96:8550
+
+#EXTINF:-1,K+NS (DRM)
+http://trongftp.ddns.net:4055/rtp/232.84.1.97:8556
+
+#EXTINF:-1,K+PM (DRM)
+http://trongftp.ddns.net:4055/rtp/232.84.1.98:8562
+
+#EXTINF:-1,K+PC (DRM)
+http://trongftp.ddns.net:4055/rtp/232.84.1.131:10368
