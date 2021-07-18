@@ -138,7 +138,7 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab20_SD_4/chunklist_b2692000.m3u8
 
 #EXTINF:0 tvg-id="vtvcab23hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab23hd.png",🇻🇳|VTVCab23 - GOLF TV
 #http://14.232.214.220:8888/udp/239.2.100.183:5000
-http://trongftp.ddns.net:4055/rtp/232.84.2.246:10876
+http://14.177.57.116:4025/rtp/232.84.2.246:10876
 
 #EXTM3U VTC
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/RSFtDPh/vtc1.jpg" group-title="🇻🇳|VTC",VTC1
@@ -378,13 +378,14 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0  tvg-id="hbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO
 http://203.162.123.178:8080/hbo/index.m3u8
-#http://trongftp.ddns.net:4055/rtp/232.84.2.138:10648
+#http://14.177.57.116:4025/rtp/232.84.2.138:10648
 
 #EXTINF:0  tvg-id="redbyhbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/S3LHf04.png",Red by HBO
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.44:8244
 
 #EXTINF:0  tvg-id="cinemaxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax
-http://trongftp.ddns.net:4055/rtp/232.84.2.139:10654
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+http://14.177.57.116:4025/rtp/232.84.2.139:10654
 
 #EXTINF:0 tvg-id="movieboxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/fSv164Q/box1.jpg",Box Movies 1
 http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/playlist.m3u8
@@ -406,7 +407,7 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://i.ibb.co/Q8P4H3Y/babytv.jpg" group-title="🌍|Quốc Tế",Baby TV
-http://trongftp.ddns.net:4055/rtp/232.84.2.36:10624
+http://14.177.57.116:4025/rtp/232.84.2.36:10624
 
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://i.ibb.co/30mwfjW/animax.png" group-title="🌍|Quốc Tế",Animax
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
@@ -425,10 +426,10 @@ http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 
 #EXTINF:0 tvg-id="disney" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png",Disney Channel
-http://trongftp.ddns.net:4055/rtp/232.84.2.143:10678
+http://14.177.57.116:4025/rtp/232.84.2.143:10678
 
 #EXTINF:0 tvg-id="disneyjunior" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/RC0yJqD/disneyjunior.png",Disney Junior
-http://trongftp.ddns.net:4055/rtp/232.84.1.90:10398
+http://14.177.57.116:4025/rtp/232.84.1.90:10398
 
 #EXTINF:0 tvg-id="happykids"  group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vXSWhQJ/hapyykids.jpg",Happy Kids
 http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist.m3u8
@@ -437,7 +438,7 @@ http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="ngphd" tvg-logo="https://imgur.com/u4sXnHf.png" group-title="🌍|Quốc Tế",Nat Geo People HD
-http://trongftp.ddns.net:4055/rtp/232.84.1.76:8430
+http://14.177.57.116:4025/rtp/232.84.1.76:8430
 
 #EXTINF:-1 tvg-id="ngchd" tvg-logo="https://i.imgur.com/cjx78kt.png" group-title="🌍|Quốc Tế",National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
@@ -458,7 +459,7 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/TvDzB1s/drfit.jpg" group-title="🌍|Quốc Tế",Dr Fit HD
-http://112.197.12.62/hls/drfit/index.m3u8
+#http://112.197.12.62/hls/drfit/index.m3u8
 
 #EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.imgur.com/amlBPub.png" group-title="🌍|Quốc Tế",TLC
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
@@ -533,16 +534,16 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0sWDyZ0/Asss1.png" group-title="🌍|Quốc Tế",ASSP1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0sWDyZ0/Asss1.png" group-title="🌍|Quốc Tế",Astro SuperSport 1
 http://3.0.20.58:8000/play/ASSP1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tCBSfhV/Asss2.png" group-title="🌍|Quốc Tế",ASSP2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCBSfhV/Asss2.png" group-title="🌍|Quốc Tế",Astro SuperSport 2
 http://3.0.20.58:8000/play/ASSP2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxzfbPJ/asss3.png" group-title="🌍|Quốc Tế",ASSP3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kxzfbPJ/asss3.png" group-title="🌍|Quốc Tế",Astro SuperSport 3
 http://3.0.20.58:8000/play/ASSP3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TmFQd5n/asss4.png" group-title="🌍|Quốc Tế",ASSP4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TmFQd5n/asss4.png" group-title="🌍|Quốc Tế",Astro SuperSport 4
 http://3.0.20.58:8000/play/ASSP4/index.m3u8
 
 #EXTINF:-1 tvg-id="fashion_tv" tvg-logo="https://i.imgur.com/Zyy11Cs.png" group-title="🌍|Quốc Tế",Fashion TV
@@ -555,10 +556,10 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 http://mika.vacovska.cf:1935/live/Woman.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="mtvhd" tvg-logo="https://i.imgur.com/gpWosop.png" group-title="🌍|Quốc Tế",MTV
-http://trongftp.ddns.net:4055/rtp/232.84.2.171:10834
+http://14.177.57.116:4025/rtp/232.84.2.171:10834
 
 #EXTINF:-1 tvg-id="boxmusichd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vcbB6qh/Musicbox.jpg",Music Box
-http://112.197.12.62/hls/boxmusic/index.m3u8
+#http://112.197.12.62/hls/boxmusic/index.m3u8
 
 #EXTINF:0 group-title="🌍|Quốc Tế" tvg-id="flixhd" tvg-logo="https://i.ibb.co/5M40xDk/flix.jpg",&Flix
 #EXTVLCOPT:http-user-agent="KupjTV"
