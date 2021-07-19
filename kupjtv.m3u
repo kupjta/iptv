@@ -116,13 +116,13 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab15_SD_4/chunklist_b2692000.m3u8
 #http://112.197.12.59/hls/vtvcab16/index.m3u8
 http://203.162.123.178:8080/vtvcab16/index.m3u8
 
+#EXTINF:0 tvg-id="vtvcab16hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/KWKLZFt/cab16.jpg",🇻🇳|VTVCab16 - Bóng đá TV HD
+http://hoaudp.vinaddns.com:9981/stream/channelid/1403634964?ticket=FD7395A75FB7D273472E8B0DCA60A874D4A0156D&profile=pass
+
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MDxj7xt/cab17.jpg",🇻🇳|VTVCab17 - Yeah1! TV
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab17_SD_4/chunklist_b2692000.m3u8 
 #http://112.197.12.59/hls/vtvcab17/index.m3u8
 #http://rglink.ml/vtvgo2.m3u8?id=195
-
-#EXTINF:0 tvg-id="vtvcab18hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab18hd.jpg",🇻🇳|VTVCab18 - Thể Thao - Tin Tức
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.2.193:10942
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/hLvZ22T/cab19.jpg",🇻🇳|VTVCab19 - Vie DRAMAS
 http://rglink.ml/vieon.m3u8?kenh=vie-dramas-hd
@@ -134,11 +134,14 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab20_SD_4/chunklist_b2692000.m3u8
 #http://112.197.12.59/hls/vtvcab20/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab21hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab21hd.jpg",🇻🇳|VTVCab21 - Bibi+
-#http://14.232.214.220:8888/udp/239.2.100.181:5000
+http://hoaudp.vinaddns.com:9981/stream/channelid/433135510?ticket=4BCEC96B54D18418D89E782A0DF9CF89184DEFFF&profile=pass
+
+#EXTINF:0 tvg-id="vtvcab22hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab21hd.jpg",🇻🇳|VTVCab22 - LIFE TV
+http://hoaudp.vinaddns.com:9981/stream/channelid/1084460604?ticket=70D2942F1939D37B99100D34AF2EEA844F06147A&profile=pass
 
 #EXTINF:0 tvg-id="vtvcab23hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab23hd.png",🇻🇳|VTVCab23 - GOLF TV
-#http://14.232.214.220:8888/udp/239.2.100.183:5000
-http://14.177.57.116:4025/rtp/232.84.2.246:10876
+http://hoaudp.vinaddns.com:9981/stream/channelid/1451337076?ticket=89C33563617E51BDAC082E42947385CB95834F2E&profile=pass
+#http://14.177.57.116:4025/rtp/232.84.2.246:10876
 
 #EXTM3U VTC
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/RSFtDPh/vtc1.jpg" group-title="🇻🇳|VTC",VTC1
@@ -380,8 +383,6 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 #http://203.162.123.178:8080/hbo/index.m3u8
 #http://14.177.57.116:4025/rtp/232.84.2.138:10648
 
-#EXTINF:0  tvg-id="redbyhbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/S3LHf04.png",Red by HBO
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.44:8244
 
 #EXTINF:0  tvg-id="cinemaxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
@@ -390,13 +391,15 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="movieboxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/fSv164Q/box1.jpg",Box Movies 1
 http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist.m3u8
 #http://mika.vacovska.cf:1935/live/BOX_MOVIE_HD.smil/chunklist_b4692000.m3u8
+#http://hoaudp.vinaddns.com:9981/stream/channelid/1007692616?ticket=19300FD3696F05B7EFB8B48120D0B3AA2B1B417F&profile=pass
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
 http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_w256598637_b4692000.m3u8
 #http://mika.vacovska.cf:1935/live/Hollywood.smil/chunklist.m3u8
+#http://hoaudp.vinaddns.com:9981/stream/channelid/1692147788?ticket=E7E0FF9A735D0C76A5405B037E8D0E63574B6E77&profile=pass
 
 #EXTINF:0 tvg-id="fxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/HBVBTSZ/fxhd.jpg",FX HD
-#http://103.216.122.72:8889/udp/225.0.2.89:5000
+http://hoaudp.vinaddns.com:9981/stream/channelid/2098459011?ticket=2DD3DDAA6B8BB03530A4D36FEDE02E68A124D20E&profile=pass
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="🌍|Quốc Tế",Cartoon Network
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
@@ -427,10 +430,12 @@ http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 
 #EXTINF:0 tvg-id="disney" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png",Disney Channel
-http://14.177.57.116:4025/rtp/232.84.2.143:10678
+http://hoaudp.vinaddns.com:9981/stream/channelid/1457486587?ticket=0E9BFE964F3EBB45CBE9D41E7C0FFDBB28D12129&profile=pass
+#http://14.177.57.116:4025/rtp/232.84.2.143:10678
 
 #EXTINF:0 tvg-id="disneyjunior" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/RC0yJqD/disneyjunior.png",Disney Junior
-http://14.177.57.116:4025/rtp/232.84.1.90:10398
+http://hoaudp.vinaddns.com:9981/stream/channelid/1715302249?ticket=7EBDD5265958B5929ABAA3E1A30236FE54CCDCC6&profile=pass
+#http://14.177.57.116:4025/rtp/232.84.1.90:10398
 
 #EXTINF:0 tvg-id="happykids"  group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vXSWhQJ/hapyykids.jpg",Happy Kids
 http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist.m3u8
@@ -459,8 +464,11 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/wwTUVYP.png" group-title="🌍|Quốc Tế",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="wakuwakujapan" tvg-logo="https://static.megavie.live/media/wakuwakujapan.jpg" group-title="🌍|Quốc Tế",WakuWaku Japan
-#http://tvonline.vn/channel/hits/?source=5
+#EXTINF:-1 tvg-id="drfit" tvg-logo="https://i.ibb.co/d7qWHVD/251.jpg" group-title="🌍|Quốc Tế",Dr Fit HD
+http://hoaudp.vinaddns.com:9981/stream/channelid/1296669314?ticket=7B11EAD4095377B97FBAE980BC861D6683A7CA0C&profile=pass
+
+#EXTINF:-1 tvg-id="historyhd" tvg-logo="https://i.ibb.co/vxd0zrw/history-hd.jpg" group-title="🌍|Quốc Tế",History HD
+http://hoaudp.vinaddns.com:9981/stream/channelid/1296669314?ticket=7B11EAD4095377B97FBAE980BC861D6683A7CA0C&profile=pass
 
 #EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.imgur.com/amlBPub.png" group-title="🌍|Quốc Tế",TLC
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
