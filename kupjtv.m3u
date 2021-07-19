@@ -386,7 +386,7 @@ http://203.162.123.178:8080/hbo/index.m3u8
 
 #EXTINF:0  tvg-id="cinemaxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-http://14.177.57.116:4025/rtp/232.84.2.139:10654
+#http://14.177.57.116:4025/rtp/232.84.2.139:10654
 
 #EXTINF:0 tvg-id="movieboxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/fSv164Q/box1.jpg",Box Movies 1
 http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/playlist.m3u8
@@ -459,8 +459,8 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/wwTUVYP.png" group-title="🌍|Quốc Tế",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/TvDzB1s/drfit.jpg" group-title="🌍|Quốc Tế",Dr Fit HD
-#http://112.197.12.62/hls/drfit/index.m3u8
+#EXTINF:-1 tvg-id="wakuwakujapan" tvg-logo="https://static.megavie.live/media/wakuwakujapan.jpg" group-title="🌍|Quốc Tế",WakuWaku Japan
+http://tvonline.vn/channel/hits/?source=5
 
 #EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.imgur.com/amlBPub.png" group-title="🌍|Quốc Tế",TLC
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
