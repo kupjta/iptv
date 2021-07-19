@@ -299,7 +299,7 @@ http://112.197.12.54/hls/sctv16/sd1/index.m3u8
 http://112.197.12.54/hls/sctv17/sd1/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/LY0CW6H/logo26072108-sctv18-hd.png",SCTV18 HD
-http://mikb.vacovska.cf:1935/elive1/SCTV18_HD_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks&coca
+http://mikb.vacovska.cf:1935/elive1/SCTV18_HD_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks
 #http://112.197.12.54/hls/sctv18/sd1/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv19hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/5TrWMKr/logo26072108-sctv19-hd.png",SCTV 19 | T Channel
@@ -385,7 +385,7 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 #http://thanhfpt.duckdns.org:4567/rtp/232.84.1.44:8244
 
 #EXTINF:0  tvg-id="cinemaxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #http://14.177.57.116:4025/rtp/232.84.2.139:10654
 
 #EXTINF:0 tvg-id="movieboxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/fSv164Q/box1.jpg",Box Movies 1
