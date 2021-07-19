@@ -354,7 +354,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="foxlifehd" tvg-logo="https://i.imgur.com/8COzEQg.png" group-title="🌍|Quốc Tế",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
-
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/z8Cm35k.png" group-title="🌍|Quốc Tế",Warner TV
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
 
@@ -389,11 +388,12 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #http://14.177.57.116:4025/rtp/232.84.2.139:10654
 
 #EXTINF:0 tvg-id="movieboxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/fSv164Q/box1.jpg",Box Movies 1
-http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/playlist.m3u8
+http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist.m3u8
 #http://mika.vacovska.cf:1935/live/BOX_MOVIE_HD.smil/chunklist_b4692000.m3u8
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
-http://mika.vacovska.cf:1935/live/Hollywood.smil/chunklist.m3u8
+http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_w256598637_b4692000.m3u8
+#http://mika.vacovska.cf:1935/live/Hollywood.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="fxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/HBVBTSZ/fxhd.jpg",FX HD
 #http://103.216.122.72:8889/udp/225.0.2.89:5000
@@ -554,10 +554,12 @@ https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="woman" tvg-logo="https://i.ibb.co/GTrnKhc/woman.jpg" group-title="🌍|Quốc Tế",Woman
-http://mika.vacovska.cf:1935/live/Woman.smil/chunklist.m3u8
+http://vtsstr1.tv24.vn:1935/live/Woman.smil/chunklist.m3u8
+#http://mika.vacovska.cf:1935/live/Woman.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="mtvhd" tvg-logo="https://i.imgur.com/gpWosop.png" group-title="🌍|Quốc Tế",MTV
-http://14.177.57.116:4025/rtp/232.84.2.171:10834
+https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist_b1596000.m3u8
+#http://14.177.57.116:4025/rtp/232.84.2.171:10834
 
 #EXTINF:-1 tvg-id="boxmusichd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vcbB6qh/Musicbox.jpg",Music Box
 #http://112.197.12.62/hls/boxmusic/index.m3u8
@@ -614,7 +616,8 @@ https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
 http://nex.xemtiviviet.com/next.php?id=52
 
 #EXTINF:-1 tvg-id="" group-title="🇻🇳|Kênh Khác" tvg-logo="https://i.ibb.co/fqgMpWb/hanoicab2-BEARTV.png",Hanoicab2 - YouTV
-http://nex.xemtiviviet.com/next.php?id=50
+https://live2cdn.todayplus.com.vn/sdb/smil:youtv.smil/chunklist_b1596000.m3u8
+#http://nex.xemtiviviet.com/next.php?id=50
 
 #EXTINF:-1 tvg-id="" group-title="🇻🇳|Kênh Khác" tvg-logo="https://i.ibb.co/T15XyG2/hanoicab4-BEARTV.png",Hanoicab4 - MOV
 http://nex.xemtiviviet.com/next.php?id=30
