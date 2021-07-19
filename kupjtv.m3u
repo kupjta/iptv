@@ -460,7 +460,7 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="wakuwakujapan" tvg-logo="https://static.megavie.live/media/wakuwakujapan.jpg" group-title="🌍|Quốc Tế",WakuWaku Japan
-http://tvonline.vn/channel/hits/?source=5
+#http://tvonline.vn/channel/hits/?source=5
 
 #EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.imgur.com/amlBPub.png" group-title="🌍|Quốc Tế",TLC
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
