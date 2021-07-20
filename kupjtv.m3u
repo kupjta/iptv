@@ -376,8 +376,8 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0  tvg-id="hbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO
-https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
-#http://203.162.123.178:8080/hbo/index.m3u8
+#https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
+http://203.162.123.178:8080/hbo/index.m3u8
 #http://14.177.57.116:4025/rtp/232.84.2.138:10648
 
 
@@ -396,7 +396,7 @@ http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_w256598637_b4692000.m3
 #http://hoaudp.vinaddns.com:9981/stream/channelid/1692147788?ticket=E7E0FF9A735D0C76A5405B037E8D0E63574B6E77&profile=pass
 
 #EXTINF:0 tvg-id="fxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/HBVBTSZ/fxhd.jpg",FX HD
-http://hoaudp.vinaddns.com:9981/stream/channelid/2098459011?ticket=2DD3DDAA6B8BB03530A4D36FEDE02E68A124D20E&profile=pass
+#http://hoaudp.vinaddns.com:9981/stream/channelid/2098459011?ticket=2DD3DDAA6B8BB03530A4D36FEDE02E68A124D20E&profile=pass
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="🌍|Quốc Tế",Cartoon Network
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
@@ -427,15 +427,16 @@ http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 
 #EXTINF:0 tvg-id="disney" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png",Disney Channel
-http://hoaudp.vinaddns.com:9981/stream/channelid/1457486587?ticket=0E9BFE964F3EBB45CBE9D41E7C0FFDBB28D12129&profile=pass
-#http://14.177.57.116:4025/rtp/232.84.2.143:10678
+#http://hoaudp.vinaddns.com:9981/stream/channelid/1457486587?ticket=0E9BFE964F3EBB45CBE9D41E7C0FFDBB28D12129&profile=pass
+http://14.177.57.116:4025/rtp/232.84.2.143:10678
 
 #EXTINF:0 tvg-id="disneyjunior" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/RC0yJqD/disneyjunior.png",Disney Junior
-http://hoaudp.vinaddns.com:9981/stream/channelid/1715302249?ticket=7EBDD5265958B5929ABAA3E1A30236FE54CCDCC6&profile=pass
-#http://14.177.57.116:4025/rtp/232.84.1.90:10398
+#http://hoaudp.vinaddns.com:9981/stream/channelid/1715302249?ticket=7EBDD5265958B5929ABAA3E1A30236FE54CCDCC6&profile=pass
+http://14.177.57.116:4025/rtp/232.84.1.90:10398
 
 #EXTINF:0 tvg-id="happykids"  group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vXSWhQJ/hapyykids.jpg",Happy Kids
-http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist.m3u8
+http://vtsstr1.tv24.vn:1935/live/Happy_Kids.smil/chunklist.m3u8
+#http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png" group-title="🌍|Quốc Tế",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
@@ -462,10 +463,10 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="drfit" tvg-logo="https://i.ibb.co/d7qWHVD/251.jpg" group-title="🌍|Quốc Tế",Dr Fit HD
-http://hoaudp.vinaddns.com:9981/stream/channelid/1296669314?ticket=7B11EAD4095377B97FBAE980BC861D6683A7CA0C&profile=pass
+#http://hoaudp.vinaddns.com:9981/stream/channelid/1296669314?ticket=7B11EAD4095377B97FBAE980BC861D6683A7CA0C&profile=pass
 
 #EXTINF:-1 tvg-id="historyhd" tvg-logo="https://i.ibb.co/vxd0zrw/history-hd.jpg" group-title="🌍|Quốc Tế",History HD
-http://hoaudp.vinaddns.com:9981/stream/channelid/1296669314?ticket=7B11EAD4095377B97FBAE980BC861D6683A7CA0C&profile=pass
+#http://hoaudp.vinaddns.com:9981/stream/channelid/1296669314?ticket=7B11EAD4095377B97FBAE980BC861D6683A7CA0C&profile=pass
 
 #EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.imgur.com/amlBPub.png" group-title="🌍|Quốc Tế",TLC
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
@@ -527,7 +528,8 @@ https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:0 tvg-id="planetearthhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/ZGBcMK2/panetearth.jpg",Planet Earth
-http://mika.vacovska.cf:1935/live/Planet_Earth.smil/chunklist.m3u8
+http://vtsstr1.tv24.vn:1935/live/Planet_Earth.smil/chunklist.m3u8
+#http://mika.vacovska.cf:1935/live/Planet_Earth.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="foxsportshd" tvg-logo="https://i.imgur.com/JsFd6Nl.png" group-title="🌍|Quốc Tế",Fox Sports
 #https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
@@ -570,18 +572,13 @@ https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist_b1596000.m3u8
 #http://112.197.12.62/hls/boxmusic/index.m3u8
 
 #EXTINF:0 group-title="🌍|Quốc Tế" tvg-id="flixhd" tvg-logo="https://i.ibb.co/5M40xDk/flix.jpg",&Flix
-#EXTVLCOPT:http-user-agent="KupjTV"
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:0 group-title="🌍|Quốc Tế" tvg-id="privehd" tvg-logo="https://i.ibb.co/M6pWKSB/prive.jpg",&Privé
-#EXTVLCOPT:http-user-agent="KupjTV"
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-id="hbohd-asia" group-title="🎬|HBO" tvg-logo="https://i.ibb.co/8zmMx6y/hbo.png",HBO (𝔸𝕤𝕚𝕒)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-
-#EXTINF:0 tvg-id="redbyhbohd-asia" group-title="🎬|HBO" tvg-logo="https://i.ibb.co/QCsP4jz/rebbyhbo.jpg",Red by HBO (𝔸𝕤𝕚𝕒)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 #EXTINF:0 tvg-id="cinemaxhd-asia" group-title="🎬|HBO" tvg-logo="https://i.ibb.co/Wx1sLCn/cinemax.png",Cinemax (𝔸𝕤𝕚𝕒)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
