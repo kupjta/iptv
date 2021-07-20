@@ -108,16 +108,13 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab12_SD_4/chunklist_b2692000.m3u8
 #http://112.197.12.59/hls/vtvcab12/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab15hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/tJDps6v/cab15.jpg",🇻🇳|VTVCab15 - M Channel
-#http://112.197.12.59/hls/vtvcab15/index.m3u8
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab15_SD_4/chunklist_b2692000.m3u8 
 
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/KWKLZFt/cab16.jpg",🇻🇳|VTVCab16 - Bóng đá TV
-#http://51.210.99.3:21585/vtvcab16/tracks-v1a1/mono.m3u8
-#http://112.197.12.59/hls/vtvcab16/index.m3u8
 http://203.162.123.178:8080/vtvcab16/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/KWKLZFt/cab16.jpg",🇻🇳|VTVCab16 - Bóng đá TV HD
-http://hoaudp.vinaddns.com:9981/stream/channelid/1403634964?ticket=FD7395A75FB7D273472E8B0DCA60A874D4A0156D&profile=pass
+#http://hoaudp.vinaddns.com:9981/stream/channelid/1403634964?ticket=FD7395A75FB7D273472E8B0DCA60A874D4A0156D&profile=pass
 
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MDxj7xt/cab17.jpg",🇻🇳|VTVCab17 - Yeah1! TV
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab17_SD_4/chunklist_b2692000.m3u8 
@@ -134,14 +131,14 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab20_SD_4/chunklist_b2692000.m3u8
 #http://112.197.12.59/hls/vtvcab20/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab21hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab21hd.jpg",🇻🇳|VTVCab21 - Bibi+
-http://hoaudp.vinaddns.com:9981/stream/channelid/433135510?ticket=4BCEC96B54D18418D89E782A0DF9CF89184DEFFF&profile=pass
+#http://hoaudp.vinaddns.com:9981/stream/channelid/433135510?ticket=4BCEC96B54D18418D89E782A0DF9CF89184DEFFF&profile=pass
 
 #EXTINF:0 tvg-id="vtvcab22hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab21hd.jpg",🇻🇳|VTVCab22 - LIFE TV
-http://hoaudp.vinaddns.com:9981/stream/channelid/1084460604?ticket=70D2942F1939D37B99100D34AF2EEA844F06147A&profile=pass
+#http://hoaudp.vinaddns.com:9981/stream/channelid/1084460604?ticket=70D2942F1939D37B99100D34AF2EEA844F06147A&profile=pass
 
 #EXTINF:0 tvg-id="vtvcab23hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab23hd.png",🇻🇳|VTVCab23 - GOLF TV
-http://hoaudp.vinaddns.com:9981/stream/channelid/1451337076?ticket=89C33563617E51BDAC082E42947385CB95834F2E&profile=pass
-#http://14.177.57.116:4025/rtp/232.84.2.246:10876
+#http://hoaudp.vinaddns.com:9981/stream/channelid/1451337076?ticket=89C33563617E51BDAC082E42947385CB95834F2E&profile=pass
+http://14.177.57.116:4025/rtp/232.84.2.246:10876
 
 #EXTM3U VTC
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/RSFtDPh/vtc1.jpg" group-title="🇻🇳|VTC",VTC1
@@ -222,7 +219,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://i.imgur.com/EAv5N7c.png" group-title="🇻🇳|HTV",HTVC Gia Đình
 #https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://i.imgur.com/pTuBwDS.png" group-title="🇻🇳|HTV",HTVC Phụ Nữ
 #https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
