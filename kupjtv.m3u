@@ -115,6 +115,7 @@ http://203.162.123.178:8080/vtvcab16/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/KWKLZFt/cab16.jpg",🇻🇳|VTVCab16 - Bóng đá TV HD
 #http://hoaudp.vinaddns.com:9981/stream/channelid/1403634964?ticket=FD7395A75FB7D273472E8B0DCA60A874D4A0156D&profile=pass
+http://hoaudp.vinaddns.com:9981/stream/channelid/2140454345?ticket=938369027A2B86BD2026B07F8EB0770068ADAE28&profile=pass
 
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MDxj7xt/cab17.jpg",🇻🇳|VTVCab17 - Yeah1! TV
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab17_SD_4/chunklist_b2692000.m3u8 
@@ -397,6 +398,7 @@ http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_w256598637_b4692000.m3
 
 #EXTINF:0 tvg-id="fxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/HBVBTSZ/fxhd.jpg",FX HD
 #http://hoaudp.vinaddns.com:9981/stream/channelid/2098459011?ticket=2DD3DDAA6B8BB03530A4D36FEDE02E68A124D20E&profile=pass
+http://hoaudp.vinaddns.com:9981/stream/channelid/1982213492?ticket=56F693C3D5EC30326E90FFC699C9D44DADCFF219&profile=pass
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="🌍|Quốc Tế",Cartoon Network
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
