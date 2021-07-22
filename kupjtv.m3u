@@ -462,7 +462,8 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="drfit" tvg-logo="https://i.ibb.co/d7qWHVD/251.jpg" group-title="🌍|Quốc Tế",Dr Fit HD
-http://hoaudp.vinaddns.com:9981/stream/channelid/80755753?ticket=1A1E66F506EA9C3FD4239ABA0F712E7E055C6B59&profile=pass
+http://112.197.12.59/hls/drfit/index.m3u8
+#http://hoaudp.vinaddns.com:9981/stream/channelid/80755753?ticket=1A1E66F506EA9C3FD4239ABA0F712E7E055C6B59&profile=pass
 
 #EXTINF:-1 tvg-id="historyhd" tvg-logo="https://i.ibb.co/vxd0zrw/history-hd.jpg" group-title="🌍|Quốc Tế",History HD
 http://hoaudp.vinaddns.com:9981/stream/channelid/686237770?ticket=2BD87BEE89248B046CE56E7F2200B385675EBA78&profile=pass
@@ -568,7 +569,7 @@ https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist_b1596000.m3u8
 #http://14.177.57.116:4025/rtp/232.84.2.171:10834
 
 #EXTINF:-1 tvg-id="boxmusichd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vcbB6qh/Musicbox.jpg",Music Box
-#http://112.197.12.62/hls/boxmusic/index.m3u8
+http://112.197.12.59/hls/boxmusic/index.m3u8
 
 #EXTINF:0 group-title="🌍|Quốc Tế" tvg-id="flixhd" tvg-logo="https://i.ibb.co/5M40xDk/flix.jpg",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
