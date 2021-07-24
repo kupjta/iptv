@@ -340,6 +340,7 @@ https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTM3U 🌍|Quốc Tế
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://i.imgur.com/5Gtp7WP.png" group-title="🌍|Quốc Tế",AXN
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
+#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="foxhd" tvg-logo="https://i.imgur.com/cwVCPqN.png" group-title="🌍|Quốc Tế",Fox HD
 #https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
@@ -355,9 +356,11 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="foxlifehd" tvg-logo="https://i.imgur.com/8COzEQg.png" group-title="🌍|Quốc Tế",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/z8Cm35k.png" group-title="🌍|Quốc Tế",Warner TV
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
+#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://i.imgur.com/KcEAjUh.png" group-title="🌍|Quốc Tế",Cinema World
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
@@ -382,7 +385,6 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 http://203.162.123.178:8080/hbo/index.m3u8
 #http://14.177.57.116:4025/rtp/232.84.2.138:10648
 
-
 #EXTINF:0  tvg-id="cinemaxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #http://14.177.57.116:4025/rtp/232.84.2.139:10654
@@ -400,6 +402,7 @@ http://hoaudp.vinaddns.com:9981/stream/channelid/1982213492?ticket=56F693C3D5EC3
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="🌍|Quốc Tế",Cartoon Network
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
+#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="https://i.ibb.co/cwQ4R8V/boomerang.jpg" group-title="🌍|Quốc Tế",Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
@@ -453,6 +456,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/fXuxFbz.png" group-title="🌍|Quốc Tế",Discovery HD
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://i.imgur.com/blEhr2T.png" group-title="🌍|Quốc Tế",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
@@ -490,12 +494,14 @@ https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="bbcworldnews" tvg-logo="https://i.imgur.com/9ZqIRg1.png" group-title="🌍|Quốc Tế",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://i.imgur.com/krupazx.png" group-title="🌍|Quốc Tế",CNN
 https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
+#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://i.ibb.co/Qmq2pMm/blooberg.png" group-title="🌍|Quốc Tế",Bloomberg TV Asia HD
+#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="dw" tvg-logo="https://i.ibb.co/QPQLHyN/dw.jpg" group-title="🌍|Quốc Tế",DW
