@@ -72,8 +72,8 @@ http://203.162.123.178:8080/vtvcab2/index.m3u8
 #http://14.177.57.116:4025/rtp/232.84.1.168:8982
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/x1XzN0j/cab3.png",🇻🇳|VTVCab3 HD - Thể thao TV
-http://203.162.123.178:8080/vtvcab3/index.m3u8
-#http://112.197.12.59/hls/vtvcab3/index.m3u8
+#http://203.162.123.178:8080/vtvcab3/index.m3u8
+http://103.207.38.11:46803/tttv
 
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/6tSq3hP/cab4.jpg" ,🇻🇳|VTVCab4 - Văn Hóa
 #https://vtsstr1.tv24.vn/live/_definst_/VTVcab4_HD_4/chunklist_b2692000.m3u8
@@ -113,7 +113,8 @@ http://hoaudp.vinaddns.com:9981/stream/channelid/524979488?ticket=F2BD78693F1B70
 http://hoaudp.vinaddns.com:9981/stream/channelid/1199585876?ticket=71B42782A90305A6A321546A604721F27D6FC177&profile=pass
 
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/KWKLZFt/cab16.jpg",🇻🇳|VTVCab16 - Bóng đá TV
-http://203.162.123.178:8080/vtvcab16/index.m3u8
+http://103.207.38.11:46803/bdtv
+#http://203.162.123.178:8080/vtvcab16/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/KWKLZFt/cab16.jpg",🇻🇳|VTVCab16 - Bóng đá TV HD
 http://hoaudp.vinaddns.com:9981/stream/channelid/2140454345?ticket=938369027A2B86BD2026B07F8EB0770068ADAE28&profile=pass
