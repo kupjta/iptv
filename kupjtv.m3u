@@ -704,7 +704,8 @@ https://livecdn.fptplay.net/sda/caobang_1000.stream/kupjtv.m3u8
 https://livecdn.fptplay.net/sdc/camau_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/ckhhFbK/cantho.jpg",Cần Thơ
-https://livecdn.fptplay.net/sda/cantho_hls.smil/kupjtv.m3u8
+https://mekongpassion.com/live/tv/chunklist.m3u8
+#https://livecdn.fptplay.net/sda/cantho_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/kMX670L/drt1.jpg",Đà Nẵng 1
 https://livecdn.fptplay.net/sdc/danang1_hls.smil/kupjtv.m3u8
