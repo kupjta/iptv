@@ -78,69 +78,72 @@ http://203.162.123.178:8080/vtvcab2/index.m3u8
 http://103.207.38.11:46803/tttv
 
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/6tSq3hP/cab4.jpg" ,🇻🇳|VTVCab4 - Văn Hóa
-http://14.177.57.116:4025/rtp/232.84.2.190:10924
-#http://hoaudp.vinaddns.com:9981/stream/channelid/730807448?ticket=396C76FC6984228C30B1F398DAF2C1F332BFA82D&profile=pass
+#http://14.177.57.116:4025/rtp/232.84.2.190:10924
+http://hoaudp.vinaddns.com:9981/stream/channelid/730807448?ticket=396C76FC6984228C30B1F398DAF2C1F332BFA82D&profile=pass
 
 #EXTINF:0 tvg-id="vtvcab5hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/syDtbxt/cab5.jpg",🇻🇳|VTVCab5 - E Channel
 http://203.162.123.178:8080/vtvcab5/index.m3u8
-#http://hoaudp.vinaddns.com:9981/stream/channelid/792226491?ticket=128D39AC9CB56AC645C5FC267F5F75839533ADE8&profile=pass
+http://hoaudp.vinaddns.com:9981/stream/channelid/792226491?ticket=128D39AC9CB56AC645C5FC267F5F75839533ADE8&profile=pass
 
 #EXTINF:0 tvg-id="vtvcab6hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/RPQyG1W/cab6.jpg",🇻🇳|VTVCab6 - OnSports+
 http://rglink.ml/vtvgo2.m3u8?id=196
-#http://hoaudp.vinaddns.com:9981/stream/channelid/780710237?ticket=32197F60898D8A8FCF19D565224A1732819E9750&profile=pass
+http://hoaudp.vinaddns.com:9981/stream/channelid/780710237?ticket=32197F60898D8A8FCF19D565224A1732819E9750&profile=pass
 
 #EXTINF:0 tvg-id="vtvcab7hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/GdSvphV/cab7.jpg",🇻🇳|VTVCab7 - Sức khỏe
-#http://hoaudp.vinaddns.com:9981/stream/channelid/914552247?ticket=8E29A7159A4B6F39BBE95E328123D1B38E467ADD&profile=pass
-http://14.177.57.116:4025/rtp/232.84.1.26:8130
+http://hoaudp.vinaddns.com:9981/stream/channelid/914552247?ticket=8E29A7159A4B6F39BBE95E328123D1B38E467ADD&profile=pass
+#http://14.177.57.116:4025/rtp/232.84.1.26:8130
 
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/vdxbmPn/cab8.jpg",🇻🇳|VTVCab8 - BIBI
-#http://hoaudp.vinaddns.com:9981/stream/channelid/2050226415?ticket=BEE4DAF0259F3C0A196C1E8F99BCF7691A996EA8&profile=pass
+http://hoaudp.vinaddns.com:9981/stream/channelid/2050226415?ticket=BEE4DAF0259F3C0A196C1E8F99BCF7691A996EA8&profile=pass
 http://203.162.123.178:8080/vtvcab8/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/4Fj6h9Z/cab9.jpg",🇻🇳|VTVCab9 - Info TV
-#http://hoaudp.vinaddns.com:9981/stream/channelid/330250361?ticket=E2F9F72F1034D87E9CD3829F4A64828A4FC03496&profile=pass
-http://14.177.57.116:4025/rtp/232.84.2.191:10930
+http://hoaudp.vinaddns.com:9981/stream/channelid/330250361?ticket=E2F9F72F1034D87E9CD3829F4A64828A4FC03496&profile=pass
+#http://14.177.57.116:4025/rtp/232.84.2.191:10930
 
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/dpm5chZ/cab10.png",🇻🇳|VTVcab10 - Film TV
-#http://hoaudp.vinaddns.com:9981/stream/channelid/142360696?ticket=8A62A2B1DD8D4E20148BAED42DA1519643083059&profile=pass
+http://hoaudp.vinaddns.com:9981/stream/channelid/142360696?ticket=8A62A2B1DD8D4E20148BAED42DA1519643083059&profile=pass
 http://203.162.123.178:8080/vtvcab7/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab12hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/Lgb1ryR/cab12.jpg",🇻🇳|VTVCab12 - StyleTV
 http://hoaudp.vinaddns.com:9981/stream/channelid/524979488?ticket=F2BD78693F1B70BF239FEA8F5DD76019F025D8FA&profile=pass
-http://14.177.57.116:4025/rtp/232.84.1.244:9438
+#http://14.177.57.116:4025/rtp/232.84.1.244:9438
 
 #EXTINF:0 tvg-id="vtvcab15hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/tJDps6v/cab15.jpg",🇻🇳|VTVCab15 - M Channel
-http://14.177.57.116:4025/rtp/232.84.2.192:10936
-#http://hoaudp.vinaddns.com:9981/stream/channelid/1199585876?ticket=71B42782A90305A6A321546A604721F27D6FC177&profile=pass
+#http://14.177.57.116:4025/rtp/232.84.2.192:10936
+http://hoaudp.vinaddns.com:9981/stream/channelid/1199585876?ticket=71B42782A90305A6A321546A604721F27D6FC177&profile=pass
 
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/KWKLZFt/cab16.jpg",🇻🇳|VTVCab16 - Bóng đá TV
 http://203.162.123.178:8080/vtvcab16/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/KWKLZFt/cab16.jpg",🇻🇳|VTVCab16 - Bóng đá TV HD
 http://103.207.38.11:46803/bdtv
-#http://hoaudp.vinaddns.com:9981/stream/channelid/2140454345?ticket=938369027A2B86BD2026B07F8EB0770068ADAE28&profile=pass
+http://hoaudp.vinaddns.com:9981/stream/channelid/2140454345?ticket=938369027A2B86BD2026B07F8EB0770068ADAE28&profile=pass
 
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MDxj7xt/cab17.jpg",🇻🇳|VTVCab17 - Yeah1! TV
 http://hoaudp.vinaddns.com:9981/stream/channelid/2145560789?ticket=1386B9E26151235F94C42023402956AFE42DF378&profile=pass
-#http://rglink.ml/vtvgo2.m3u8?id=195
+http://rglink.ml/vtvgo2.m3u8?id=195
+
+#EXTINF:0 tvg-id="vtvcab18hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/1qjGwZ5/cab18.jpg",🇻🇳|VTVCab18 - Thể thao tin tức HD
+http://103.207.38.11:46803/tttvhdtt
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/hLvZ22T/cab19.jpg",🇻🇳|VTVCab19 - Vie DRAMAS
 #http://rglink.ml/vieon.m3u8?kenh=vie-dramas-hd
 http://hoaudp.vinaddns.com:9981/stream/channelid/1385231948?ticket=3184A9916036CD42F0431354A5698D86F05EC422&profile=pass
 
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab20hd.jpg",🇻🇳|VTVCab20 - V Family
-#http://hoaudp.vinaddns.com:9981/stream/channelid/1736532738?ticket=263E04C76E3A551DF82D2133C63451CF17FDEACA&profile=pass
-http://14.177.57.116:4025/rtp/232.84.1.245:10344
+http://hoaudp.vinaddns.com:9981/stream/channelid/1736532738?ticket=263E04C76E3A551DF82D2133C63451CF17FDEACA&profile=pass
+#http://14.177.57.116:4025/rtp/232.84.1.245:10344
 
 #EXTINF:0 tvg-id="vtvcab21hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab21hd.jpg",🇻🇳|VTVCab21 - Bibi+
-#http://hoaudp.vinaddns.com:9981/stream/channelid/475068552?ticket=FAF908121760C7181192892FA12B418CF704E429&profile=pass
+http://hoaudp.vinaddns.com:9981/stream/channelid/475068552?ticket=FAF908121760C7181192892FA12B418CF704E429&profile=pass
 
 #EXTINF:0 tvg-id="vtvcab22hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/hFHBmy0/vtvcab22.jpg",🇻🇳|VTVCab22 - LIFE TV
-#http://hoaudp.vinaddns.com:9981/stream/channelid/1374568825?ticket=58569632A68E1EC3565CC7F106E9BF9AEF4C5142&profile=pass
+http://hoaudp.vinaddns.com:9981/stream/channelid/1374568825?ticket=58569632A68E1EC3565CC7F106E9BF9AEF4C5142&profile=pass
 
 #EXTINF:0 tvg-id="vtvcab23hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab23hd.png",🇻🇳|VTVCab23 - GOLF TV
-#http://hoaudp.vinaddns.com:9981/stream/channelid/150658828?ticket=9CA75B99C5DEC2A943F3B375794D87D007EECF99&profile=pass
-http://14.177.57.116:4025/rtp/232.84.2.246:10876
+http://hoaudp.vinaddns.com:9981/stream/channelid/150658828?ticket=9CA75B99C5DEC2A943F3B375794D87D007EECF99&profile=pass
+#http://14.177.57.116:4025/rtp/232.84.2.246:10876
 
 #EXTM3U VTC
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/RSFtDPh/vtc1.jpg" group-title="🇻🇳|VTC",VTC1
@@ -406,7 +409,7 @@ http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/kupjtv.m3u8
 #http://mika.vacovska.cf:1935/live/Hollywood.smil/kupjtv.m3u8
 
 #EXTINF:0 tvg-id="fxhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/HBVBTSZ/fxhd.jpg",FX HD
-#http://hoaudp.vinaddns.com:9981/stream/channelid/1982213492?ticket=56F693C3D5EC30326E90FFC699C9D44DADCFF219&profile=pass
+http://hoaudp.vinaddns.com:9981/stream/channelid/1982213492?ticket=56F693C3D5EC30326E90FFC699C9D44DADCFF219&profile=pass
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="🌍|Quốc Tế",Cartoon Network
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/kupjtv.m3u8
@@ -422,8 +425,8 @@ https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/kupjtv.m3u8
 #https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://i.ibb.co/Q8P4H3Y/babytv.jpg" group-title="🌍|Quốc Tế",Baby TV
-#http://hoaudp.vinaddns.com:9981/stream/channelid/523002247?ticket=B6B39E015C3E1D9E9D31894E2ECC108F43FC6233&profile=pass
-http://14.177.57.116:4025/rtp/232.84.2.36:10624
+http://hoaudp.vinaddns.com:9981/stream/channelid/523002247?ticket=B6B39E015C3E1D9E9D31894E2ECC108F43FC6233&profile=pass
+#http://14.177.57.116:4025/rtp/232.84.2.36:10624
 
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://i.ibb.co/30mwfjW/animax.png" group-title="🌍|Quốc Tế",Animax
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/kupjtv.m3u8
@@ -444,12 +447,12 @@ https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/kupjtv.m3u8
 #http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 
 #EXTINF:0 tvg-id="disney" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png",Disney Channel
-#http://hoaudp.vinaddns.com:9981/stream/channelid/181556233?ticket=66539BDFBCB74571F1222D5EF6B0880F2222697B&profile=pass
-http://14.177.57.116:4025/rtp/232.84.2.143:10678
+http://hoaudp.vinaddns.com:9981/stream/channelid/181556233?ticket=66539BDFBCB74571F1222D5EF6B0880F2222697B&profile=pass
+#http://14.177.57.116:4025/rtp/232.84.2.143:10678
 
 #EXTINF:0 tvg-id="disneyjunior" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/RC0yJqD/disneyjunior.png",Disney Junior
-#http://hoaudp.vinaddns.com:9981/stream/channelid/162237107?ticket=B256F242BECC263293C08794251C66B65576FAC0&profile=pass
-http://14.177.57.116:4025/rtp/232.84.1.90:10398
+http://hoaudp.vinaddns.com:9981/stream/channelid/162237107?ticket=B256F242BECC263293C08794251C66B65576FAC0&profile=pass
+#http://14.177.57.116:4025/rtp/232.84.1.90:10398
 
 #EXTINF:0 tvg-id="happykids"  group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vXSWhQJ/hapyykids.jpg",Happy Kids
 http://vtsstr1.tv24.vn:1935/live/Happy_Kids.smil/kupjtv.m3u8
@@ -460,7 +463,7 @@ https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/kupjtv.m3u8
 #https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="ngphd" tvg-logo="https://imgur.com/u4sXnHf.png" group-title="🌍|Quốc Tế",Nat Geo People HD
-http://14.177.57.116:4025/rtp/232.84.1.76:8430
+#http://14.177.57.116:4025/rtp/232.84.1.76:8430
 
 #EXTINF:-1 tvg-id="ngchd" tvg-logo="https://i.imgur.com/cjx78kt.png" group-title="🌍|Quốc Tế",National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/kupjtv.m3u8
@@ -492,10 +495,10 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/d7qWHVD/251.jpg" group-title="🌍|Quốc Tế",Dr Fit HD
 http://112.197.12.59/hls/drfit/index.m3u8
-#http://hoaudp.vinaddns.com:9981/stream/channelid/80755753?ticket=1A1E66F506EA9C3FD4239ABA0F712E7E055C6B59&profile=pass
+http://hoaudp.vinaddns.com:9981/stream/channelid/80755753?ticket=1A1E66F506EA9C3FD4239ABA0F712E7E055C6B59&profile=pass
 
 #EXTINF:-1 tvg-id="historyhd" tvg-logo="https://i.ibb.co/vxd0zrw/history-hd.jpg" group-title="🌍|Quốc Tế",History HD
-#http://hoaudp.vinaddns.com:9981/stream/channelid/686237770?ticket=2BD87BEE89248B046CE56E7F2200B385675EBA78&profile=pass
+http://hoaudp.vinaddns.com:9981/stream/channelid/686237770?ticket=2BD87BEE89248B046CE56E7F2200B385675EBA78&profile=pass
 
 #EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.imgur.com/amlBPub.png" group-title="🌍|Quốc Tế",TLC
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/kupjtv.m3u8
@@ -556,7 +559,7 @@ https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/kupjtv.m3u8
 #https://livecdn.fptplay.net/world/nhkworld_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="nhk" tvg-logo="https://i.ibb.co/VL91Pnz/nhk.jpg" group-title="🌍|Quốc Tế",NHK JAPAN
-http://14.177.57.116:4025/rtp/232.84.3.172:10494
+#http://14.177.57.116:4025/rtp/232.84.3.172:10494
 
 #EXTINF:0 group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/2M3gdq1/nasa.png",Nasa TV
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
