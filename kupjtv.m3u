@@ -3,10 +3,10 @@
 
 #EXTM3U K+
 #EXTINF:-1 tvg-id="k1hd" tvg-logo="https://i.ibb.co/rQWYSLY/k1.png" group-title="K+",K+1 HD
-http://s4live.tv1asia.com:21585/kplus2/index.m3u8
+#http://s4live.tv1asia.com:21585/kplus2/index.m3u8
 
 #EXTINF:-1 tvg-id="knshd" tvg-logo="https://i.ibb.co/hcrTWt2/kns.png" group-title="K+",K+NS HD
-http://s4live.tv1asia.com:21585/kns2/index.m3u8
+#http://s4live.tv1asia.com:21585/kns2/index.m3u8
 
 #EXTINF:-1 tvg-id="kpchd" tvg-logo="https://i.ibb.co/dmrwZDw/kpc.png" group-title="K+",K+PC HD
 #http://s4live.tv1asia.com:21585/kpc2/index.m3u8
