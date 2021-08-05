@@ -124,18 +124,18 @@ http://rglink.ml/vieon.m3u8?kenh=vie-dramas-hd
 
 #EXTM3U VTC
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/RSFtDPh/vtc1.jpg" group-title="🇻🇳|VTC",VTC1
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC1-SD-720p/playlist.m3u8
+https://vtc130121.cdn.vnns.io/VTC1/playlist.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="vtc2" tvg-logo="https://i.ibb.co/GWP8TXQ/vtc2.jpg" group-title="🇻🇳|VTC",VTC2
-https://livecdn.fptplay.net/sdb/vtc2_hls.smil/kupjtv.m3u8
+https://vtc130121.cdn.vnns.io/VTC2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtc3hd" tvg-logo="https://i.ibb.co/SyBBGpy/vtc3.jpg" group-title="🇻🇳|VTC",VTC3
 https://vtc130121.cdn.vnns.io/VTC3/playlist.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="vtc4hd" tvg-logo="https://i.ibb.co/VHjg6mz/vtc4.jpg" group-title="🇻🇳|VTC",VTC4
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-480p/playlist.m3u8
+https://vtc130121.cdn.vnns.io/VTC4/playlist.m3u8
 #https://livecdn.fptplay.net/sdc/vtc4_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="vtc5hd" tvg-logo="https://i.ibb.co/VL5FvJM/Vtc5.jpg" group-title="🇻🇳|VTC",VTC5
