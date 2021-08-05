@@ -6,14 +6,12 @@
 http://s4live.tv1asia.com:21585/kplus2/index.m3u8
 
 #EXTINF:-1 tvg-id="knshd" tvg-logo="https://i.ibb.co/hcrTWt2/kns.png" group-title="K+",K+NS HD
-http://s4live.tv1asia.com:21585/kns2/index.m3u8
+#http://s4live.tv1asia.com:21585/kns2/index.m3u8
 
 #EXTINF:-1 tvg-id="kpchd" tvg-logo="https://i.ibb.co/dmrwZDw/kpc.png" group-title="K+",K+PC HD
-https://raw.githubusercontent.com/kupjta/iptv/main/failure.mp4
 #http://s4live.tv1asia.com:21585/kpc2/index.m3u8
 
 #EXTINF:-1 tvg-id="kpmhd" tvg-logo="https://i.ibb.co/2ZhvW7w/kpm.png" group-title="K+",K+PM HD
-https://raw.githubusercontent.com/kupjta/iptv/main/failure.mp4
 #http://103.216.122.72:8889/udp/225.0.0.64:5000
 
 #EXTM3U VTV
@@ -125,7 +123,8 @@ http://rglink.ml/vieon.m3u8?kenh=vie-dramas-hd
 
 #EXTM3U VTC
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/RSFtDPh/vtc1.jpg" group-title="🇻🇳|VTC",VTC1
-https://livecdn.fptplay.net/sdb/vtc1_hls.smil/kupjtv.m3u8
+
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC1-SD-720p/playlist.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="vtc2" tvg-logo="https://i.ibb.co/GWP8TXQ/vtc2.jpg" group-title="🇻🇳|VTC",VTC2
@@ -136,7 +135,8 @@ https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/kupjtv.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="vtc4hd" tvg-logo="https://i.ibb.co/VHjg6mz/vtc4.jpg" group-title="🇻🇳|VTC",VTC4
-https://livecdn.fptplay.net/sdc/vtc4_hls.smil/kupjtv.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-480p/playlist.m3u8
+#https://livecdn.fptplay.net/sdc/vtc4_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="vtc5hd" tvg-logo="https://i.ibb.co/VL5FvJM/Vtc5.jpg" group-title="🇻🇳|VTC",VTC5
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/kupjtv.m3u8
