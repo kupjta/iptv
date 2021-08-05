@@ -40,23 +40,24 @@ http://103.207.38.11:46803/vtv5tnb
 #https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://i.ibb.co/ckmbV3R/vtv5.jpg" group-title="🇻🇳|VTV",VTV5 Tây Nguyên HD
-#https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
-http://rglink.ml/vtvgo2.m3u8?id=163
+https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
+#http://rglink.ml/vtvgo2.m3u8?id=163
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.ibb.co/5Y1LGMm/vtv6.jpg" group-title="🇻🇳|VTV",VTV6 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/kupjtv.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.ibb.co/C1qgD6V/vtv7.jpg" group-title="🇻🇳|VTV",VTV7 HD
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/kupjtv.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.ibb.co/3TsHT9T/vtv8.jpg" group-title="🇻🇳|VTV",VTV8 HD
 https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/kupjtv.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/2kS3QWn/vtv9.jpg" group-title="🇻🇳|VTV",VTV9 HD
-https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/kupjtv.m3u8
+#https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/kupjtv.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
 #EXTM3U VTV CAB
