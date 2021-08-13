@@ -1,17 +1,10 @@
 
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
-#EXTINF:0 group-title="Phim" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScnjtdIf754YvlzchmQzOLhLGvGlJ0w60aPUiruMeAjW0I3YohwMOrXWbA03MlRqA1DG0&usqp=CAU",HBO
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
-
-#EXTINF:0 group-title="Phim" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuXrOs0ZcIT6AuCSSrusAUa--p9eAcZ5cunjGWmKpVjh9RR8nVBeyjI3xGhd7lFkUYup8&usqp=CAU",Cinemax
-http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
-
 #EXTINF:-1 group-title="Phim" tvg-logo="https://scontent.fsgn4-1.fna.fbcdn.net/v/t1.6435-1/p200x200/52661144_2536612686565423_3503054177922187264_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=7206a8&_nc_ohc=IizT_TJwqWsAX9fVYzt&_nc_oc=AQm2QZJlCV10obRGCs_p_j5UzS_qWA88z1Nxvi5pNzX2dpMtJKvPj0tc2CJGtg4uFZ0&_nc_ht=scontent.fsgn4-1.fna&oh=1089408ce895b669dc64c58cc654a59c&oe=612E2299",Phim lẻ
 http://gg.gg/cocaFilm
 
-
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo=https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 
@@ -638,12 +631,6 @@ https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
-#EXTINF:0 tvg-id="disney"  group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Disney_Channel_1997.svg/revision/latest/scale-to-width-down/340?cb=20091119205436",Disney Channel
-
-#EXTINF:0 tvg-id="disney_junior"  group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/77/Disney-Junior.png",Disney Junior
-
-#EXTINF:0 tvg-id="hdreamwork"  group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/bb/DreamWorks_Animation_SKG_logo.svg.png",DreamWorks
-
 #EXTINF:0 tvg-id="foxhd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",FOX
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
@@ -659,10 +646,9 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
 #EXTINF:0 tvg-id="foxsportshd" group-title="Quốc tế" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/08/16/775945-FOXsport.png",FOX Sport 1
-
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
-
 #https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
 #EXTINF:0 tvg-id="foxsports2hd" group-title="Quốc tế" tvg-logo="https://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png",FOX Sport 2
 https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u
 
@@ -687,7 +673,6 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 #EXTINF:0  tvg-id="paramouthd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Paramount_Pictures_2021.svg/1200px-Paramount_Pictures_2021.svg.png",Paramount
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
-
 #EXTINF:0 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
@@ -700,7 +685,7 @@ https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
 #EXTINF:0 group-title="Quốc tế", tvg-logo="https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.6435-9/31770514_10155597099910829_2962543143699873792_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=uUXZPQcImngAX-uWeg3&_nc_ht=scontent.fsgn3-1.fna&oh=6702fb3a188f21b5f80a6536f2be7eba&oe=61301FF3",Bloomberg TV
 https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 g#EXTINF:0 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/1200px-BBC_World_News_2019.svg.png",BBC World News
+#EXTINF:0 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/1200px-BBC_World_News_2019.svg.png",BBC World News
 http://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="Quốc tế" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",CNN
