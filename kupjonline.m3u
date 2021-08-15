@@ -423,7 +423,7 @@ https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2021/06/08/369423-Logo-kenh-Dak-nong.png", Đắk Nông
-http://rglink.ml/vieon.m3u8?kenh=dak-nong
+https://htv-drm-live-cdn.fptplay.net/htvonline/daknong.480p.nimble.tms/playlist.m3u8
 
 #EXTINF:0 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0f/THGL.png/revision/latest?cb=20180618135553&path-prefix=vi", Gia Lai
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
