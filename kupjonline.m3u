@@ -531,13 +531,13 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sc
 https://e3.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="boxhits" group-title="Quốc tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",Box Hits
-#http://61.14.233.11:8000/play/boxhits/index.m3u8
+http://61.14.233.11:5000/boxhits
 
 #EXTINF:0 tvg-id="boxchannel" group-title="Quốc tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",Box Channel
-#http://61.14.233.11:8000/play/itb/index.m3u8
+http://61.14.233.11:5000/inthebox
 
 #EXTINF:0  tvg-id="man" group-title="Quốc tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_MAN_V3.png",Man
-#http://61.14.233.11:8000/play/man/index.m3u8
+http://61.14.233.11:5000/man
 
 #EXTINF:0  tvg-id="woman" group-title="Quốc tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_woman.jpg",Woman
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvonline.vn/
@@ -552,7 +552,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0  tvg-id="box_music" group-title="Quốc tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",Box Music
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=http://sctvonline.vn/
+http://61.14.233.11:5000/musicbox
 
 #EXTINF:0  tvg-id="bbc_earth" group-title="Quốc tế", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
