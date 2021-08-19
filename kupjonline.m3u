@@ -4,6 +4,9 @@
 #EXTINF:-1 group-title="Phim" tvg-logo="https://scontent.fsgn4-1.fna.fbcdn.net/v/t1.6435-1/p200x200/52661144_2536612686565423_3503054177922187264_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=7206a8&_nc_ohc=IizT_TJwqWsAX9fVYzt&_nc_oc=AQm2QZJlCV10obRGCs_p_j5UzS_qWA88z1Nxvi5pNzX2dpMtJKvPj0tc2CJGtg4uFZ0&_nc_ht=scontent.fsgn4-1.fna&oh=1089408ce895b669dc64c58cc654a59c&oe=612E2299",Phim lẻ
 http://gg.gg/cocaFilm
 
+#EXTINF:0 group-title="Phim", tvg-logo="https://i.ibb.co/JBWv5Mb/received-930124617584913.gif",🔞| Phim
+http://gg.gg/coca18
+
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
@@ -710,6 +713,3 @@ https://vips-livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500
 
 #EXTINF:0 group-title="Quốc tế" tvg-logo="https://seeklogo.com/images/T/tv5-logo-D6C5E4DA52-seeklogo.com.png",TV5 Monde Asie
 https://vips-livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
-
-EXTINF:0 group-title="Phim", tvg-logo="https://i.ibb.co/JBWv5Mb/received-930124617584913.gif",🔞| Phim
-http://gg.gg/coca18
