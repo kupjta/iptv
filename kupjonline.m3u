@@ -673,10 +673,10 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Quốc tế" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/TV-Logo.png",&Privé
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:0 group-title="Quốc tế", tvg-logo="https://static.wikia.nocookie.net/logos/images/b/ba/MTV_VIETNAM_LOGO_2011.png/revision/latest?cb=20201123102248&path-prefix=vi",MTV Asia
+#EXTINF:0 group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/ba/MTV_VIETNAM_LOGO_2011.png/revision/latest?cb=20201123102248&path-prefix=vi",MTV Asia
 https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
 
-#EXTINF:0 group-title="Quốc tế", tvg-logo="https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.6435-9/31770514_10155597099910829_2962543143699873792_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=uUXZPQcImngAX-uWeg3&_nc_ht=scontent.fsgn3-1.fna&oh=6702fb3a188f21b5f80a6536f2be7eba&oe=61301FF3",Bloomberg TV
+#EXTINF:0 group-title="Quốc tế" tvg-logo="https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.6435-9/31770514_10155597099910829_2962543143699873792_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=uUXZPQcImngAX-uWeg3&_nc_ht=scontent.fsgn3-1.fna&oh=6702fb3a188f21b5f80a6536f2be7eba&oe=61301FF3",Bloomberg TV
 https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/1200px-BBC_World_News_2019.svg.png",BBC World News
