@@ -259,16 +259,16 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=
 #EXTINF:-1 tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://i.ibb.co/TgFs8YH/68-ad4ad421.jpg", BTV5 HD`
 https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="vovtv"  group-title="Địa phuong" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/1200px-Logo_VOV.svg.png",VOV| Đài Tiếng Nói Việt Nam
+#EXTINF:0 tvg-id="vovtv" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/1200px-Logo_VOV.svg.png",VOV| Đài Tiếng Nói Việt Nam
 #http://mediatech.vncdn.vn/vovlive/tv1live.m3u8
 https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="ttxvnhd"  group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",Vews| Thông Tấn Xã Việt Nam https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="ttxvnhd" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",Vews| Thông Tấn Xã Việt Nam https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="antvhd"  group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/ANTV_SD_logo_fix.png/revision/latest?cb=20201026081353&path-prefix=vi",An Ninh TV
+#EXTINF:0 tvg-id="antvhd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/ANTV_SD_logo_fix.png/revision/latest?cb=20201026081353&path-prefix=vi",An Ninh TV
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="nhan_dan_tv"  group-title="Địa phương" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV
+#EXTINF:0 tvg-id="nhan_dan_tv" group-title="Địa phương" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV
 https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="qpvnhd"  group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png",Quốc Phòng TV
@@ -290,47 +290,47 @@ https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #https://thvli-live2.admon.com.vn/thvli/thvl4-1080p/playlist.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Địa phương", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_THTPCT.png",Cần Thơ
+#EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_THTPCT.png",Cần Thơ
 https://mekongpassion.com/live/tv/chunklist.m3u8
 
 #EXTINF:0 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/KG_Ki%C3%AAn_Giang.png/revision/latest?cb=20201025093743&path-prefix=vi",Kiên Giang
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Địa phương", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png", Đà Nẵng 1
+#EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png", Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Địa phương", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png", Đà Nẵng 2
+#EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png", Đà Nẵng 2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
-#EXTINF:0 tvg-id="hanoitv1" group-title="Địa phương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",  Hà Nội 1
+#EXTINF:0 tvg-id="hanoitv1" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",  Hà Nội 1
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="hanoitv2" group-title="Địa phương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",  Hà Nội 2
+#EXTINF:0 tvg-id="hanoitv2" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",  Hà Nội 2
 http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Địa phương", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/BGTV_Bac_Giang.png/revision/latest/scale-to-width-down/340?cb=20201008153201", Bắc Giang
+#EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/BGTV_Bac_Giang.png/revision/latest/scale-to-width-down/340?cb=20201008153201", Bắc Giang
 http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Địa phương", tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png?t=v2", Ninh Bình
+#EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png?t=v2", Ninh Bình
 https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Địa phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/TBTV_logo.svg/revision/latest/scale-to-width-down/340?cb=20180727200541&path-prefix=vi", Thái Bình
+#EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/TBTV_logo.svg/revision/latest/scale-to-width-down/340?cb=20180727200541&path-prefix=vi", Thái Bình
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Địa phương", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/TN1_Thai_Nguyen_logo.png/revision/latest/top-crop/width/300/height/300?cb=20200311054345", Thái Nguyên 1
+#EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/TN1_Thai_Nguyen_logo.png/revision/latest/top-crop/width/300/height/300?cb=20200311054345", Thái Nguyên 1
 http://103.90.220.236/tntvlive/tv1live.m3u8
 #http://thainguyentv.vn/hls/livestream.m3u8
 
-#EXTINF:0 group-title="Địa phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/QTV.png/revision/latest/scale-to-width-down/340?cb=20200822125032&path-prefix=vi", Quảng Ninh 1
+#EXTINF:0 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/QTV.png/revision/latest/scale-to-width-down/340?cb=20200822125032&path-prefix=vi", Quảng Ninh 1
 http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Địa phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/QTV.png/revision/latest/scale-to-width-down/340?cb=20200822125032&path-prefix=vi", Quảng Ninh 3
+#EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/QTV.png/revision/latest/scale-to-width-down/340?cb=20200822125032&path-prefix=vi", Quảng Ninh 3
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 
 #EXTINF:0 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/IMovie_TV_logo_old.png/revision/latest/top-crop/width/220/height/220?cb=20200305105447", Bình Dương 4 - iMovie
 https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Địa phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/BPTV_1997.png/revision/latest?cb=20200819145628&path-prefix=vi", Bình Phước 1
+#EXTINF:0 tvg-id="" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/BPTV_1997.png/revision/latest?cb=20200819145628&path-prefix=vi", Bình Phước 1
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 
 #EXTINF:0 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/BPTV2_Home_TV.png/revision/latest/scale-to-width-down/340?cb=20200828114705&path-prefix=vi", Bình Phước 2 - Home TV
@@ -486,7 +486,7 @@ https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:0 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/B%E1%BA%A3ng-gi%C3%A1-qu%E1%BA%A3ng-c%C3%A1o-%C4%91%C3%A0i-truy%E1%BB%81n-h%C3%ACnh-H%C3%B2a-B%C3%ACnh-n%C4%83m-2015-logo.jpg/revision/latest?cb=20170122110434",  Hoà Bình
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 
-#EXTINF:0 group-title="Địa phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/HY_H%C6%B0ng_Y%C3%AAn_3D.png/revision/latest/scale-to-width-down/340?cb=20201205044005&path-prefix=vi",  Hưng Yên
+#EXTINF:0 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/HY_H%C6%B0ng_Y%C3%AAn_3D.png/revision/latest/scale-to-width-down/340?cb=20201205044005&path-prefix=vi",  Hưng Yên
 https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
 
 #EXTINF:0 group-title="Địa phương" tvg-logo="https://yt3.ggpht.com/a/AATXAJwrGKrDOcM-tl6llG0Vv34dsed1Fwi0xt0P8qRK=s900-c-k-c0xffffffff-no-rj-mo",  Lai Châu
@@ -513,7 +513,7 @@ https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa phương" tvg-logo="https://tuyenquangtv.vn/file/fb9e3a036ab59c2c016ac3618a0d3aec/fb9e3a036ab59c2c016b2c08c1835d52/062019/TTVchantrang_20190620104114.png",  Tuyên Quang
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 group-title="Địa phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/YTV.png/revision/latest/scale-to-width-down/340?cb=20180830135735&path-prefix=vi",  Yên Bái
+#EXTINF:0 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/YTV.png/revision/latest/scale-to-width-down/340?cb=20180830135735&path-prefix=vi",  Yên Bái
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:0 group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_%C4%90%C3%A0i_PT-TH_V%C4%A9nh_Ph%C3%BAc.svg/1280px-Logo_%C4%90%C3%A0i_PT-TH_V%C4%A9nh_Ph%C3%BAc.svg.png",  Vĩnh Phúc
@@ -549,10 +549,10 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-
 #EXTINF:0  tvg-id="box_music" group-title="Quốc tế" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg",Box Music
 https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
 
-#EXTINF:0  tvg-id="bbc_earth" group-title="Quốc tế", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC Earth
+#EXTINF:0  tvg-id="bbc_earth" group-title="Quốc tế" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0  tvg-id="bbclifestyle" group-title="Quốc tế", tvg-logo="https://telegramchannels.me/storage/media-logo/1901/bbc_lifestyle.jpg",BBC Lifestyle
+#EXTINF:0  tvg-id="bbclifestyle" group-title="Quốc tế" tvg-logo="https://telegramchannels.me/storage/media-logo/1901/bbc_lifestyle.jpg",BBC Lifestyle
 http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
 
 #EXTINF:0  tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Network
@@ -571,15 +571,15 @@ http://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3
 #EXTINF:0 tvg-id="kix" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0  tvg-id="discoveryhd" group-title="Quốc tế", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery Channel
+#EXTINF:0  tvg-id="discoveryhd" group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",Discovery Channel
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 
-#EXTINF:0  tvg-id="discoveryasiahd" group-title="Quốc tế", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia
+#EXTINF:0  tvg-id="discoveryasiahd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia
 http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0  tvg-id="national_geographic" group-title="Quốc tế", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",National Geographic
+#EXTINF:0  tvg-id="national_geographic" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",National Geographic
 http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0  tvg-id="national_geographic_wild" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",Nat Geo WILD
@@ -588,7 +588,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:0  tvg-id="blueantent" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",Blue Ant Entertainment
 https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0  tvg-id="blueantext" group-title="Quốc tế", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",Blue Ant Extreme
+#EXTINF:0  tvg-id="blueantext" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",Blue Ant Extreme
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png",TLC
