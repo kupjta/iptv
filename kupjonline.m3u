@@ -149,7 +149,7 @@ http://112.197.12.62/secure/vtvcab4/index.m3u8?md5=VAQDb2DOBBBbwde5jBBfuA&expire
 http://112.197.12.62/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740
 
 #EXTINF:0 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://tv.tubep.sale/uploads/tv_image/vtc3-hd-on-sports.png",Cab6| On Sports +
-http://www.vthanh.wtf/vtvgo.m3u8?id=196
+http://112.197.12.62/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740
 
 #EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/VCTV10_old_and_VTVCab_10_-_O2TV_logo.png/revision/latest/scale-to-width-down/340?cb=20191114115325",Cab7| O2 TV
 http://112.197.12.62/secure/vtvcab7/index.m3u8?md5=JGYvOsHHyqqsxl6Osg-j7g&expires=2556118740
@@ -173,10 +173,10 @@ http://112.197.12.62/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expir
 http://112.197.12.62/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740
 
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a4/Logo_Yeah1_from_2011_to_2014.png/revision/latest/scale-to-width-down/484?cb=20200811134941&path-prefix=vi",Cab17| Yeah1 TV
-http://www.vthanh.wtf/vtvgo.m3u8?id=195
+http://112.197.12.62/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740
 
 #EXTINF:0 tvg-id="vtvcab18_bong_da_tv" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Th%E1%BB%83_thao_Tin_t%E1%BB%A9c_HD_%282016-present%29.png/revision/latest/scale-to-width-down/250?cb=20191208084422",Cab18| Tin Tức Thể Thao
-http://61.14.233.11:5000/tttt
+http://103.81.84.80:46803/vtvcab18
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkNlE-u47q8D-APq-zV9dB6bNiZKvkwN6L_iRkZA=s900-c-k-c0x00ffffff-no-rj",Cab19| Vie Dramas
 http://www.vthanh.wtf/vieon.m3u8?kenh=vie-dramas-hd
