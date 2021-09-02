@@ -155,7 +155,7 @@ https://livecdn.fptplay.net/sdb/htv1_hls.smil/kupjtv.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.imgur.com/8GOohTX.png" group-title="🇻🇳|HTV",HTV3
-https://livecdn.fptplay.net/sdb/htv3_2000.stream/kupjtv.m3u8
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="htvkey" tvg-logo="https://i.imgur.com/JBNgrHU.png" group-title="🇻🇳|HTV",HTV Keys
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/kupjtv.m3u8
