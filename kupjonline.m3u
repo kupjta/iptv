@@ -1,5 +1,8 @@
 
-#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTM3U url-tvg="http://trada.info/epg1.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", Vòng loại World Cup
+http://livecdn.fptplay.net/tvc/world-cup01_2000.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
