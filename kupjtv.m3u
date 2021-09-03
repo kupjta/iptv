@@ -170,33 +170,27 @@ https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/kupjtv.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://i.imgur.com/qQSl5rD.png" group-title="🇻🇳|HTV",HTVC Phim
-#https://livecdn.fptplay.net/hda/htvcHBOhd_hls.smil/kupjtv.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://i.imgur.com/GWGhPu7.png" group-title="🇻🇳|HTV",Du Lịch và Cuộc Sống
-#https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/kupjtv.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://i.imgur.com/EAv5N7c.png" group-title="🇻🇳|HTV",HTVC Gia Đình
-#https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/kupjtv.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://i.imgur.com/pTuBwDS.png" group-title="🇻🇳|HTV",HTVC Phụ Nữ
-#https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://i.imgur.com/qSzadDW.png" group-title="🇻🇳|HTV",HTVC Thuần Việt
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://i.imgur.com/jOeEfm6.png" group-title="🇻🇳|HTV",Thuần Việt HD
-#https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/kupjtv.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://i.imgur.com/gSnnXza.png" group-title="🇻🇳|HTV",HTV Thể Thao
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvcfbnc" tvg-logo="https://i.imgur.com/Ekn8jdW.png" group-title="🇻🇳|HTV",FBNC
-#https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/kupjtv.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|HTV" tvg-id="htvcplushd" tvg-logo="https://static.megavie.live/media/htvcplushd.jpg",HTVC Plus
