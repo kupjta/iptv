@@ -51,7 +51,7 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/kupjtv.m3u8
 #EXTM3U VTV CAB
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/BgLSkSf/cab1.jpg",🇻🇳|VTVCab1 - Vie Giải Trí
-http://www.vthanh.wtf/vieon.m3u8?kenh=vie-giai-tri-hd
+http://112.197.12.62/secure/vtvcab1/index.m3u8?md5=dBooYMMaJzuC4PQSnva4EQ&expires=2556118740
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/K6M1dw2/cab2.jpg",🇻🇳|VTVCab2 - Phim Việt
 http://112.197.12.62/secure/vtvcab2/index.m3u8?md5=QGYdEQjOO4Qj5YcwRFeV1w&expires=2556118740
@@ -96,7 +96,7 @@ http://112.197.12.62/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expir
 http://103.81.84.80:46803/vtvcab18
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/hLvZ22T/cab19.jpg",🇻🇳|VTVCab19 - Vie DRAMAS
-http://www.vthanh.wtf/vieon.m3u8?kenh=vie-dramas-hd
+http://112.197.12.62/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740
 
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab20hd.jpg",🇻🇳|VTVCab20 - V Family
 http://112.197.12.62/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740
@@ -279,6 +279,9 @@ https://livecdn.fptplay.net/sda/ncm_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="btv6hd" tvg-logo="https://i.ibb.co/1b0kHsx/Icon-channel-btv6-158573005113.png" group-title="🇻🇳|AVG",BTV 6
 https://livecdn.fptplay.net/sda/btv6_hls.smil/kupjtv.m3u8
+
+#EXTINF:0 tvg-id="binhduong4" group-title="🇻🇳|AVG" tvg-logo="https://i.ibb.co/cgssdJM/btv4.png",BTV4-iMovie
+https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U 🌍|Quốc Tế
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://i.imgur.com/5Gtp7WP.png" group-title="🌍|Quốc Tế",AXN
