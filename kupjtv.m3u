@@ -550,12 +550,6 @@ https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/kupjtv.m3u8
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/RjhfM1P/bptv2.jpg",Bình Phước 2
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://chungxda.github.io/logo/ANT_BPTV3.png",Bình Phước 3
-#http://14.232.214.220:8888/udp/239.2.100.198:5000
-
-#EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/fQfx3Ht/binhthuan.jpg",BTV6 Bình thuận
-https://livecdn.fptplay.net/sda/btv6_hls.smil/kupjtv.m3u8
-
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/fQfx3Ht/binhthuan.jpg",Bình Thuận
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/kupjtv.m3u8
 
@@ -567,7 +561,6 @@ https://livecdn.fptplay.net/sdc/camau_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/ckhhFbK/cantho.jpg",Cần Thơ
 https://mekongpassion.com/live/tv/chunklist.m3u8
-#https://livecdn.fptplay.net/sda/cantho_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/kMX670L/drt1.jpg",Đà Nẵng 1
 https://livecdn.fptplay.net/sdc/danang1_hls.smil/kupjtv.m3u8
@@ -591,7 +584,7 @@ https://livecdn.fptplay.net/sda/dongnai1_hls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/VWnhwB1/dn2.jpg",Đồng Nai 3
-http://rglink.ml/vieon.m3u8?kenh=dong-nai-3
+http://www.vthanh.wtf/vieon.m3u8?kenh=dong-nai-3
 
 #EXTINF:-1 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/zrMj8mP/dongthap1.jpg",Đồng Tháp
 http://202.43.109.142:1935/THDT/thdttv/chunklist_w1409814145.m3u8
