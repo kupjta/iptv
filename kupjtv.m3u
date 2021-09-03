@@ -277,9 +277,6 @@ https://livecdn.fptplay.net/sdc/btv9_hls.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="btv10hd" tvg-logo="https://edge2.cdn.i-com.vn/image/236x140/smart/image.i-com.vn:1937//Uploads/images/kenh/ncm.jpg" group-title="🇻🇳|AVG",NCM BTV10
 https://livecdn.fptplay.net/sda/ncm_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="btv4hd" tvg-logo="https://i.imgur.com/lWJcLEv.png" group-title="🇻🇳|AVG",BTV4 iMovies TV
-https://livecdn.fptplay.net/hda/btv4hd_hls.smil/kupjtv.m3u8
-
 #EXTINF:-1 tvg-id="btv6hd" tvg-logo="https://i.ibb.co/1b0kHsx/Icon-channel-btv6-158573005113.png" group-title="🇻🇳|AVG",BTV 6
 https://livecdn.fptplay.net/sda/btv6_hls.smil/kupjtv.m3u8
 
@@ -327,10 +324,10 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/kupjtv.m3u8
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/fSv164Q/box1.jpg",Box Movies 1
-https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
+http://103.81.84.80:46803/boxmovie1
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
-https://e4.endpoint.cdn.sctvonline.vn/secure/hollywood/index.m3u8?md5=clpcBSiOLDJ7332ITIecGA&expires=2556118740|Referer=http://sctvonline.vn/
+http://103.81.84.80:46803/hollywood
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="🌍|Quốc Tế",Cartoon Network
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/kupjtv.m3u8
@@ -351,7 +348,7 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/kupjtv.m3u8
 
 #EXTINF:0 tvg-id="happykids"  group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vXSWhQJ/hapyykids.jpg",Happy Kids
-https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740|Referer=http://sctvonline.vn/
+http://www.vthanh.wtf/sctv.m3u8?id=happykids|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png" group-title="🌍|Quốc Tế",Animal Planet
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/kupjtv.m3u8
@@ -375,7 +372,7 @@ https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/d7qWHVD/251.jpg" group-title="🌍|Quốc Tế",Dr Fit HD
-https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=http://sctvonline.vn/
+http://www.vthanh.wtf/sctv.m3u8?id=drfit|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="historyhd" tvg-logo="https://i.ibb.co/vxd0zrw/history-hd.jpg" group-title="🌍|Quốc Tế",History HD
 
@@ -437,7 +434,7 @@ https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/kupjtv.m3u8
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:0 tvg-id="planetearthhd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/ZGBcMK2/panetearth.jpg",Planet Earth
-https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-RRvmm5Vq-zMaZw&expires=2556118740|Referer=http://sctvonline.vn/
+http://www.vthanh.wtf/sctv.m3u8?id=planetearth|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="foxsportshd" tvg-logo="https://i.imgur.com/JsFd6Nl.png" group-title="🌍|Quốc Tế",Fox Sports
 https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/kupjtv.m3u8
@@ -455,13 +452,13 @@ https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/kupjtv.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="woman" tvg-logo="https://i.ibb.co/GTrnKhc/woman.jpg" group-title="🌍|Quốc Tế",Woman
-https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWAdw4D1wzw&expires=2556118740|Referer=http://sctvonline.vn/
+http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="mtvhd" tvg-logo="https://i.imgur.com/gpWosop.png" group-title="🌍|Quốc Tế",MTV
 https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="boxmusichd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vcbB6qh/Musicbox.jpg",Music Box
-https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
+http://www.vthanh.wtf/sctv.m3u8?id=musicbox|Referer=http://sctvonline.vn/
 
 #EXTINF:0 group-title="🌍|Quốc Tế" tvg-id="flixhd" tvg-logo="https://i.ibb.co/5M40xDk/flix.jpg",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
