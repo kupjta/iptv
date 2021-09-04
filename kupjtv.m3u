@@ -397,6 +397,12 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://i.imgur.com/krupazx.png" group-title="🌍|Quốc Tế",CNN
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
 
+#EXTINF:0 tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://i.ibb.co/2hWvDmp/CNBC.png" group-title="🌍|Quốc Tế",CNBC
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://i.ibb.co/Yyptz9N/skynews.png" group-title="🌍|Quốc Tế",SKY NEWS
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://i.ibb.co/Qmq2pMm/blooberg.png" group-title="🌍|Quốc Tế",Bloomberg TV Asia HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 
