@@ -382,14 +382,11 @@ https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.imgur.com/rQ3Sgrn.png" group-title="🌍|Quốc Tế",Asian Food Network HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T0RQ7Ts/Globalnews.png" group-title="🌍|Quốc Tế",Global News
-http://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
-
 #EXTINF:-1 tvg-id="cna_channel_news_asia" tvg-logo="https://i.imgur.com/eyzGJhD.png" group-title="🌍|Quốc Tế",Channel News Asia
 https://livecdn.fptplay.net/world/newsasia_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="abcaustralia" tvg-logo="https://i.imgur.com/0OrWtJm.png" group-title="🌍|Quốc Tế",ABC Australia
-https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/kupjtv.m3u8
+https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="bbcworldnews" tvg-logo="https://i.imgur.com/9ZqIRg1.png" group-title="🌍|Quốc Tế",BBC World News
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
@@ -418,9 +415,6 @@ http://livecdn.fptplay.net/world/tv5_hls.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://i.imgur.com/YTlPk6Q.png" group-title="🌍|Quốc Tế",France 24
 http://livecdn.fptplay.net/world/france24_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FbsvZMx/RT-news.jpg" group-title="🌍|Quốc Tế",RT News
-http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
-
 #EXTINF:-1 tvg-id="arirang" tvg-logo="https://i.imgur.com/iIrAEGx.png" group-title="🌍|Quốc Tế",ARIRANG HD
 https://livecdn.fptplay.net/world/arirang_hls.smil/kupjtv.m3u8
 
@@ -429,9 +423,6 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nhk_world" tvg-logo="https://i.imgur.com/OV5nhkM.png" group-title="🌍|Quốc Tế",NHK WORLD JAPAN
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/kupjtv.m3u8
-
-#EXTINF:-1 tvg-id="nhk" tvg-logo="https://i.ibb.co/VL91Pnz/nhk.jpg" group-title="🌍|Quốc Tế",NHK JAPAN
-#http://14.177.57.116:4025/rtp/232.84.3.172:10494
 
 #EXTINF:0 group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/2M3gdq1/nasa.png",Nasa TV
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -463,12 +454,6 @@ https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="boxmusichd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vcbB6qh/Musicbox.jpg",Music Box
 http://www.vthanh.wtf/sctv.m3u8?id=musicbox|Referer=http://sctvonline.vn/
 
-#EXTINF:0 group-title="🌍|Quốc Tế" tvg-id="flixhd" tvg-logo="https://i.ibb.co/5M40xDk/flix.jpg",&Flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-
-#EXTINF:0 group-title="🌍|Quốc Tế" tvg-id="privehd" tvg-logo="https://i.ibb.co/M6pWKSB/prive.jpg",&Privé
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-
 #EXTINF:0 tvg-id="hbohd-asia" group-title="🎬|HBO" tvg-logo="https://i.ibb.co/8zmMx6y/hbo.png",HBO (𝔸𝕤𝕚𝕒)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
@@ -489,19 +474,15 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/kupjtv.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Kênh Khác" tvg-id="antvhd" tvg-logo="https://i.imgur.com/5qQzerW.png",ANTV HD
-#https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/kupjtv.m3u8
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Kênh Khác" tvg-id="nhandan" tvg-logo="https://i.imgur.com/rswzxzG.png",Nhan Dan TV
-#https://video.nhandan.thienvietjsc.net/live/nhandan720/kupjtv.m3u8
 https://htv-drm-live-cdn.fptplay.net:443/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD-720p/chunks.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Kênh Khác" tvg-id="quochoi" tvg-logo="https://i.imgur.com/IqErj7W.png",Quốc Hội
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QUOCHOI-SD-ABR/HTV-ABR/QUOCHOI-SD-720p/playlist.m3u8
 https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Kênh Khác" tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/yLQfmkW.png",QPVN
-#https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/kupjtv.m3u8
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 group-title="🇻🇳|Kênh Khác" tvg-id="ttxvnhd" tvg-logo="https://i.ibb.co/2SPcj1W/vnews.png",VNEWS
