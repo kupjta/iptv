@@ -761,7 +761,7 @@ https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Tây Bắc
-https://stream.vov.vn/audio/vovvn1_vovTTTB.stream_aac/playlist.m3u8
+http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Tây Nguyên
 http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/playlist.m3u8
