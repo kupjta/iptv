@@ -334,7 +334,7 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="disney" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png" group-title="🌍|Quốc Tế",Disney
-http://103.137.184.219:6996/disney
+#http://103.137.184.219:6996/disney
 
 #EXTINF:-1 tvg-id="babyfirst" tvg-logo="https://i.ibb.co/xg3bMmZ/Baby-first.png" group-title="🌍|Quốc Tế",Baby First
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/kupjtv.m3u8
@@ -454,6 +454,12 @@ http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="mtv" tvg-logo="https://i.imgur.com/gpWosop.png" group-title="🌍|Quốc Tế",MTV
 https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/kupjtv.m3u8
+
+#EXTINF:-1 tvg-id="flix" tvg-logo="https://i.ibb.co/5M40xDk/flix.jpg" group-title="🌍|Quốc Tế",&Flix
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+
+#EXTINF:-1 tvg-id="prive" tvg-logo="https://i.ibb.co/M6pWKSB/prive.jpg" group-title="🌍|Quốc Tế",&Privé
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmusichd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vcbB6qh/Musicbox.jpg",Music Box
 http://www.vthanh.wtf/sctv.m3u8?id=musicbox|Referer=http://sctvonline.vn/
