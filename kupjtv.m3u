@@ -322,10 +322,10 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/kupjtv.m3u8
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/fSv164Q/box1.jpg",Box Movies 1
-#http://www.vthanh.wtf/sctv.m3u8?id=boxmovie1|Referer=http://sctvonline.vn/
+http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
-#http://103.81.84.80:46803/hollywood
+http://www.vthanh.wtf/sctv.m3u8?id=hollywood|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="🌍|Quốc Tế",Cartoon Network
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/kupjtv.m3u8
