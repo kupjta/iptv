@@ -93,13 +93,14 @@ http://www.vthanh.wtf/sctv.m3u8?id=vtvcab16|Referer=http://sctvonline.vn
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MDxj7xt/cab17.jpg",🇻🇳|VTVCab17 - Yeah1! TV
 http://www.vthanh.wtf/sctv.m3u8?id=vtvcab17|Referer=http://sctvonline.vn
 
-#EXTINF:0 tvg-id="vtvcab18hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/qr931mk/cab18.png",🇻🇳|VTVCab18 - Thể thao tin tức HD
-http://14.186.94.163:9981/stream/channel/fa0731c12519a5f9acd0a4c718f569dd?profile=pass
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/hLvZ22T/cab19.jpg",🇻🇳|VTVCab19 - Vie DRAMAS
 http://www.vthanh.wtf/vieon.m3u8?kenh=vie-dramas-hd
 
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab20hd.jpg",🇻🇳|VTVCab20 - V Family
 http://www.vthanh.wtf/sctv.m3u8?id=vtvcab20|Referer=http://sctvonline.vn
+
+#EXTINF:0 tvg-id="vtvcab23hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/KL8D3Wf/ongolf.jpg",🇻🇳|VTVCab23 - OnGolf Premium
+http://14.186.94.163:9981/stream/channel/fa0731c12519a5f9acd0a4c718f569dd?profile=webtv-vp8-vorbis-webm
 
 #EXTM3U VTC
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/RSFtDPh/vtc1.jpg" group-title="🇻🇳|VTC",VTC1
