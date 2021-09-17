@@ -3,31 +3,31 @@
 
 #EXTM3U VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/NsTDYmD/vtv1.jpg" group-title="🇻🇳|VTV",VTV1 HD
-http://14.186.94.163:9981/stream/channel/ce294442ed6385f0e13e24dd3984f618?profile=pass
+http://14.186.94.163:9981/stream/channel/ce294442ed6385f0e13e24dd3984f618?profile=webtv-vp8-vorbis-webm
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.ibb.co/j5076gc/vtv2.jpg" group-title="🇻🇳|VTV",VTV2 HD 
-http://14.186.94.163:9981/stream/channel/cadcf5bf64cd201852ff55855a6ba7ee?profile=pass
+http://14.186.94.163:9981/stream/channel/cadcf5bf64cd201852ff55855a6ba7ee?profile=webtv-vp8-vorbis-webm
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.ibb.co/xLqK8wr/vtv3.jpg" group-title="🇻🇳|VTV",VTV3 HD
-http://14.186.94.163:9981/stream/channel/b141c40e927b2234b1053c9cb9c80e92?profile=pass
+http://14.186.94.163:9981/stream/channel/b141c40e927b2234b1053c9cb9c80e92?profile=webtv-vp8-vorbis-webm
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.ibb.co/fQfbt7d/vtv4.jpg" group-title="🇻🇳|VTV",VTV4 HD
-http://14.186.94.163:9981/stream/channel/b151a03ceb62d2495364e1c3b609c568?profile=pass
+http://14.186.94.163:9981/stream/channel/b151a03ceb62d2495364e1c3b609c568?profile=webtv-vp8-vorbis-webm
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.ibb.co/ckmbV3R/vtv5.jpg" group-title="🇻🇳|VTV",VTV5 HD
-http://14.186.94.163:9981/stream/channel/be54abbce7d4374d607a2f1b678ff1ed?profile=pass
+http://14.186.94.163:9981/stream/channel/be54abbce7d4374d607a2f1b678ff1ed?profile=webtv-vp8-vorbis-webm
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.ibb.co/5Y1LGMm/vtv6.jpg" group-title="🇻🇳|VTV",VTV6 HD
-http://14.186.94.163:9981/stream/channel/dc0e41e421d87179d6e3d23fe2ea444c?profile=pass
+http://14.186.94.163:9981/stream/channel/dc0e41e421d87179d6e3d23fe2ea444c?profile=webtv-vp8-vorbis-webm
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.ibb.co/C1qgD6V/vtv7.jpg" group-title="🇻🇳|VTV",VTV7 HD
-http://14.186.94.163:9981/stream/channel/f34c905d66eefcb414387744593b5668?profile=pass
+http://14.186.94.163:9981/stream/channel/f34c905d66eefcb414387744593b5668?profile=webtv-vp8-vorbis-webm
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.ibb.co/3TsHT9T/vtv8.jpg" group-title="🇻🇳|VTV",VTV8 HD
-http://14.186.94.163:9981/stream/channel/865f3b1b5b8dfa12493a8710f74402ee?profile=pass
+http://14.186.94.163:9981/stream/channel/865f3b1b5b8dfa12493a8710f74402ee?profile=webtv-vp8-vorbis-webm
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/2kS3QWn/vtv9.jpg" group-title="🇻🇳|VTV",VTV9 HD
-http://14.186.94.163:9981/stream/channel/c781e95e869704335e5e4bd395ef3e2d?profile=pass
+http://14.186.94.163:9981/stream/channel/c781e95e869704335e5e4bd395ef3e2d?profile=webtv-vp8-vorbis-webm
 
 #EXTM3U VTV CAB
 
