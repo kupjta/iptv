@@ -3,45 +3,45 @@
 
 #EXTM3U VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/NsTDYmD/vtv1.jpg" group-title="🇻🇳|VTV",VTV1 HD
-http://14.186.94.163:9981/stream/channel/ce294442ed6385f0e13e24dd3984f618?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/ce294442ed6385f0e13e24dd3984f618?profile=pass
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.ibb.co/j5076gc/vtv2.jpg" group-title="🇻🇳|VTV",VTV2 HD 
-http://14.186.94.163:9981/stream/channel/cadcf5bf64cd201852ff55855a6ba7ee?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/cadcf5bf64cd201852ff55855a6ba7ee?profile=pass
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.ibb.co/xLqK8wr/vtv3.jpg" group-title="🇻🇳|VTV",VTV3 HD
-http://14.186.94.163:9981/stream/channel/b141c40e927b2234b1053c9cb9c80e92?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/b141c40e927b2234b1053c9cb9c80e92?profile=pass
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.ibb.co/fQfbt7d/vtv4.jpg" group-title="🇻🇳|VTV",VTV4 HD
-http://14.186.94.163:9981/stream/channel/b151a03ceb62d2495364e1c3b609c568?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/b151a03ceb62d2495364e1c3b609c568?profile=pass
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.ibb.co/ckmbV3R/vtv5.jpg" group-title="🇻🇳|VTV",VTV5 HD
-http://14.186.94.163:9981/stream/channel/be54abbce7d4374d607a2f1b678ff1ed?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/be54abbce7d4374d607a2f1b678ff1ed?profile=pass
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.ibb.co/5Y1LGMm/vtv6.jpg" group-title="🇻🇳|VTV",VTV6 HD
-http://14.186.94.163:9981/stream/channel/dc0e41e421d87179d6e3d23fe2ea444c?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/dc0e41e421d87179d6e3d23fe2ea444c?profile=pass
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.ibb.co/C1qgD6V/vtv7.jpg" group-title="🇻🇳|VTV",VTV7 HD
-http://14.186.94.163:9981/stream/channel/f34c905d66eefcb414387744593b5668?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/f34c905d66eefcb414387744593b5668?profile=pass
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.ibb.co/3TsHT9T/vtv8.jpg" group-title="🇻🇳|VTV",VTV8 HD
-http://14.186.94.163:9981/stream/channel/865f3b1b5b8dfa12493a8710f74402ee?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/865f3b1b5b8dfa12493a8710f74402ee?profile=pass
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/2kS3QWn/vtv9.jpg" group-title="🇻🇳|VTV",VTV9 HD
-http://14.186.94.163:9981/stream/channel/c781e95e869704335e5e4bd395ef3e2d?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/c781e95e869704335e5e4bd395ef3e2d?profile=pass
 
 #EXTM3U VTV CAB
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/YR8ntg2/cab1.jpg",🇻🇳|VTVCab1 - Vie Giải Trí
-http://14.186.94.163:9981/stream/channel/28b1edc67909f35959f672171394547c?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/28b1edc67909f35959f672171394547c?profile=pass
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MGQLhzz/cab2.jpg",🇻🇳|VTVCab2 - On Phim Việt
-http://14.186.94.163:9981/stream/channel/3e87b44bc23bee2e9ba9e64fa92c1012?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/3e87b44bc23bee2e9ba9e64fa92c1012?profile=pass
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/w4Hk5SV/cab3.jpg",🇻🇳|VTVCab3 HD - Onsports
 http://www.vthanh.wtf/sctv.m3u8?id=vtvcab3|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/6tSq3hP/cab4.jpg" ,🇻🇳|VTVCab4 - Văn Hóa
-http://14.186.94.163:9981/stream/channel/e89b67f27c198dc41f19e6aef573d6b7?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/e89b67f27c198dc41f19e6aef573d6b7?profile=pass
 
 #EXTINF:0 tvg-id="vtvcab5hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/syDtbxt/cab5.jpg",🇻🇳|VTVCab5 - E Channel
 http://www.vthanh.wtf/sctv.m3u8?id=vtvcab5|Referer=http://sctvonline.vn
@@ -50,124 +50,123 @@ http://www.vthanh.wtf/sctv.m3u8?id=vtvcab5|Referer=http://sctvonline.vn
 http://www.vthanh.wtf/sctv.m3u8?id=vtvcab6|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab7hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/ySjPtML/cab7.png",🇻🇳|VTVCab7 - Sức khỏe
-http://14.186.94.163:9981/stream/channel/3b123c20f9efc9d8d4c946525b063e15?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/3b123c20f9efc9d8d4c946525b063e15?profile=pass
 
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/vdxbmPn/cab8.jpg",🇻🇳|VTVCab8 - BIBI
-http://14.186.94.163:9981/stream/channel/d3a067d625e005a1942ed152fade6d89?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/d3a067d625e005a1942ed152fade6d89?profile=pass
 
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/4Fj6h9Z/cab9.jpg",🇻🇳|VTVCab9 - Info TV
-http://14.186.94.163:9981/stream/channel/2fc23e320465ac592833cfa87f2b317a?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/2fc23e320465ac592833cfa87f2b317a?profile=pass
 
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/CzPQg4X/cab10.jpg",🇻🇳|VTVcab10 - OnCine
-http://14.186.94.163:9981/stream/channel/001231276fac5b5b87a21eb9de34d19d?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/001231276fac5b5b87a21eb9de34d19d?profile=pass
 
 #EXTINF:0 tvg-id="vtvcab12hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/Lgb1ryR/cab12.jpg",🇻🇳|VTVCab12 - StyleTV
-http://14.186.94.163:9981/stream/channel/8ef129b0a717f8af8e7dd312863bda52?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/8ef129b0a717f8af8e7dd312863bda52?profile=pass
 
 #EXTINF:0 tvg-id="vtvcab15hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/tJDps6v/cab15.jpg",🇻🇳|VTVCab15 - M Channel
-http://14.186.94.163:9981/stream/channel/1501089645882a0ace74b0b66b918d03?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/1501089645882a0ace74b0b66b918d03?profile=pass
 
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/pdcJq4z/cab16.jpg",🇻🇳|VTVCab16 - OnFootball
 http://www.vthanh.wtf/sctv.m3u8?id=vtvcab16|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MDxj7xt/cab17.jpg",🇻🇳|VTVCab17 - Yeah1! TV
-http://14.186.94.163:9981/stream/channel/d9551c17045546414eade15c6d09f0cf?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/d9551c17045546414eade15c6d09f0cf?profile=pass
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/hLvZ22T/cab19.jpg",🇻🇳|VTVCab19 - Vie DRAMAS
-http://14.186.94.163:9981/stream/channel/3e721d802deb5c5ed7bef91b07641d52?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/3e721d802deb5c5ed7bef91b07641d52?profile=pass
 
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab20hd.jpg",🇻🇳|VTVCab20 - V Family
-http://14.186.94.163:9981/stream/channel/e7667f7c14c67ae0b0defa4a60577632?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/e7667f7c14c67ae0b0defa4a60577632?profile=pass
 
 #EXTINF:0 tvg-id="vtvcab23hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/KL8D3Wf/ongolf.jpg",🇻🇳|VTVCab23 - OnGolf Premium
-http://14.186.94.163:9981/stream/channel/fa0731c12519a5f9acd0a4c718f569dd?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/fa0731c12519a5f9acd0a4c718f569dd?profile=pass
 
 #EXTM3U HTV
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://i.imgur.com/BvjmYtr.png" group-title="🇻🇳|HTV",HTV1
-http://14.186.94.163:9981/stream/channel/193457b96461936e9e300b47803ced7f?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/193457b96461936e9e300b47803ced7f?profile=pass
 
 #EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://i.imgur.com/12qnM2B.png" group-title="🇻🇳|HTV",HTV2 HD
-http://14.186.94.163:9981/stream/channel/6033c0b03315ad4edec47aa22a12413e?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/6033c0b03315ad4edec47aa22a12413e?profile=pass
 
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.imgur.com/8GOohTX.png" group-title="🇻🇳|HTV",HTV3
-http://14.186.94.163:9981/stream/channel/02cbc56c25f7896bbd61085e0144767c?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/02cbc56c25f7896bbd61085e0144767c?profile=pass
 
 #EXTINF:-1 tvg-id="htv4" tvg-logo="https://i.imgur.com/JBNgrHU.png" group-title="🇻🇳|HTV",HTV Keys
-http://14.186.94.163:9981/stream/channel/81d35d8573edf7d30dcaa9fe68524e32?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/81d35d8573edf7d30dcaa9fe68524e32?profile=pass
 
 #EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.imgur.com/EPZzYTx.png" group-title="🇻🇳|HTV",HTV7 HD
-http://14.186.94.163:9981/stream/channel/346fe4003bfbd532522e43eb646a4da5?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/346fe4003bfbd532522e43eb646a4da5?profile=pass
 
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://i.imgur.com/vMxj1BX.png" group-title="🇻🇳|HTV",HTV9 HD
-http://14.186.94.163:9981/stream/channel/26857f5d33e078843508b36eb47d2621?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/26857f5d33e078843508b36eb47d2621?profile=pass
 
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://i.imgur.com/WltXVFn.png" group-title="🇻🇳|HTV",HTVC Ca Nhạc
-http://14.186.94.163:9981/stream/channel/831a792f42f846c8f59b0da4ee379177?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/831a792f42f846c8f59b0da4ee379177?profile=pass
 
 #EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://i.imgur.com/qQSl5rD.png" group-title="🇻🇳|HTV",HTVC Phim
-http://14.186.94.163:9981/stream/channel/bf71e9c1cac2fcdebc284e5e44f0f8c0?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/bf71e9c1cac2fcdebc284e5e44f0f8c0?profile=pass
 
 #EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://i.imgur.com/GWGhPu7.png" group-title="🇻🇳|HTV",Du Lịch và Cuộc Sống
-http://14.186.94.163:9981/stream/channel/f4101d4daee9cea554a321a06514bfd8?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/f4101d4daee9cea554a321a06514bfd8?profile=pass
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://i.imgur.com/EAv5N7c.png" group-title="🇻🇳|HTV",HTVC Gia Đình
-http://14.186.94.163:9981/stream/channel/ad8ddaeac2629ffaaa60ae7da1afbf91?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/ad8ddaeac2629ffaaa60ae7da1afbf91?profile=pass
 
 #EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://i.imgur.com/pTuBwDS.png" group-title="🇻🇳|HTV",HTVC Phụ Nữ
-http://14.186.94.163:9981/stream/channel/5a57c3f721db5a84ebf0720acc81f9d8?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/5a57c3f721db5a84ebf0720acc81f9d8?profile=pass
 
 #EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://i.imgur.com/qSzadDW.png" group-title="🇻🇳|HTV",HTVC Thuần Việt
-http://14.186.94.163:9981/stream/channel/1eead72b7a5e5251dab2896cef40271b?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/1eead72b7a5e5251dab2896cef40271b?profile=pass
 
 #EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://i.imgur.com/jOeEfm6.png" group-title="🇻🇳|HTV",Thuần Việt HD
-http://14.186.94.163:9981/stream/channel/2f6c04ee819aa2e05ee294870db6f80b?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/2f6c04ee819aa2e05ee294870db6f80b?profile=pass
 
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://i.imgur.com/gSnnXza.png" group-title="🇻🇳|HTV",HTV Thể Thao
-http://14.186.94.163:9981/stream/channel/43ce1890ed0dc09462898668f96e11f8?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/43ce1890ed0dc09462898668f96e11f8?profile=pass
 
 #EXTM3U VTC
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/RSFtDPh/vtc1.jpg" group-title="🇻🇳|VTC",VTC1
-http://14.186.94.163:9981/stream/channel/8249f55a60947b4e65c233e37e71cff8?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/8249f55a60947b4e65c233e37e71cff8?profile=pass
 
 #EXTINF:-1 tvg-id="vtc2" tvg-logo="https://i.ibb.co/GWP8TXQ/vtc2.jpg" group-title="🇻🇳|VTC",VTC2
-http://14.186.94.163:9981/stream/channel/d7bb51ac0a5ac3ff0de055b637850c5f?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/d7bb51ac0a5ac3ff0de055b637850c5f?profile=pass
 
 #EXTINF:-1 tvg-id="vtc3hd" tvg-logo="https://i.ibb.co/SyBBGpy/vtc3.jpg" group-title="🇻🇳|VTC",VTC3
-http://14.186.94.163:9981/stream/channel/25bf84518f7f618a51b57233b9a13d04?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/25bf84518f7f618a51b57233b9a13d04?profile=pass
 
 #EXTINF:-1 tvg-id="vtc4hd" tvg-logo="https://i.ibb.co/VHjg6mz/vtc4.jpg" group-title="🇻🇳|VTC",VTC4
-http://14.186.94.163:9981/stream/channel/a82716d79a3f2f3c1c3186af8ffa6162?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/a82716d79a3f2f3c1c3186af8ffa6162?profile=pass
 
 #EXTINF:-1 tvg-id="vtc5hd" tvg-logo="https://i.ibb.co/VL5FvJM/Vtc5.jpg" group-title="🇻🇳|VTC",VTC5
-http://14.186.94.163:9981/stream/channel/fb8e44029edd4e45cda967f9029bff9d?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/fb8e44029edd4e45cda967f9029bff9d?profile=pass
 
 #EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://i.ibb.co/NV5krSX/vtc6.jpg" group-title="🇻🇳|VTC",VTC6
-http://14.186.94.163:9981/stream/channel/268108f86d3e5253239c02f4c7275aa2?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/268108f86d3e5253239c02f4c7275aa2?profile=pass
 
 #EXTINF:-1 tvg-id="vtc7hd" tvg-logo="https://i.ibb.co/YWKyB2Z/Vtc7.jpg" group-title="🇻🇳|VTC",VTC7
-http://14.186.94.163:9981/stream/channel/e4335d7f6d61ba91f0378100e054fb63?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/e4335d7f6d61ba91f0378100e054fb63?profile=pass
 
 #EXTINF:-1 tvg-id="vtc8" tvg-logo="https://i.ibb.co/3vjN1Rm/vtc8.jpg" group-title="🇻🇳|VTC",VTC8
-http://14.186.94.163:9981/stream/channel/231748d59fb640e3e316a707b30068f5?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/231748d59fb640e3e316a707b30068f5?profile=pass
 
 #EXTINF:-1 tvg-id="vtc9hd" tvg-logo="https://i.ibb.co/9vvSX6X/vtc9.jpg" group-title="🇻🇳|VTC",VTC9
-http://14.186.94.163:9981/stream/channel/6eb5662b94f211508ff768786229b7e0?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/6eb5662b94f211508ff768786229b7e0?profile=pass
 
 #EXTINF:-1 tvg-id="vtc10hd" tvg-logo="https://i.ibb.co/HH0YCZX/vtc10.jpg" group-title="🇻🇳|VTC",VTC10
-http://14.186.94.163:9981/stream/channel/01887bd8d2840d8d57242f8fcb2d14a8?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/01887bd8d2840d8d57242f8fcb2d14a8?profile=pass
 
 #EXTINF:-1 tvg-id="vtc11hd" tvg-logo="https://i.ibb.co/4pZpWz4/vtc11.jpg" group-title="🇻🇳|VTC",VTC11
-http://14.186.94.163:9981/stream/channel/692ac7a7a5fd388c039c0fa2fa80fbda?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/692ac7a7a5fd388c039c0fa2fa80fbda?profile=pass
 
 #EXTINF:-1 tvg-id="vtc12" tvg-logo="https://i.ibb.co/Np03FCK/vtc12.jpg" group-title="🇻🇳|VTC",VTC12
-http://14.186.94.163:9981/stream/channel/7b10777577185d498f1f691ed17307cd?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/7b10777577185d498f1f691ed17307cd?profile=pass
 
 #EXTINF:-1 tvg-id="vtc13hd" tvg-logo="https://i.ibb.co/vkfB3nz/vtc13.jpg" group-title="🇻🇳|VTC",VTC13
-http://14.186.94.163:9981/stream/channel/5fd3c3da175e787bbbe1e20227da6b70?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/5fd3c3da175e787bbbe1e20227da6b70?profile=pass
 
 #EXTINF:-1 tvg-id="vtc14hd" tvg-logo="https://i.ibb.co/dW7MT3x/vtc14.jpg" group-title="🇻🇳|VTC",VTC14
-http://14.186.94.163:9981/stream/channel/2254894d1427f7892e437f476f10714a?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/2254894d1427f7892e437f476f10714a?profile=pass
 
 #EXTINF:-1 tvg-id="vtc16" tvg-logo="https://i.ibb.co/jw4mpg3/vtc16.jpg" group-title="🇻🇳|VTC",VTC16
-http://14.186.94.163:9981/stream/channel/55bf3a1dea7d9bb20cf3b564edd568fb?profile=webtv-vp8-vorbis-webm
-
+http://14.186.94.163:9981/stream/channel/55bf3a1dea7d9bb20cf3b564edd568fb?profile=pass
