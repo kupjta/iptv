@@ -52,7 +52,6 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/kupjtv.m3u8
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/YR8ntg2/cab1.jpg",🇻🇳|VTVCab1 - Vie Giải Trí
 http://www.vthanh.wtf/vieon.m3u8?kenh=vie-giai-tri-hd
-#http://112.197.12.62/secure/vtvcab1/index.m3u8?md5=dBooYMMaJzuC4PQSnva4EQ&expires=2556118740
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MGQLhzz/cab2.jpg",🇻🇳|VTVCab2 - On Phim Việt
 http://www.vthanh.wtf/sctv.m3u8?id=vtvcab2|Referer=http://sctvonline.vn
@@ -100,7 +99,7 @@ http://www.vthanh.wtf/vieon.m3u8?kenh=vie-dramas-hd
 http://www.vthanh.wtf/sctv.m3u8?id=vtvcab20|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab23hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/KL8D3Wf/ongolf.jpg",🇻🇳|VTVCab23 - OnGolf Premium
-http://14.186.94.163:9981/stream/channel/fa0731c12519a5f9acd0a4c718f569dd?profile=webtv-vp8-vorbis-webm
+http://14.186.94.163:9981/stream/channel/fa0731c12519a5f9acd0a4c718f569dd?profile=pass
 
 #EXTM3U VTC
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/RSFtDPh/vtc1.jpg" group-title="🇻🇳|VTC",VTC1
