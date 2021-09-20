@@ -342,6 +342,9 @@ https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="disney" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png" group-title="🌍|Quốc Tế",Disney
 http://14.186.94.163:9981/stream/channel/b79b0c109d63e52aeae9a83c82047ea2?profile=pass
 
+#EXTINF:-1 tvg-id="disney" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png" group-title="🌍|Quốc Tế",Disney Junior
+http://14.186.94.163:9981/stream/channel/7e1450a2a4cf92f271d78703f87ae1a6?profile=pass
+
 #EXTINF:-1 tvg-id="babyfirst" tvg-logo="https://i.ibb.co/xg3bMmZ/Baby-first.png" group-title="🌍|Quốc Tế",Baby First
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/kupjtv.m3u8
 
