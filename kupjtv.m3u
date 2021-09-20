@@ -324,7 +324,13 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/kupjtv.m3u8
 http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
-http://www.vthanh.wtf/sctv.m3u8?id=hollywood|Referer=http://sctvonline.vn/
+http://103.195.238.226/hollywood/mpegts
+
+#EXTINF:-1 tvg-id="inthebox" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/Qdv98Db/inthebox.png",In The Box
+http://103.195.238.226/inthebox/mpegts
+
+#EXTINF:-1 tvg-id="boxhits" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png",Box Hits
+http://103.195.238.226/boxhits/mpegts
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="🌍|Quốc Tế",Cartoon Network
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/kupjtv.m3u8
@@ -448,6 +454,9 @@ https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="channelvhd" tvg-logo="https://i.imgur.com/BT8eRjq.png" group-title="🌍|Quốc Tế",Channel V HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="man" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/wcT2VqP/man.png",Man
+http://103.195.238.226/man/mpegts
+
 #EXTINF:-1 tvg-id="woman" tvg-logo="https://i.ibb.co/GTrnKhc/woman.jpg" group-title="🌍|Quốc Tế",Woman
 http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
 
@@ -460,7 +469,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="prive" tvg-logo="https://i.ibb.co/M6pWKSB/prive.jpg" group-title="🌍|Quốc Tế",&Privé
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
-#EXTINF:-1 tvg-id="boxmusichd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/vcbB6qh/Musicbox.jpg",Music Box
+#EXTINF:-1 tvg-id="boxmusichd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/ts1LrXn/musicbox.png",Music Box
 http://www.vthanh.wtf/sctv.m3u8?id=musicbox|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="hbohd-asia" group-title="🎬|HBO" tvg-logo="https://i.ibb.co/8zmMx6y/hbo.png",HBO (𝔸𝕤𝕚𝕒)
@@ -600,7 +609,7 @@ https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/FXgd3qw/httv.jpg",Hà Tĩnh
 https://livecdn.fptplay.net/sdc/hatinh_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="haiduong" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/144.png",Hải Dương
+#EXTINF:-1 tvg-id="haiduong" group-title="🇻🇳|Địa Phương" tvg-logo="http://vthanh.live/ic/144.png",Hải Dương
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="haiphong" tvg-id="" group-title="🇻🇳|Địa Phương" tvg-logo="http://vthanh.live/ic/145.png",Hải Phòng HD
@@ -678,7 +687,7 @@ https://livecdn.fptplay.net/sdc/quangtri_hls.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="sotrang" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/PhzCVfR/soctrang.jpg",Sóc Trăng
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="soctrang2" group-title="Địa phương" tvg-logo="https://i.ibb.co/PhzCVfR/soctrang.jpg", Sóc Trăng 2
+#EXTINF:-1 tvg-id="soctrang2" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/PhzCVfR/soctrang.jpg", Sóc Trăng 2
 http://115.78.3.164:8135/liveeventstv2.m3u8
 
 #EXTINF:-1 tvg-id="sonla" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/8srcnnH/sonla.jpg",Sơn La
