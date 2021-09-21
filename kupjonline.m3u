@@ -170,3 +170,10 @@ http://14.186.94.163:9981/stream/channel/2254894d1427f7892e437f476f10714a?profil
 
 #EXTINF:-1 tvg-id="vtc16" tvg-logo="https://i.ibb.co/jw4mpg3/vtc16.jpg" group-title="🇻🇳|VTC",VTC16
 http://14.186.94.163:9981/stream/channel/55bf3a1dea7d9bb20cf3b564edd568fb?profile=pass
+
+#EXTM3U International
+#EXTINF:0  tvg-id="hbohd" group-title="International" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO
+http://14.186.94.163:9981/stream/channel/a121f7bd3af36a81ecb6e1db52879c1e?profile=pass
+
+#EXTINF:0  tvg-id="cinemaxhd" group-title="International" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax
+http://14.186.94.163:9981/stream/channel/a5c9e0dd026014c0b4ccc8a50a4c9f7e?profile=pass
