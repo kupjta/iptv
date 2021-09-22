@@ -177,3 +177,30 @@ http://14.186.94.163:9981/stream/channel/a121f7bd3af36a81ecb6e1db52879c1e?profil
 
 #EXTINF:0  tvg-id="cinemaxhd" group-title="International" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax
 http://14.186.94.163:9981/stream/channel/a5c9e0dd026014c0b4ccc8a50a4c9f7e?profile=pass
+
+#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="International",Cartoon Network
+http://14.186.94.163:9981/stream/channel/2c9a2ac0fe6e59418f7811ec66f24924?profile=pass
+
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://i.ibb.co/cwQ4R8V/boomerang.jpg" group-title="International",Boomerang
+http://14.186.94.163:9981/stream/channel/b9cf718898d3beef5e6472e2aca9676c?profile=pass
+
+#EXTINF:-1 tvg-id="disney" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png" group-title="International",Disney
+http://14.186.94.163:9981/stream/channel/b79b0c109d63e52aeae9a83c82047ea2?profile=pass
+
+#EXTINF:-1 tvg-id="disney" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png" group-title="International",Disney Junior
+http://14.186.94.163:9981/stream/channel/7e1450a2a4cf92f271d78703f87ae1a6?profile=pass
+
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/fXuxFbz.png" group-title="International",Discovery HD
+http://14.186.94.163:9981/stream/channel/5146ce1cbe7cff9804b356e4be708a25?profile=pass
+
+#EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://i.imgur.com/blEhr2T.png" group-title="International",Discovery Asia
+http://14.186.94.163:9981/stream/channel/f91bfd79022b9b2ecfe4c82c98d7007b?profile=pass
+
+#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://i.imgur.com/cjx78kt.png" group-title="International",National Geographic HD
+http://14.186.94.163:9981/stream/channel/372eaf9b76ccd06d95b55a0b8a39bc4b?profile=pass
+
+#EXTINF:-1 tvg-id="ngwhd" tvg-logo="https://i.imgur.com/3jBRVrj.png" group-title="International",National Geographic Wild HD
+http://14.186.94.163:9981/stream/channel/8d6e280f5ba3aa3e33b8cda8a1bba0a1?profile=pass
+
+#EXTINF:-1 tvg-id="mtv" tvg-logo="https://i.imgur.com/gpWosop.png" group-title="International",MTV
+http://14.186.94.163:9981/stream/channel/9c6899b778b8f76c45eb84242f94465f?profile=pass
