@@ -244,7 +244,7 @@ http://www.vthanh.wtf/sctv.m3u8?id=sctv16|Referer=http://sctvonline.vn/
 http://www.vthanh.wtf/sctv.m3u8?id=sctv17|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/LY0CW6H/logo26072108-sctv18-hd.png",SCTV18 HD
-http://vtsstr3.tv24.vn:1935/elive1/SCTV18_HD_4/kupjtv.m3u8?uid=s2c526m574z5s4l5h4&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks
+http://www.vthanh.wtf/sctv.m3u8?id=sctv18|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv19hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/5TrWMKr/logo26072108-sctv19-hd.png",SCTV 19 | T Channel
 http://www.vthanh.wtf/sctv.m3u8?id=sctv19|Referer=http://sctvonline.vn/
@@ -514,7 +514,7 @@ http://livecdn.fptplay.net/sda/ttxvn_hls.smil/kupjtv.m3u8
 https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="youtv" group-title="🇻🇳|Kênh Khác" tvg-logo="https://i.ibb.co/fqgMpWb/hanoicab2-BEARTV.png",Hanoicab2 - YouTV
-https://live2cdn.todayplus.com.vn/sdb/smil:youtv.smil/kupjtv.m3u8
+https://livecdn.fptplay.net/sdb/youtv_hls.smil/kupjtv.m3u8
 
 #EXTM3U Địa Phương
 #EXTINF:-1 tvg-id="angiang" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/fkkbJK1/atv.jpg",An Giang
