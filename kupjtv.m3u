@@ -282,16 +282,16 @@ https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/kupjtv.m3u8
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/kupjtv.m3u8.m3u8
 
 #EXTINF:-1 tvg-id="foxhd" tvg-logo="https://i.imgur.com/cwVCPqN.png" group-title="🌍|Quốc Tế",Fox HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+http://14.186.94.163:9981/stream/channel/a778e2da0a311aecb39c44dafe8d4f46?profile=pass
 
 #EXTINF:-1 tvg-id="foxmovieshd" tvg-logo="https://i.imgur.com/1bzBhnP.png" group-title="🌍|Quốc Tế",Fox Movies
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/kupjtv.m3u8
+http://14.186.94.163:9981/stream/channel/3de1f54f8c78e264ea60de4b36ee193d?profile=pass
 
 #EXTINF:-1 tvg-id="foxfamilymovieshd" tvg-logo="https://i.imgur.com/8TuxjVp.png" group-title="🌍|Quốc Tế",Fox Family Movies
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+http://14.186.94.163:9981/stream/channel/fc8ed6526a7159d52dd84da43725b391?profile=pass
 
 #EXTINF:-1 tvg-id="foxlifehd" tvg-logo="https://i.imgur.com/8COzEQg.png" group-title="🌍|Quốc Tế",Fox Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/kupjtv.m3u8
+http://14.186.94.163:9981/stream/channel/6c07f4d3c579a87de4ff9b7608021c6f?profile=pass
 
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/z8Cm35k.png" group-title="🌍|Quốc Tế",Warner TV
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/kupjtv.m3u8
@@ -300,7 +300,7 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/kupjtv.m3u8.m3u8
 
 #EXTINF:-1 tvg-id="paramountchannel" tvg-logo="https://i.ibb.co/4Z31gr8/41p-Wk1-XWfe-L.jpg" group-title="🌍|Quốc Tế",Paramount Network
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://i.imgur.com/CVxACz9.png" group-title="🌍|Quốc Tế",KIX
 #https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/kupjtv.m3u8
@@ -321,17 +321,16 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/kupjtv.m3u8
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/fSv164Q/box1.jpg",Box Movies 1
-http://www.vthanh.wtf/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&cre=coca&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
-#https://e4.endpoint.cdn.sctvonline.vn/secure/hollywood/index.m3u8?md5=clpcBSiOLDJ7332ITIecGA&cre=coca&expires=2556118740|Referer=http://sctvonline.vn/
-http://103.195.238.226/hollywood/mpegts
+https://e4.endpoint.cdn.sctvonline.vn/secure/hollywood/index.m3u8?md5=clpcBSiOLDJ7332ITIecGA&cre=coca&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/Qdv98Db/inthebox.png",In The Box
-http://103.195.238.226/inthebox/mpegts
+#http://103.195.238.226/inthebox/mpegts
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png",Box Hits
-http://103.195.238.226/boxhits/mpegts
+#http://103.195.238.226/boxhits/mpegts
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="🌍|Quốc Tế",Cartoon Network
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/kupjtv.m3u8
@@ -383,8 +382,6 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/d7qWHVD/251.jpg" group-title="🌍|Quốc Tế",Dr Fit HD
 http://www.vthanh.wtf/sctv.m3u8?id=drfit|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="historyhd" tvg-logo="https://i.ibb.co/vxd0zrw/history-hd.jpg" group-title="🌍|Quốc Tế",History HD
 
 #EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.imgur.com/amlBPub.png" group-title="🌍|Quốc Tế",TLC
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/kupjtv.m3u8
@@ -445,6 +442,7 @@ http://www.vthanh.wtf/sctv.m3u8?id=planetearth|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="foxsportshd" tvg-logo="https://i.imgur.com/JsFd6Nl.png" group-title="🌍|Quốc Tế",Fox Sports
 https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/kupjtv.m3u8
+http://14.186.94.163:9981/stream/channel/9a37cbd712e1d0275a79791bac6dd582?profile=pass
 
 #EXTINF:-1 tvg-id="foxsports2hd" tvg-logo="https://i.imgur.com/acCilxO.png" group-title="🌍|Quốc Tế",Fox Sports 2
 https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/kupjtv.m3u8
@@ -459,7 +457,7 @@ https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/kupjtv.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/wcT2VqP/man.png",Man
-http://103.195.238.226/man/mpegts
+#http://103.195.238.226/man/mpegts
 
 #EXTINF:-1 tvg-id="woman" tvg-logo="https://i.ibb.co/GTrnKhc/woman.jpg" group-title="🌍|Quốc Tế",Woman
 http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
