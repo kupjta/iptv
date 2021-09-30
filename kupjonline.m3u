@@ -187,7 +187,7 @@ http://14.186.94.163:9981/stream/channel/b9cf718898d3beef5e6472e2aca9676c?profil
 #EXTINF:-1 tvg-id="disney" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png" group-title="International",Disney
 http://14.186.94.163:9981/stream/channel/b79b0c109d63e52aeae9a83c82047ea2?profile=pass
 
-#EXTINF:-1 tvg-id="disney" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png" group-title="International",Disney Junior
+#EXTINF:-1 tvg-id="disneyjr" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png" group-title="International",Disney Junior
 http://14.186.94.163:9981/stream/channel/7e1450a2a4cf92f271d78703f87ae1a6?profile=pass
 
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/fXuxFbz.png" group-title="International",Discovery HD
