@@ -281,15 +281,6 @@ https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://i.imgur.com/5Gtp7WP.png" group-title="🌍|Quốc Tế",AXN
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/kupjtv.m3u8.m3u8
 
-#EXTINF:-1 tvg-id="hitshd" tvg-logo="https://i.ibb.co/Yb6fhGz/HITS-M.jpg" group-title="🌍|Quốc Tế",HITS
-http://14.186.94.163:9981/stream/channel/fc8ed6526a7159d52dd84da43725b391?profile=pass
-
-#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/z8Cm35k.png" group-title="🌍|Quốc Tế",Warner TV
-http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/kupjtv.m3u8
-
-#EXTINF:-1 tvg-id="cinemaworld" tvg-logo="https://i.imgur.com/KcEAjUh.png" group-title="🌍|Quốc Tế",Cinema World
-https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/kupjtv.m3u8.m3u8
-
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://i.imgur.com/CVxACz9.png" group-title="🌍|Quốc Tế",KIX
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/kupjtv.m3u8
 
@@ -311,11 +302,17 @@ http://vthanh.xyz/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
 #https://e4.endpoint.cdn.sctvonline.vn/secure/hollywood/index.m3u8?md5=clpcBSiOLDJ7332ITIecGA&cre=coca&expires=2556118740|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="inthebox" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/Qdv98Db/inthebox.png",In The Box
-#http://103.195.239.138/inthebox/mpegts
-
 #EXTINF:-1 tvg-id="boxhits" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png",Box Hits
 http://103.195.239.138:80/boxhits/mpegts
+
+#EXTINF:-1 tvg-id="hitshd" tvg-logo="https://i.ibb.co/Yb6fhGz/HITS-M.jpg" group-title="🌍|Quốc Tế",HITS
+http://14.186.94.163:9981/stream/channel/fc8ed6526a7159d52dd84da43725b391?profile=pass
+
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/z8Cm35k.png" group-title="🌍|Quốc Tế",Warner TV
+http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/kupjtv.m3u8
+
+#EXTINF:-1 tvg-id="cinemaworld" tvg-logo="https://i.imgur.com/KcEAjUh.png" group-title="🌍|Quốc Tế",Cinema World
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/kupjtv.m3u8.m3u8
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="🌍|Quốc Tế",Cartoon Network
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/kupjtv.m3u8
@@ -325,6 +322,9 @@ https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="babyfirst" tvg-logo="https://i.ibb.co/xg3bMmZ/Baby-first.png" group-title="🌍|Quốc Tế",Baby First
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/kupjtv.m3u8
+
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://i.ibb.co/Q8P4H3Y/babytv.jpg" group-title="🌍|Quốc Tế",Baby TV
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://i.ibb.co/30mwfjW/animax.png" group-title="🌍|Quốc Tế",Animax
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/kupjtv.m3u8
