@@ -211,7 +211,7 @@ http://vthanh.xyz/sctv.m3u8?id=sctv3|Referer=http://sctvonline.vn/
 http://vthanh.xyz/sctv.m3u8?id=sctv4|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/HpgQgB5/logo26072108-sctv6-hd.png",SCTV6 | Thế Hệ Mới
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv6/sd1/index.m3u8?md5=4SolymWJ8gDfu-b_dR7biA&expires=2556118740|Referer=http://sctvonline.vn/
+http://vthanh.xyz/sctv.m3u8?id=sctv6|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv7hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/q52fk4p/logo26072108-sctv7-hd.png",SCTV7 | Sân Khấu
 http://vthanh.xyz/sctv.m3u8?id=sctv7|Referer=http://sctvonline.vn/
@@ -220,7 +220,7 @@ http://vthanh.xyz/sctv.m3u8?id=sctv7|Referer=http://sctvonline.vn/
 http://vthanh.xyz/sctv.m3u8?id=sctv8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/bdMgBLN/logo26072108-sctv9-hd.png",SCTV9 | Phim Châu Á
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
+http://vthanh.xyz/sctv.m3u8?id=sctv9|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png",SCTV11 | Ngôi Sao
 http://vthanh.xyz/sctv.m3u8?id=sctv11|Referer=http://sctvonline.vn/
@@ -300,7 +300,7 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/kupjtv.m3u8
 http://vthanh.xyz/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
+http://vthanh.xyz/sctv.m3u8?id=hollywood|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png",Box Hits
 http://103.195.239.138:80/boxhits/mpegts
@@ -436,9 +436,6 @@ http://38.131.11.9:1080/play/a034
 
 #EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.imgur.com/Zyy11Cs.png" group-title="🌍|Quốc Tế",Fashion TV
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/kupjtv.m3u8
-
-#EXTINF:-1 tvg-id="channelvhd" tvg-logo="https://i.imgur.com/BT8eRjq.png" group-title="🌍|Quốc Tế",Channel V HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/wcT2VqP/man.png",Man
 #http://103.195.238.226/man/mpegts
