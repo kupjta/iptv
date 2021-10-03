@@ -8,7 +8,7 @@
 #EXTINF:-1 tvg-id="knshd" tvg-logo="https://i.ibb.co/hcrTWt2/kns.png" group-title="K+",K+NS HD
 #http://103.81.84.80:46803/kns
 
-#EXTINF:-1 tvg-id="kpchd" tvg-logo="https://i.ibb.co/dmrwZDw/kpc.png" group-title="K+",K+PC HD
+#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://i.ibb.co/0JJQtw3/Kcine.png" group-title="K+",K+CINE HD
 #http://103.81.84.80:46803/kpc
 
 #EXTINF:-1 tvg-id="kpmhd" tvg-logo="https://i.ibb.co/2ZhvW7w/kpm.png" group-title="K+",K+PM HD
@@ -306,7 +306,7 @@ http://vthanh.xyz/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
 http://103.195.239.138:80/boxhits/mpegts
 
 #EXTINF:-1 tvg-id="hitshd" tvg-logo="https://i.ibb.co/Yb6fhGz/HITS-M.jpg" group-title="🌍|Quốc Tế",HITS
-http://14.186.94.163:9981/stream/channel/fc8ed6526a7159d52dd84da43725b391?profile=pass
+http://103.195.239.138/hits/mpegts
 
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/z8Cm35k.png" group-title="🌍|Quốc Tế",Warner TV
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/kupjtv.m3u8
@@ -324,10 +324,13 @@ https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://i.ibb.co/Q8P4H3Y/babytv.jpg" group-title="🌍|Quốc Tế",Baby TV
-https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://i.ibb.co/30mwfjW/animax.png" group-title="🌍|Quốc Tế",Animax
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/kupjtv.m3u8
+
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://i.ibb.co/C0tPfXg/dreamwork.png" group-title="🌍|Quốc Tế",Dreamworks
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="cbeebies" tvg-logo="https://i.ibb.co/gRXyycj/cbeebies.png" group-title="🌍|Quốc Tế",CBeebies
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/kupjtv.m3u8
@@ -341,14 +344,20 @@ http://vthanh.xyz/sctv.m3u8?id=happykids|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png" group-title="🌍|Quốc Tế",Animal Planet
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://i.imgur.com/cjx78kt.png" group-title="🌍|Quốc Tế",National Geographic HD
-http://14.186.94.163:9981/stream/channel/372eaf9b76ccd06d95b55a0b8a39bc4b?profile=pass
+#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://i.ibb.co/qxF5n2p/natgeo.jpg" group-title="🌍|Quốc Tế",National Geographic HD
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/kupjtv.m3u8
+
+#EXTINF:-1 tvg-id="ngcwhd" tvg-logo="https://i.ibb.co/m8WRJn4/natwild.jpg" group-title="🌍|Quốc Tế",National Geographic Wild HD
+https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/fXuxFbz.png" group-title="🌍|Quốc Tế",Discovery HD
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://i.imgur.com/blEhr2T.png" group-title="🌍|Quốc Tế",Discovery Asia
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/kupjtv.m3u8
+
+#EXTINF:-1 tvg-id="dmax" tvg-logo="https://i.ibb.co/yVh5RB1/Dmax.png" group-title="🌍|Quốc Tế",Dmax
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://i.imgur.com/3sQunND.png" group-title="🌍|Quốc Tế",BBC Earth
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/kupjtv.m3u8
