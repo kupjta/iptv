@@ -492,6 +492,9 @@ https://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/kupjtv.m3u8
 #EXTINF:-1 group-title="🇻🇳|Kênh Khác" tvg-id="vovtvhd" tvg-logo="https://i.ibb.co/z6vB5Mt/vovtv.jpg",VOV TV
 https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
 
+#EXTINF:-1 tvg-id="hitv" group-title="🇻🇳|Kênh Khác" tvg-logo="https://i.ibb.co/446cGMQ/hitv.jpg",Hanoicab1 - HiTV
+https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/kupjtv.m3u8
+
 #EXTINF:-1 tvg-id="youtv" group-title="🇻🇳|Kênh Khác" tvg-logo="https://i.ibb.co/fqgMpWb/hanoicab2-BEARTV.png",Hanoicab2 - YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/kupjtv.m3u8
 
