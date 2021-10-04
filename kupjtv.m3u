@@ -211,7 +211,8 @@ http://vthanh.xyz/sctv.m3u8?id=sctv3|Referer=http://sctvonline.vn/
 http://vthanh.xyz/sctv.m3u8?id=sctv4|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/HpgQgB5/logo26072108-sctv6-hd.png",SCTV6 | Thế Hệ Mới
-http://vthanh.xyz/sctv.m3u8?id=sctv6|Referer=http://sctvonline.vn/
+#http://vthanh.xyz/sctv.m3u8?id=sctv6|Referer=http://sctvonline.vn/
+http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="sctv7hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/q52fk4p/logo26072108-sctv7-hd.png",SCTV7 | Sân Khấu
 http://vthanh.xyz/sctv.m3u8?id=sctv7|Referer=http://sctvonline.vn/
