@@ -2,17 +2,13 @@
 #EXTM3U Kupj
 
 #EXTM3U K+
-#EXTINF:-1 tvg-id="k1hd" tvg-logo="https://i.ibb.co/rQWYSLY/k1.png" group-title="K+",K+1 HD
-#http://103.81.84.80:46803/k1
-
-#EXTINF:-1 tvg-id="knshd" tvg-logo="https://i.ibb.co/hcrTWt2/kns.png" group-title="K+",K+NS HD
-#http://103.81.84.80:46803/kns
+#EXTINF:-1 tvg-id="k1hd" tvg-logo="https://i.ibb.co/jg0CDyX/klife.jpg" group-title="K+",K+LIFE HD
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://i.ibb.co/0JJQtw3/Kcine.png" group-title="K+",K+CINE HD
-#http://103.81.84.80:46803/kpc
 
-#EXTINF:-1 tvg-id="kpmhd" tvg-logo="https://i.ibb.co/2ZhvW7w/kpm.png" group-title="K+",K+PM HD
-#http://103.81.84.80:46803/kpm
+#EXTINF:-1 tvg-id="knshd" tvg-logo="https://i.ibb.co/fQ00Dx2/ksport1.jpg" group-title="K+",K+SPORT1 HD
+
+#EXTINF:-1 tvg-id="kpmhd" tvg-logo="https://i.ibb.co/JBn7xjB/ksport2.jpg" group-title="K+",K+SPORT2 HD
 
 #EXTM3U VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/NsTDYmD/vtv1.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTV",VTV1 HD
