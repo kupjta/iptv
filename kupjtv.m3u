@@ -353,6 +353,9 @@ https://livecdn.fptplay.net/hda2/discovery_vhls.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://i.imgur.com/blEhr2T.png" group-title="🌍|Quốc Tế",Discovery Asia
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/kupjtv.m3u8
 
+#EXTINF:-1 tvg-id="historyhd" tvg-logo="https://i.ibb.co/41wJdvL/history.png" group-title="🌍|Quốc Tế",History
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="dmax" tvg-logo="https://i.ibb.co/yVh5RB1/Dmax.png" group-title="🌍|Quốc Tế",Dmax
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 
