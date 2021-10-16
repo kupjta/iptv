@@ -1,206 +1,838 @@
 #EXTM3U url-tvg="http://gg.gg/lichphatsongiptv" refresh="3600" aspect-ratio=16:9 m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0 
 #EXTM3U Kupj
 
-#EXTM3U VTV
-#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/NsTDYmD/vtv1.jpg" group-title="🇻🇳|VTV",VTV1 HD
-http://14.186.94.163:9981/stream/channel/ce294442ed6385f0e13e24dd3984f618?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/6047gMa.jpg" tvg-id="vtv1hd" group-title="VTV",VTV1
+http://14.186.94.163:9981/stream/channelid/1111763406?profile=pass
 
-#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.ibb.co/j5076gc/vtv2.jpg" group-title="🇻🇳|VTV",VTV2 HD 
-http://14.186.94.163:9981/stream/channel/cadcf5bf64cd201852ff55855a6ba7ee?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/6047gMa.jpg" tvg-id="vtv1hd" group-title="VTV HD",VTV1 HD
+http://14.186.94.163:9981/stream/channelid/738830422?profile=pass
 
-#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.ibb.co/xLqK8wr/vtv3.jpg" group-title="🇻🇳|VTV",VTV3 HD
-http://14.186.94.163:9981/stream/channel/b141c40e927b2234b1053c9cb9c80e92?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/pqPWPzf.jpg" tvg-id="vtv2hd" group-title="VTV",VTV2
+http://14.186.94.163:9981/stream/channelid/1073077450?profile=pass
 
-#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.ibb.co/fQfbt7d/vtv4.jpg" group-title="🇻🇳|VTV",VTV4 HD
-http://14.186.94.163:9981/stream/channel/b151a03ceb62d2495364e1c3b609c568?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/pqPWPzf.jpg" tvg-id="vtv2hd" group-title="VTV HD",VTV2 HD
+http://14.186.94.163:9981/stream/channelid/738857274?profile=pass
 
-#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.ibb.co/ckmbV3R/vtv5.jpg" group-title="🇻🇳|VTV",VTV5 HD
-http://14.186.94.163:9981/stream/channel/be54abbce7d4374d607a2f1b678ff1ed?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Bsaeckx.jpg" tvg-id="vtv3hd" group-title="VTV",VTV3
+http://14.186.94.163:9981/stream/channelid/247742897?profile=pass
 
-#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.ibb.co/5Y1LGMm/vtv6.jpg" group-title="🇻🇳|VTV",VTV6 HD
-http://14.186.94.163:9981/stream/channel/dc0e41e421d87179d6e3d23fe2ea444c?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Bsaeckx.jpg" tvg-id="vtv3hd" group-title="VTV HD",VTV3 HD
+http://14.186.94.163:9981/stream/channelid/925934797?profile=pass
 
-#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.ibb.co/C1qgD6V/vtv7.jpg" group-title="🇻🇳|VTV",VTV7 HD
-http://14.186.94.163:9981/stream/channel/f34c905d66eefcb414387744593b5668?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/jWfsKve.png" tvg-id="vtv4hd" group-title="VTV",VTV4
+http://14.186.94.163:9981/stream/channelid/1017139633?profile=pass
 
-#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.ibb.co/3TsHT9T/vtv8.jpg" group-title="🇻🇳|VTV",VTV8 HD
-http://14.186.94.163:9981/stream/channel/865f3b1b5b8dfa12493a8710f74402ee?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/jWfsKve.png" tvg-id="vtv4hd" group-title="VTV HD",VTV4 HD
+http://14.186.94.163:9981/stream/channelid/1977840721?profile=pass
 
-#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/2kS3QWn/vtv9.jpg" group-title="🇻🇳|VTV",VTV9 HD
-http://14.186.94.163:9981/stream/channel/c781e95e869704335e5e4bd395ef3e2d?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/d3dvKNa.jpg" tvg-id="vtv5hd" group-title="VTV",VTV5
+http://14.186.94.163:9981/stream/channelid/1017861310?profile=pass
 
-#EXTM3U VTV CAB
+#EXTINF:-1 logo="https://i.imgur.com/d3dvKNa.jpg" tvg-id="vtv5hd" group-title="VTV HD",VTV5 HD
+http://14.186.94.163:9981/stream/channelid/726023363?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab1hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/YR8ntg2/cab1.jpg",🇻🇳|VTVCab1 - Vie Giải Trí
-http://14.186.94.163:9981/stream/channel/28b1edc67909f35959f672171394547c?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/gpIJCN1.jpg" tvg-id="vtv6hd" group-title="VTV",VTV6
+http://14.186.94.163:9981/stream/channelid/1681985244?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab2hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MGQLhzz/cab2.jpg",🇻🇳|VTVCab2 - On Phim Việt
-http://14.186.94.163:9981/stream/channel/3e87b44bc23bee2e9ba9e64fa92c1012?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/gpIJCN1.jpg" tvg-id="vtv6hd" group-title="VTV HD",VTV6 HD
+http://14.186.94.163:9981/stream/channelid/706894033?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab3hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/w4Hk5SV/cab3.jpg",🇻🇳|VTVCab3 HD - Onsports
-http://www.vthanh.wtf/sctv.m3u8?id=vtvcab3|Referer=http://sctvonline.vn
+#EXTINF:-1 logo="https://i.imgur.com/qW0MBMH.jpg" tvg-id="vtv7hd" group-title="VTV",VTV7
+http://14.186.94.163:9981/stream/channelid/1569737971?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab4hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/6tSq3hP/cab4.jpg" ,🇻🇳|VTVCab4 - Văn Hóa
-http://14.186.94.163:9981/stream/channel/e89b67f27c198dc41f19e6aef573d6b7?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/qW0MBMH.jpg" tvg-id="vtv7hd" group-title="VTV HD",VTV7 HD
+http://14.186.94.163:9981/stream/channelid/2000585854?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab5hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/syDtbxt/cab5.jpg",🇻🇳|VTVCab5 - E Channel
-http://www.vthanh.wtf/sctv.m3u8?id=vtvcab5|Referer=http://sctvonline.vn
+#EXTINF:-1 logo="https://i.imgur.com/7pgnEzG.jpg" tvg-id="vtv8hd" group-title="VTV",VTV8
+http://14.186.94.163:9981/stream/channelid/456875910?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab6hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/XJwLZ9t/Onsports.jpg",🇻🇳|VTVCab6 - OnSports+
-http://www.vthanh.wtf/sctv.m3u8?id=vtvcab6|Referer=http://sctvonline.vn
+#EXTINF:-1 logo="https://i.imgur.com/7pgnEzG.jpg" tvg-id="vtv8hd" group-title="VTV HD",VTV8 HD
+http://14.186.94.163:9981/stream/channelid/979114535?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab7hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/ySjPtML/cab7.png",🇻🇳|VTVCab7 - Sức khỏe
-http://14.186.94.163:9981/stream/channel/3b123c20f9efc9d8d4c946525b063e15?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/9mL8Ve0.jpg" tvg-id="vtv9hd" group-title="VTV",VTV9
+http://14.186.94.163:9981/stream/channelid/1592361415?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab8hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/vdxbmPn/cab8.jpg",🇻🇳|VTVCab8 - BIBI
-http://14.186.94.163:9981/stream/channel/d3a067d625e005a1942ed152fade6d89?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/9mL8Ve0.jpg" tvg-id="vtv9hd" group-title="VTV HD",VTV9 HD
+http://14.186.94.163:9981/stream/channelid/951277479?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab9hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/4Fj6h9Z/cab9.jpg",🇻🇳|VTVCab9 - Info TV
-http://14.186.94.163:9981/stream/channel/2fc23e320465ac592833cfa87f2b317a?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/fVDS1c7.jpg" tvg-id="vtvcab1hd" group-title="VTVcab",VTVcab 1 Vie GIẢI TRÍ
+http://14.186.94.163:9981/stream/channelid/1189982504?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab10hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/CzPQg4X/cab10.jpg",🇻🇳|VTVcab10 - OnCine
-http://14.186.94.163:9981/stream/channel/001231276fac5b5b87a21eb9de34d19d?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/WkuhkZD.jpg" tvg-id="vtvcab2hd" group-title="VTVcab",ON Phim Việt
+http://14.186.94.163:9981/stream/channelid/1270122302?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab12hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/Lgb1ryR/cab12.jpg",🇻🇳|VTVCab12 - StyleTV
-http://14.186.94.163:9981/stream/channel/8ef129b0a717f8af8e7dd312863bda52?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/BIy8hdr.jpg" tvg-id="vtvcab4hd" group-title="VTVcab",VTVcab 4 HD
+http://14.186.94.163:9981/stream/channelid/1919392744?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab15hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/tJDps6v/cab15.jpg",🇻🇳|VTVCab15 - M Channel
-http://14.186.94.163:9981/stream/channel/1501089645882a0ace74b0b66b918d03?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/bFWgi4j.png" tvg-id="vtvcab7hd" group-title="VTVcab",VTVcab 7 Sức khỏe và Cuộc sống
+http://14.186.94.163:9981/stream/channelid/540807739?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab16hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/pdcJq4z/cab16.jpg",🇻🇳|VTVCab16 - OnFootball
-http://www.vthanh.wtf/sctv.m3u8?id=vtvcab16|Referer=http://sctvonline.vn
+#EXTINF:-1 logo="https://i.imgur.com/tFXYz2b.jpg" tvg-id="vtvcab8hd" group-title="VTVcab",VTVcab 8 BiBi
+http://14.186.94.163:9981/stream/channelid/1449631955?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab17hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MDxj7xt/cab17.jpg",🇻🇳|VTVCab17 - Yeah1! TV
-http://14.186.94.163:9981/stream/channel/d9551c17045546414eade15c6d09f0cf?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/tFXYz2b.jpg" tvg-id="vtvcab8hd" group-title="VTVcab",VTVcab 8 BiBi HD
+http://14.186.94.163:9981/stream/channelid/1299666127?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab19hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/hLvZ22T/cab19.jpg",🇻🇳|VTVCab19 - Vie DRAMAS
-http://14.186.94.163:9981/stream/channel/3e721d802deb5c5ed7bef91b07641d52?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/TuYOsTV.jpg" tvg-id="vtvcab9hd" group-title="VTVcab",VTVcab 9 Info TV
+http://14.186.94.163:9981/stream/channelid/842973743?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab20hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab20hd.jpg",🇻🇳|VTVCab20 - V Family
-http://14.186.94.163:9981/stream/channel/e7667f7c14c67ae0b0defa4a60577632?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/mTGTxDg.jpg" tvg-id="vtvcab10" group-title="VTVcab",ON Cine
+http://14.186.94.163:9981/stream/channelid/657527296?profile=pass
 
-#EXTINF:0 tvg-id="vtvcab23hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/KL8D3Wf/ongolf.jpg",🇻🇳|VTVCab23 - OnGolf Premium
-http://14.186.94.163:9981/stream/channel/fa0731c12519a5f9acd0a4c718f569dd?profile=pass
+#EXTINF:-1 tvg-id="vtvcab11hd" group-title="VTVcab",VTVcab11 GS Shop
+http://14.186.94.163:9981/stream/channelid/1952499898?profile=pass
 
-#EXTM3U HTV
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://i.imgur.com/BvjmYtr.png" group-title="🇻🇳|HTV",HTV1
-http://14.186.94.163:9981/stream/channel/193457b96461936e9e300b47803ced7f?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/XquBifl.jpg" tvg-id="vtvcab12hd" group-title="VTVcab",VTVcab 12 Style TV
+http://14.186.94.163:9981/stream/channelid/808055182?profile=pass
 
-#EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://i.imgur.com/12qnM2B.png" group-title="🇻🇳|HTV",HTV2 HD
-http://14.186.94.163:9981/stream/channel/6033c0b03315ad4edec47aa22a12413e?profile=pass
+#EXTINF:-1 tvg-id="vtvcab13hd" group-title="VTVcab",VTVcab13 VTV Hyundai Homeshopping
+http://14.186.94.163:9981/stream/channelid/1688673138?profile=pass
 
-#EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.imgur.com/8GOohTX.png" group-title="🇻🇳|HTV",HTV3
-http://14.186.94.163:9981/stream/channel/02cbc56c25f7896bbd61085e0144767c?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/dEzdry4.jpg" tvg-id="vtvcab15hd" group-title="VTVcab",VTVcab 15
+http://14.186.94.163:9981/stream/channelid/369623317?profile=pass
 
-#EXTINF:-1 tvg-id="htv4" tvg-logo="https://i.imgur.com/JBNgrHU.png" group-title="🇻🇳|HTV",HTV Keys
-http://14.186.94.163:9981/stream/channel/81d35d8573edf7d30dcaa9fe68524e32?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/DSLYQC9.jpg" tvg-id="vtvcab17" group-title="VTVcab",VTVcab 17 Yeah1!TV
+http://14.186.94.163:9981/stream/channelid/387732953?profile=pass
 
-#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.imgur.com/EPZzYTx.png" group-title="🇻🇳|HTV",HTV7 HD
-http://14.186.94.163:9981/stream/channel/346fe4003bfbd532522e43eb646a4da5?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/mIeWnYi.jpg" tvg-id="vtvcab19hd" group-title="VTVcab",VTVcab 19 Vie DRAMAS
+http://14.186.94.163:9981/stream/channelid/1929790?profile=pass
 
-#EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://i.imgur.com/vMxj1BX.png" group-title="🇻🇳|HTV",HTV9 HD
-http://14.186.94.163:9981/stream/channel/26857f5d33e078843508b36eb47d2621?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/INmmZZn.jpg" tvg-id="vtvcab20hd" group-title="VTVcab",VTVcab 20 V Family
+http://14.186.94.163:9981/stream/channelid/2088724199?profile=pass
 
-#EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://i.imgur.com/WltXVFn.png" group-title="🇻🇳|HTV",HTVC Ca Nhạc
-http://14.186.94.163:9981/stream/channel/831a792f42f846c8f59b0da4ee379177?profile=pass
+#EXTINF:-1 logo="https://imgur.com/Pc2ZuX0.png" tvg-id="vtc1hd" group-title="VTC",VTC1
+http://14.186.94.163:9981/stream/channelid/1526024578?profile=pass
 
-#EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://i.imgur.com/qQSl5rD.png" group-title="🇻🇳|HTV",HTVC Phim
-http://14.186.94.163:9981/stream/channel/bf71e9c1cac2fcdebc284e5e44f0f8c0?profile=pass
+#EXTINF:-1 logo="https://imgur.com/Pc2ZuX0.png" tvg-id="vtc1hd" group-title="VTC HD",VTC1 HD
+http://14.186.94.163:9981/stream/channelid/1877031091?profile=pass
 
-#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://i.imgur.com/GWGhPu7.png" group-title="🇻🇳|HTV",Du Lịch và Cuộc Sống
-http://14.186.94.163:9981/stream/channel/f4101d4daee9cea554a321a06514bfd8?profile=pass
+#EXTINF:-1 logo="https://imgur.com/1FccD2h.png" tvg-id="vtc2" group-title="VTC",VTC2
+http://14.186.94.163:9981/stream/channelid/743554007?profile=pass
 
-#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://i.imgur.com/EAv5N7c.png" group-title="🇻🇳|HTV",HTVC Gia Đình
-http://14.186.94.163:9981/stream/channel/ad8ddaeac2629ffaaa60ae7da1afbf91?profile=pass
+#EXTINF:-1 logo="https://imgur.com/vemNwkI.png" tvg-id="vtc3hd" group-title="VTC",VTC3
+http://14.186.94.163:9981/stream/channelid/1367654181?profile=pass
 
-#EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://i.imgur.com/pTuBwDS.png" group-title="🇻🇳|HTV",HTVC Phụ Nữ
-http://14.186.94.163:9981/stream/channel/5a57c3f721db5a84ebf0720acc81f9d8?profile=pass
+#EXTINF:-1 logo="https://imgur.com/vemNwkI.png" tvg-id="vtc3hd" group-title="VTC HD",VTC3 HD
+http://14.186.94.163:9981/stream/channelid/774547557?profile=pass
 
-#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://i.imgur.com/qSzadDW.png" group-title="🇻🇳|HTV",HTVC Thuần Việt
-http://14.186.94.163:9981/stream/channel/1eead72b7a5e5251dab2896cef40271b?profile=pass
+#EXTINF:-1 logo="https://imgur.com/0dkRtxJ.png" tvg-id="vtc4hd" group-title="VTC",VTC4
+http://14.186.94.163:9981/stream/channelid/1461069736?profile=pass
 
-#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://i.imgur.com/jOeEfm6.png" group-title="🇻🇳|HTV",Thuần Việt HD
-http://14.186.94.163:9981/stream/channel/2f6c04ee819aa2e05ee294870db6f80b?profile=pass
+#EXTINF:-1 logo="https://imgur.com/0dkRtxJ.png" tvg-id="vtc4hd" group-title="VTC HD",VTC4 HD
+http://14.186.94.163:9981/stream/channelid/1590281070?profile=pass
 
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://i.imgur.com/gSnnXza.png" group-title="🇻🇳|HTV",HTV Thể Thao
-http://14.186.94.163:9981/stream/channel/43ce1890ed0dc09462898668f96e11f8?profile=pass
+#EXTINF:-1 logo="https://imgur.com/IDkKiEa.png" tvg-id="vtc5hd" group-title="VTC",VTC5
+http://14.186.94.163:9981/stream/channelid/38047483?profile=pass
 
-#EXTM3U VTC
-#EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/RSFtDPh/vtc1.jpg" group-title="🇻🇳|VTC",VTC1
-http://14.186.94.163:9981/stream/channel/8249f55a60947b4e65c233e37e71cff8?profile=pass
+#EXTINF:-1 logo="https://imgur.com/IDkKiEa.png" tvg-id="vtc5hd" group-title="VTC HD",VTC5 HD
+http://14.186.94.163:9981/stream/channelid/2121396467?profile=pass
 
-#EXTINF:-1 tvg-id="vtc2" tvg-logo="https://i.ibb.co/GWP8TXQ/vtc2.jpg" group-title="🇻🇳|VTC",VTC2
-http://14.186.94.163:9981/stream/channel/d7bb51ac0a5ac3ff0de055b637850c5f?profile=pass
+#EXTINF:-1 logo="https://imgur.com/rTxMJIB.png" tvg-id="vtc6" group-title="VTC",VTC6
+http://14.186.94.163:9981/stream/channelid/2013823270?profile=pass
 
-#EXTINF:-1 tvg-id="vtc3hd" tvg-logo="https://i.ibb.co/SyBBGpy/vtc3.jpg" group-title="🇻🇳|VTC",VTC3
-http://14.186.94.163:9981/stream/channel/25bf84518f7f618a51b57233b9a13d04?profile=pass
+#EXTINF:-1 logo="https://imgur.com/sDWf2Q1.png" tvg-id="vtc7hd" group-title="VTC",VTC7
+http://14.186.94.163:9981/stream/channelid/2136814564?profile=pass
 
-#EXTINF:-1 tvg-id="vtc4hd" tvg-logo="https://i.ibb.co/VHjg6mz/vtc4.jpg" group-title="🇻🇳|VTC",VTC4
-http://14.186.94.163:9981/stream/channel/a82716d79a3f2f3c1c3186af8ffa6162?profile=pass
+#EXTINF:-1 logo="https://imgur.com/sDWf2Q1.png" tvg-id="vtc7hd" group-title="VTC HD",VTC7 HD
+http://14.186.94.163:9981/stream/channelid/266378414?profile=pass
 
-#EXTINF:-1 tvg-id="vtc5hd" tvg-logo="https://i.ibb.co/VL5FvJM/Vtc5.jpg" group-title="🇻🇳|VTC",VTC5
-http://14.186.94.163:9981/stream/channel/fb8e44029edd4e45cda967f9029bff9d?profile=pass
+#EXTINF:-1 logo="https://imgur.com/cQ8Ygbk.png" tvg-id="vtc8" group-title="VTC",VTC8
+http://14.186.94.163:9981/stream/channelid/1430787875?profile=pass
 
-#EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://i.ibb.co/NV5krSX/vtc6.jpg" group-title="🇻🇳|VTC",VTC6
-http://14.186.94.163:9981/stream/channel/268108f86d3e5253239c02f4c7275aa2?profile=pass
+#EXTINF:-1 logo="https://imgur.com/QuXPUqi.png" tvg-id="vtc9hd" group-title="VTC",VTC9
+http://14.186.94.163:9981/stream/channelid/728151406?profile=pass
 
-#EXTINF:-1 tvg-id="vtc7hd" tvg-logo="https://i.ibb.co/YWKyB2Z/Vtc7.jpg" group-title="🇻🇳|VTC",VTC7
-http://14.186.94.163:9981/stream/channel/e4335d7f6d61ba91f0378100e054fb63?profile=pass
+#EXTINF:-1 logo="https://imgur.com/QuXPUqi.png" tvg-id="vtc9hd" group-title="VTC HD",VTC9 HD
+http://14.186.94.163:9981/stream/channelid/360090782?profile=pass
 
-#EXTINF:-1 tvg-id="vtc8" tvg-logo="https://i.ibb.co/3vjN1Rm/vtc8.jpg" group-title="🇻🇳|VTC",VTC8
-http://14.186.94.163:9981/stream/channel/231748d59fb640e3e316a707b30068f5?profile=pass
+#EXTINF:-1 logo="https://imgur.com/F6x7ZNA.png" tvg-id="vtc10" group-title="VTC",VTC10
+http://14.186.94.163:9981/stream/channelid/1484490753?profile=pass
 
-#EXTINF:-1 tvg-id="vtc9hd" tvg-logo="https://i.ibb.co/9vvSX6X/vtc9.jpg" group-title="🇻🇳|VTC",VTC9
-http://14.186.94.163:9981/stream/channel/6eb5662b94f211508ff768786229b7e0?profile=pass
+#EXTINF:-1 logo="https://imgur.com/RoTy0Ly.png" tvg-id="vtc11" group-title="VTC",VTC11
+http://14.186.94.163:9981/stream/channelid/667363945?profile=pass
 
-#EXTINF:-1 tvg-id="vtc10hd" tvg-logo="https://i.ibb.co/HH0YCZX/vtc10.jpg" group-title="🇻🇳|VTC",VTC10
-http://14.186.94.163:9981/stream/channel/01887bd8d2840d8d57242f8fcb2d14a8?profile=pass
+#EXTINF:-1 logo="https://imgur.com/qAOy5Cd.png" tvg-id="vtc12" group-title="VTC",VTC12
+http://14.186.94.163:9981/stream/channelid/1970737275?profile=pass
 
-#EXTINF:-1 tvg-id="vtc11hd" tvg-logo="https://i.ibb.co/4pZpWz4/vtc11.jpg" group-title="🇻🇳|VTC",VTC11
-http://14.186.94.163:9981/stream/channel/692ac7a7a5fd388c039c0fa2fa80fbda?profile=pass
+#EXTINF:-1 logo="https://imgur.com/2RRt2M4.png" tvg-id="vtc13hd" group-title="VTC",VTC13
+http://14.186.94.163:9981/stream/channelid/1522783071?profile=pass
 
-#EXTINF:-1 tvg-id="vtc12" tvg-logo="https://i.ibb.co/Np03FCK/vtc12.jpg" group-title="🇻🇳|VTC",VTC12
-http://14.186.94.163:9981/stream/channel/7b10777577185d498f1f691ed17307cd?profile=pass
+#EXTINF:-1 logo="https://imgur.com/2RRt2M4.png" tvg-id="vtc13hd" group-title="VTC HD",VTC13 HD
+http://14.186.94.163:9981/stream/channelid/1625742401?profile=pass
 
-#EXTINF:-1 tvg-id="vtc13hd" tvg-logo="https://i.ibb.co/vkfB3nz/vtc13.jpg" group-title="🇻🇳|VTC",VTC13
-http://14.186.94.163:9981/stream/channel/5fd3c3da175e787bbbe1e20227da6b70?profile=pass
+#EXTINF:-1 logo="https://imgur.com/jlvmYDY.png" tvg-id="vtc14" group-title="VTC",VTC14
+http://14.186.94.163:9981/stream/channelid/1300845602?profile=pass
 
-#EXTINF:-1 tvg-id="vtc14hd" tvg-logo="https://i.ibb.co/dW7MT3x/vtc14.jpg" group-title="🇻🇳|VTC",VTC14
-http://14.186.94.163:9981/stream/channel/2254894d1427f7892e437f476f10714a?profile=pass
+#EXTINF:-1 logo="https://imgur.com/kpD8AAE.png" tvg-id="vtc16" group-title="VTC",VTC16
+http://14.186.94.163:9981/stream/channelid/490389333?profile=pass
 
-#EXTINF:-1 tvg-id="vtc16" tvg-logo="https://i.ibb.co/jw4mpg3/vtc16.jpg" group-title="🇻🇳|VTC",VTC16
-http://14.186.94.163:9981/stream/channel/55bf3a1dea7d9bb20cf3b564edd568fb?profile=pass
+#EXTINF:-1 logo="https://imgur.com/XaaTCtg.jpg" tvg-id="htv1" group-title="HTV",HTV1
+http://14.186.94.163:9981/stream/channelid/962016281?profile=pass
 
-#EXTM3U International
-#EXTINF:0  tvg-id="hbohd" group-title="International" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO
-http://14.186.94.163:9981/stream/channel/a121f7bd3af36a81ecb6e1db52879c1e?profile=pass
+#EXTINF:-1 logo="https://imgur.com/aFUOlhc.jpg" tvg-id="htv2hd" group-title="HTV",HTV2 Vie Channel
+http://14.186.94.163:9981/stream/channelid/817902432?profile=pass
 
-#EXTINF:0  tvg-id="cinemaxhd" group-title="International" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax
-http://14.186.94.163:9981/stream/channel/a5c9e0dd026014c0b4ccc8a50a4c9f7e?profile=pass
+#EXTINF:-1 logo="https://imgur.com/aFUOlhc.jpg" tvg-id="htv2hd" group-title="HTV HD",HTV2 Vie Channel HD
+http://14.186.94.163:9981/stream/channelid/1738485551?profile=pass
 
-#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="International",Cartoon Network
-http://14.186.94.163:9981/stream/channel/2c9a2ac0fe6e59418f7811ec66f24924?profile=pass
+#EXTINF:-1 logo="https://imgur.com/fd4tJg2.jpg" tvg-id="htv3" group-title="HTV",HTV3 Dreams TV
+http://14.186.94.163:9981/stream/channelid/1824901890?profile=pass
 
-#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://i.ibb.co/cwQ4R8V/boomerang.jpg" group-title="International",Boomerang
-http://14.186.94.163:9981/stream/channel/b9cf718898d3beef5e6472e2aca9676c?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Qe0DqXp.jpg" tvg-id="htvkeys" group-title="HTV",HTV Keys
+http://14.186.94.163:9981/stream/channelid/90035073?profile=pass
 
-#EXTINF:-1 tvg-id="disney" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png" group-title="International",Disney
-http://14.186.94.163:9981/stream/channel/b79b0c109d63e52aeae9a83c82047ea2?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/6iugioT.jpg" tvg-id="htv7hd" group-title="HTV",HTV7
+http://14.186.94.163:9981/stream/channelid/14970676?profile=pass
 
-#EXTINF:-1 tvg-id="disneyjr" tvg-logo="https://i.ibb.co/kMrMsBv/Disney.png" group-title="International",Disney Junior
-http://14.186.94.163:9981/stream/channel/7e1450a2a4cf92f271d78703f87ae1a6?profile=pass
+#EXTINF:-1 logo="https://imgur.com/6iugioT.jpg" tvg-id="htv7hd" group-title="HTV HD",HTV7 HD
+http://14.186.94.163:9981/stream/channelid/76408835?profile=pass
 
-#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/fXuxFbz.png" group-title="International",Discovery HD
-http://14.186.94.163:9981/stream/channel/5146ce1cbe7cff9804b356e4be708a25?profile=pass
+#EXTINF:-1 logo="https://imgur.com/KnpPVUB.jpg" tvg-id="htv9hd" group-title="HTV",HTV9
+http://14.186.94.163:9981/stream/channelid/1568638246?profile=pass
 
-#EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://i.imgur.com/blEhr2T.png" group-title="International",Discovery Asia
-http://14.186.94.163:9981/stream/channel/f91bfd79022b9b2ecfe4c82c98d7007b?profile=pass
+#EXTINF:-1 logo="https://imgur.com/KnpPVUB.jpg" tvg-id="htv9hd" group-title="HTV HD",HTV9 HD
+http://14.186.94.163:9981/stream/channelid/582486831?profile=pass
 
-#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://i.imgur.com/cjx78kt.png" group-title="International",National Geographic HD
-http://14.186.94.163:9981/stream/channel/372eaf9b76ccd06d95b55a0b8a39bc4b?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/qfbVPVK.jpg" tvg-id="htvthethao" group-title="HTV",HTV THỂ THAO
+http://14.186.94.163:9981/stream/channelid/270061123?profile=pass
 
-#EXTINF:-1 tvg-id="ngwhd" tvg-logo="https://i.imgur.com/3jBRVrj.png" group-title="International",National Geographic Wild HD
-http://14.186.94.163:9981/stream/channel/8d6e280f5ba3aa3e33b8cda8a1bba0a1?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/pQYcNMU.jpg" tvg-id="htvccanhac" group-title="HTV",HTVC Ca Nhạc
+http://14.186.94.163:9981/stream/channelid/796465795?profile=pass
 
-#EXTINF:-1 tvg-id="mtv" tvg-logo="https://i.imgur.com/gpWosop.png" group-title="International",MTV
-http://14.186.94.163:9981/stream/channel/9c6899b778b8f76c45eb84242f94465f?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/mvQ37T0.jpg" tvg-id="htvcdulich" group-title="HTV",HTVC Du Lịch và Cuộc Sống
+http://14.186.94.163:9981/stream/channelid/1293750516?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/tDOkgfV.jpg" tvg-id="htvcgiadinh" group-title="HTV",HTVC Gia Đình
+http://14.186.94.163:9981/stream/channelid/1792708013?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/pNG3Fri.png" tvg-id="htvcphimhd" group-title="HTV",HTVC Phim
+http://14.186.94.163:9981/stream/channelid/1105818047?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/pNG3Fri.png" tvg-id="htvcphimhd" group-title="HTV HD",HTVC Phim HD
+http://14.186.94.163:9981/stream/channelid/828417232?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/diEuUuw.jpg" tvg-id="htvcphunu" group-title="HTV",HTVC Phụ Nữ
+http://14.186.94.163:9981/stream/channelid/2009290586?profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/LFL1x49.jpg" tvg-id="htvcthuanviet" group-title="HTV",HTVC Thuần Việt
+http://14.186.94.163:9981/stream/channelid/735570462?profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/Y1dU8EG.jpg" tvg-id="htvcthuanviethd" group-title="HTV HD",Thuần Việt HD
+http://14.186.94.163:9981/stream/channelid/1845783599?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/lvYjN2D.jpg" tvg-id="982c3276644dde07367c87fba53f0371",ANTV
+http://14.186.94.163:9981/stream/channelid/1982999704?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/dcjQ1eA.jpg" tvg-id="421f8f90e9b0f2d90b019de985f1e680",QPVN
+http://14.186.94.163:9981/stream/channelid/277815106?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/dcjQ1eA.jpg" tvg-id="1d1a6abb759519c3bc57f4076868545d",QPVN HD
+http://14.186.94.163:9981/stream/channelid/996809245?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/713vQig.jpg" tvg-id="4cbe64444706551007656fb45fe83603",QUỐC HỘI HD
+http://14.186.94.163:9981/stream/channelid/1147453004?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/kzrCtPg.jpg" tvg-id="1d152215a78a1830aecca0ce58062b18",Nhân Dân TV HD
+http://14.186.94.163:9981/stream/channelid/354555165?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/Lh9aWAL.jpg" tvg-id="5bd442976750c2b238b239417caaa845",VNEWS
+http://14.186.94.163:9981/stream/channelid/390255707?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/Lh9aWAL.jpg" tvg-id="1d7336353344c2964baadf6526555d1b",VNEWS HD
+http://14.186.94.163:9981/stream/channelid/892760861?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/MGLFyKb.png" tvg-id="f2080324c237feb2365fb6f26f6d4c55",VOV TV
+http://14.186.94.163:9981/stream/channelid/604178674?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/v08VbZS.png" tvg-id="1b6fbdc7b1ac6a251db7a98524bbf504",HiTV
+http://14.186.94.163:9981/stream/channelid/1203597083?profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/xg1b4vZ.png" tvg-id="eb71b85d552faea4c01f37d5f4dbab7d",SCTV8 VITV
+http://14.186.94.163:9981/stream/channelid/1572368875?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/JpnhkCA.png" tvg-id="f6449ce6b53ed9e6e5681470795d4833",ATV _ TH An Giang
+http://14.186.94.163:9981/stream/channelid/1721517302?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/VIPvHmt.jpg" tvg-id="26f43d023da113c731867c7db071ed90",BGTV _ TH Bắc Giang
+http://14.186.94.163:9981/stream/channelid/37614630?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/EdAK0v2.jpg" tvg-id="8305d79e286cd237d5ed806800097027",BLTV _ TH Bạc Liêu
+http://14.186.94.163:9981/stream/channelid/517408131?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/6Fije4Q.png" tvg-id="7c5adf65e7e545b01717fd884a510dc1",BPTV1 _ TH Bình Phước
+http://14.186.94.163:9981/stream/channelid/1709136508?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/tv4Jy7A.png" tvg-id="b0ebb0b113db0eb9b52385bdef6a2c2c",BRT _ TH Bà Rịa Vũng Tàu
+http://14.186.94.163:9981/stream/channelid/833678256?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/DpaYDb2.png" tvg-id="0945a0db7c23561d3120a0c424e0135b",BTV _ TH Bình Thuận
+http://14.186.94.163:9981/stream/channelid/1537230089?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/2GqbIZv.png" tvg-id="ac96363fcbb6a5aee7c86ca7baf7d1b0",BTV _ TH Bình Định
+http://14.186.94.163:9981/stream/channelid/1060542124?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/t2s5M6k.png" tvg-id="03647f87b59f7b6aed46c6aab9d0733e",BTV _ TH Bắc Ninh
+http://14.186.94.163:9981/stream/channelid/125789187?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/t2s5M6k.png" tvg-id="06ec3cd75d48d0fa9452669cc255b845",BTV _ TH Bắc Ninh HD
+http://14.186.94.163:9981/stream/channelid/1463610374?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/AnjYRjM.png" tvg-id="3b22b09f228fd4a98032958b6e053847",THBT _ TH Bến Tre
+http://14.186.94.163:9981/stream/channelid/531636795?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/dKxJtNi.png" tvg-id="4ae0a47390c05e8e8cbd4e5ed548cffa",TBK _ TH Bắc Kạn
+http://14.186.94.163:9981/stream/channelid/1940185162?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/1j3c9nK.jpg" tvg-id="e453ce29860e916565a978247e01a2a2",BTV1 _ TH Bình Dương
+http://14.186.94.163:9981/stream/channelid/701387748?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/hf1hqrS.jpg" tvg-id="4b46e8654ce9635d94843093f3939ef0",BTV2 _ TH Bình Dương
+http://14.186.94.163:9981/stream/channelid/1709721163?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/dG7w5h6.png" tvg-id="dfe46053c2c75f769145b6cab62b71c1",BTV4 _ TH Bình Dương
+http://14.186.94.163:9981/stream/channelid/1398858975?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/glzn3Lj.png" tvg-id="4e2cb619f7c480eee52c6cbe11d50150",BTV9 An Viên HD HD
+http://14.186.94.163:9981/stream/channelid/431369294?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/ILVDaWL.jpg" tvg-id="659c8483a3a13c726298d922e98a0a13",CRTV _ TH Cao Bằng
+http://14.186.94.163:9981/stream/channelid/59022437?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/ILVDaWL.jpg" tvg-id="ef619ed0ee5c493592e96edd188a187c",CRTV HD _ TH Cao Bằng HD
+http://14.186.94.163:9981/stream/channelid/1352557039?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/gqnuDmL.jpg" tvg-id="709a3a83047ba89ec4fb06c5a21c7b97",CTV _ TH Cà Mau
+http://14.186.94.163:9981/stream/channelid/54172272?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/tFT2XlB.jpg" tvg-id="da28fd0174286afc3a197d29eedd1249",DaNangTV1 _ TH TP. Đà Nẵng
+http://14.186.94.163:9981/stream/channelid/33368282?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/9LLBLSy.jpg" tvg-id="bda72808124df0ac5befd99f490ba1e8",DaNangTV2 _ TH TP. Đà Nẵng
+http://14.186.94.163:9981/stream/channelid/136882109?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/M15qNZ0.png" tvg-id="1115f720c587d9f5bc43db47579a98ca",DRT _ TH Đắk Lắk
+http://14.186.94.163:9981/stream/channelid/553063697?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/J5sWWVp.png" tvg-id="6b1ac5029e610daccd0f427bb4d4a740",PTD _ TH Đắk Nông
+http://14.186.94.163:9981/stream/channelid/46471787?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/sYd6cBI.png" tvg-id="f5ee87745aede1ecbe858532027f702a",THĐT1 _ TH Đồng Tháp
+http://14.186.94.163:9981/stream/channelid/1955065589?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/zUKKdCf.png" tvg-id="d7ba2aed821c28be9e24b5fcd3643370",ĐNRTV1 _ TH Đồng Nai
+http://14.186.94.163:9981/stream/channelid/1831516887?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/WTWCcK2.png" tvg-id="71cd6f6d53fa4b7f6f31d56485992a77",ĐNRTV2 _ TH Đồng Nai
+http://14.186.94.163:9981/stream/channelid/1836043633?profile=pass
+
+#EXTINF:-1 tvg-id="31a7f2a5fe37106d0a673f1df28e8519",ĐNRTV9 Sky Shop
+http://14.186.94.163:9981/stream/channelid/636659505?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/Vbh4hY5.png" tvg-id="2a2a3632bcdc8a0176983fed96293cfc",ĐTV _ TH Điện Biên
+http://14.186.94.163:9981/stream/channelid/842410538?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/tMHmrZz.jpg" tvg-id="8a05a80063596288ac53c1f3ad2abe83",H1 _ TH Hà Nội
+http://14.186.94.163:9981/stream/channelid/11011466?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/tMHmrZz.jpg" tvg-id="903c6082bbc18528a1e493dc186a6a2c",H1 HD _ TH Hà Nội HD
+http://14.186.94.163:9981/stream/channelid/39861392?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/9lscH4N.jpg" tvg-id="33db059cc1c7d313a0acc750ab08ca53",H2 HD_ TH Hà Nội HD
+http://14.186.94.163:9981/stream/channelid/470145843?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/9lscH4N.jpg" tvg-id="aa7fbdd0582ddc8bbedc98d555318c4e",H2 _ TH Hà Nội
+http://14.186.94.163:9981/stream/channelid/1354596266?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/ZaIE9WA.png" tvg-id="da4a6d9a249ebec8ddc0cd1464f9bec4",HBTV _ TH Hòa Bình
+http://14.186.94.163:9981/stream/channelid/443370202?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/ZaIE9WA.png" tvg-id="14e53e6657260a35293d092be433ecd4",HBTV HD _ TH Hòa Bình HD
+http://14.186.94.163:9981/stream/channelid/1715397908?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/iKZnv33.png" tvg-id="42977b3070e8ce43fd87e3e20b9e2828",HGTV _ TH Hà Giang
+http://14.186.94.163:9981/stream/channelid/813406018?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/dc3Tot6.png" tvg-id="2568814af94a0f3f1fd24c372f207ce6",HGTV _ TH Hậu Giang
+http://14.186.94.163:9981/stream/channelid/1249994789?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/NNbenRy.png" tvg-id="efb49fb0c1394add0c71a65e680f2f07",HTTV _ TH Hà Tĩnh
+http://14.186.94.163:9981/stream/channelid/815772911?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/NNbenRy.png" tvg-id="50d4ea4fee53d49dc16fa2e3fc343c14",HTTV HD _ TH Hà Tĩnh HD
+http://14.186.94.163:9981/stream/channelid/1340789840?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/rIV7Na3.png" tvg-id="55fcdcf8067ee17a9cf4a64d524ad34a",HY _ TH Hưng Yên
+http://14.186.94.163:9981/stream/channelid/2027748437?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/rIV7Na3.png" tvg-id="a18d42db682b09e4dc6fa06b9d66f017",HY HD _ TH Hưng Yên HD
+http://14.186.94.163:9981/stream/channelid/1531088289?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/2U316M0.png" tvg-id="b44161ef456787972f2527a34174b554",KG _ TH Kiên Giang
+http://14.186.94.163:9981/stream/channelid/1868644788?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/2U316M0.png" tvg-id="148b858aac05dfebad902679257a7466",KG _ TH Kiên Giang HD
+http://14.186.94.163:9981/stream/channelid/176524052?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/drRKaoY.jpg" tvg-id="5e9f9f8b024f455ff219090f2dc28976",KRT _ TH Kon Tum
+http://14.186.94.163:9981/stream/channelid/195010398?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/VDqyY3h.png" tvg-id="0d52509658234fd25babdc22f8025170",KTV _ TH Khánh Hòa
+http://14.186.94.163:9981/stream/channelid/374362637?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/y4aizlR.png" tvg-id="fe635c5047771e935ba2b21163f7b64a",LA34 _ TH Long An
+http://14.186.94.163:9981/stream/channelid/1348232190?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/vFEB8Bv.png" tvg-id="431fd6418f4a4524835b82d8cc5dc984",LSTV _ TH Lạng Sơn
+http://14.186.94.163:9981/stream/channelid/1104551747?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/vFEB8Bv.png" tvg-id="0f9294c5c12bbabfc2b93844f6201701",LSTV HD _ TH Lạng Sơn HD
+http://14.186.94.163:9981/stream/channelid/1167364623?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/EDedDbI.png" tvg-id="40775cfc47f1aeaa87101052842a7d1b",LTV _ TH Lai Châu
+http://14.186.94.163:9981/stream/channelid/2086434624?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/WM7ddLv.png" tvg-id="30f46719806a61ce9b110cabde187a8f",LTV _ TH Lâm Đồng
+http://14.186.94.163:9981/stream/channelid/426243120?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/9wv0x6S.png" tvg-id="a9bd529aaa4ea2dcde08a502d15e17a7",NTV _ TH Nam Định
+http://14.186.94.163:9981/stream/channelid/441630121?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/pUtPrig.png" tvg-id="8879b4216a69186fe160e1e35880924d",NTV _ TH Nghệ An
+http://14.186.94.163:9981/stream/channelid/565475720?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/2oq7AS0.png" tvg-id="30c1b4f1e25029a4230ee4703661973c",NTV _ TH Ninh Bình
+http://14.186.94.163:9981/stream/channelid/1907671344?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/9bFk5Lj.png" tvg-id="81dda7a9af6f56c50814da55ad4871d5",NTV _ TH Ninh Thuận
+http://14.186.94.163:9981/stream/channelid/698867073?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/pUtPrig.png" tvg-id="b5f7eb6887ad3c7bb8c800e33c62fd7b",NTV HD _ TH Nghệ An HD
+http://14.186.94.163:9981/stream/channelid/1760294837?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/DJsuiHq.png" tvg-id="16be5722ee95653684701f654e3d2978",PTP _ TH Phú Yên
+http://14.186.94.163:9981/stream/channelid/576175638?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/Xh6cZmD.png" tvg-id="fda5732e5a2eb86be85ad7811620fd4f",PTQ _ TH Quảng Ngãi
+http://14.186.94.163:9981/stream/channelid/779331069?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/Xh6cZmD.png" tvg-id="6c3a9ef3833a1864c7a17ab990c3d5b9",PTQ _ TH Quảng Ngãi HD
+http://14.186.94.163:9981/stream/channelid/1939749484?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/QFDB4wh.png" tvg-id="206ba7897db86c61d759f044786ce74f",PTV _ TH Phú Thọ
+http://14.186.94.163:9981/stream/channelid/161966880?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/QFDB4wh.png" tvg-id="99849d1a76489c80e8b006126b30917d",PTV HD _ TH Phú Thọ HD
+http://14.186.94.163:9981/stream/channelid/446530713?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/qHcbY51.png" tvg-id="af4a0e9f324954a8c7b8f2e2f182d3ea",QBTV _ TH Quảng Bình
+http://14.186.94.163:9981/stream/channelid/521030319?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/ktxl0AP.png" tvg-id="6525ea56db3cc6f704fa5082636b6569",QRT _ TH Quảng Nam
+http://14.186.94.163:9981/stream/channelid/1458185573?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/9ppMtcU.png" tvg-id="c685a8c8afdaf768c149f9d026919cac",QRTV _ TH Quảng Trị
+http://14.186.94.163:9981/stream/channelid/1219003846?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/jOutDk2.png" tvg-id="41c55c197a7edc036c712b90165e91ec",QTV1 _ TH Quảng Ninh
+http://14.186.94.163:9981/stream/channelid/425510209?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/jOutDk2.png" tvg-id="4437f216e374f50ce917fe601b649e38",QTV1 HD _ TH Quảng Ninh HD
+http://14.186.94.163:9981/stream/channelid/384972612?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/FXn4W5C.png" tvg-id="05824f35ab4483333802e765c59c6277",QTV3 HD _ TH Quảng Ninh HD
+http://14.186.94.163:9981/stream/channelid/894403077?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/pCTJQMX.png" tvg-id="46d96a84709ba649d7439544e61c83b4",STV _ TH Sơn La
+http://14.186.94.163:9981/stream/channelid/74111302?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/z7bCa6s.png" tvg-id="bfebea98fe02af4e6cdea20edb547a40",STV1 _ TH Sóc Trăng
+http://14.186.94.163:9981/stream/channelid/418048959?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/xntFx4y.png" tvg-id="badeddaaf7ec74fb8739c3aca8744c19",TBTV _ TH Thái Bình
+http://14.186.94.163:9981/stream/channelid/719183546?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/2yykcKF.png" tvg-id="cd5585d9307e0eef656ae96bc5538791",THD _ TH Hải Dương
+http://14.186.94.163:9981/stream/channelid/1501910477?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/19Wmw47.png" tvg-id="99fbf4ced18f8422164c28d889db8b9a",THGL _ TH Gia Lai
+http://14.186.94.163:9981/stream/channelid/1324678041?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/0q2BVky.png" tvg-id="4a3926bbe683aca7bce4223f730acb9f",THHN _ TH Hà Nam
+http://14.186.94.163:9981/stream/channelid/992360778?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/N5tsSuk.png" tvg-id="76319b4eced6055c8ecbb5bbcd1139db",THLC _ TH Lào Cai
+http://14.186.94.163:9981/stream/channelid/1318793590?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/HZluJKB.png" tvg-id="ad44626bc3b8d09674f8372ecc66084d",THP _ TH TP. Hải Phòng
+http://14.186.94.163:9981/stream/channelid/1801602221?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/HZluJKB.png" tvg-id="e814089b63d257a0328f792fda38dadd",THP HD _ TH TP. Hải Phòng HD
+http://14.186.94.163:9981/stream/channelid/453514472?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/EH5ogzk.png" tvg-id="421d4a864c54654226e6eb595810965e",THTG _ TH Tiền Giang
+http://14.186.94.163:9981/stream/channelid/105520450?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/EH5ogzk.png" tvg-id="ed452e1289585bef47e5a04eb5435086",THTG HD _ TH Tiền Giang HD
+http://14.186.94.163:9981/stream/channelid/305022445?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/sFEBJSE.png" tvg-id="860d2ed5917dd61fd370355b409c94b3",THTPCT _ TH TP. Cần Thơ
+http://14.186.94.163:9981/stream/channelid/1429081478?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/tE10QDW.jpg" tvg-id="fb542e3caec364f9057a8760ff167d77",THTV _ TH Trà Vinh
+http://14.186.94.163:9981/stream/channelid/1009669371?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/mDQssNg.jpg" tvg-id="6108b31597f881e186b062476f749a71",THVL1 _ TH Vĩnh Long
+http://14.186.94.163:9981/stream/channelid/364054625?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/mDQssNg.jpg" tvg-id="22215848407573475d2c2c7b088339cf",THVL1 HD _ TH Vĩnh Long HD
+http://14.186.94.163:9981/stream/channelid/1213735202?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/hrsgjNu.jpg" tvg-id="928b7a0bc0d131fb2753e48a292dc1ae",THVL2 _ TH Vĩnh Long
+http://14.186.94.163:9981/stream/channelid/192580498?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/hrsgjNu.jpg" tvg-id="599777496dcb000d3b0ac8dd1cfd3f97",THVL2 HD _ TH Vĩnh Long HD
+http://14.186.94.163:9981/stream/channelid/1232574297?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/ir3xN4f.png" tvg-id="ecb5dcc97af1d7147b97d43b2cb7351a",THVL3 _ TH Vĩnh Long
+http://14.186.94.163:9981/stream/channelid/1239201260?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/w7nxAjc.jpg" tvg-id="70654159882c8c5149e52abc64ab83bd",THVL3 HD _ TH Vĩnh Long HD
+http://14.186.94.163:9981/stream/channelid/1497458032?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/ApI30Uc.png" tvg-id="a6c54556037b919e3e653ea48c371506",THVL4 _ TH Vĩnh Long
+http://14.186.94.163:9981/stream/channelid/1447413158?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/iuYepMv.jpg" tvg-id="0b8f3757d64e0a5d1d7eda354972c5e2",THVL4 HD _ TH Vĩnh Long HD
+http://14.186.94.163:9981/stream/channelid/1463258891?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/NmObKjO.png" tvg-id="0f7df0bc798c074d4637dc95554bc4d2",TN1 _ TH Thái Nguyên
+http://14.186.94.163:9981/stream/channelid/1022393615?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/NmObKjO.png" tvg-id="483fc150f3114abaa9fd1099c816e504",TN1 HD _ TH Thái Nguyên HD
+http://14.186.94.163:9981/stream/channelid/1354841928?profile=pass
+
+#EXTINF:-1 logo="https://imgur.com/v45geuK.png" tvg-id="beb1a1d21fa82f11bb5bab57012acf6b",TN2 _ TH Thái Nguyên
+http://14.186.94.163:9981/stream/channelid/1386328510?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/QxdcrCm.png" tvg-id="11d5e626ebabf1f21d58367c923c94bb",TRT _ TH Thừa Thiên Huế
+http://14.186.94.163:9981/stream/channelid/652662033?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/dZjhLJd.png" tvg-id="c4b75e75bb97ed96962be214d5393fe6",TTV _ TH Thanh Hóa
+http://14.186.94.163:9981/stream/channelid/1969141700?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/UptBZdE.png" tvg-id="fffedb37e0c7ffff509740055f917a16",TTV _ TH Tuyên Quang
+http://14.186.94.163:9981/stream/channelid/937164543?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/dZjhLJd.png" tvg-id="6b9e207efc3e319cf2f4745888a7fbc6",TTV HD _ TH Thanh Hóa HD
+http://14.186.94.163:9981/stream/channelid/2116066923?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/vRyHb6F.png" tvg-id="ed00d0db57ca506d3647dff7fbfe7e92",TTV11 _ TH Tây Ninh
+http://14.186.94.163:9981/stream/channelid/1540358381?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/2vLk90i.png" tvg-id="c0ac2db2da75ae5014af7ddff50180ee",VP _ TH Vĩnh Phúc
+http://14.186.94.163:9981/stream/channelid/841854144?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/6tey10m.png" tvg-id="343dbbf44dda98b4833a8e6c4877f856",YTV _ TH Yên Bái
+http://14.186.94.163:9981/stream/channelid/1958427956?profile=pass
+
+#EXTINF:-1 tvg-id="286045749b350c7b685f1d6852386d5d",801
+http://14.186.94.163:9981/stream/channelid/1950703656?profile=pass
+
+#EXTINF:-1 tvg-id="f3922bc018db487ea5d4b00409d247df",802
+http://14.186.94.163:9981/stream/channelid/1076597491?profile=pass
+
+#EXTINF:-1 tvg-id="c68eb64b07861c53ee4ddcda2e29bea3",803
+http://14.186.94.163:9981/stream/channelid/1270255302?profile=pass
+
+#EXTINF:-1 tvg-id="68e8428e43037e22026083221c698001",804
+http://14.186.94.163:9981/stream/channelid/239265896?profile=pass
+
+#EXTINF:-1 tvg-id="985c3f4ba8be192f8d4b43e92b655576",Meliã Hotels International
+http://14.186.94.163:9981/stream/channelid/1262443672?profile=pass
+
+#EXTINF:-1 tvg-id="de8573e6e63acc9b15bfe6dae6ea93e3",Mosaic 1
+http://14.186.94.163:9981/stream/channelid/1718846942?profile=pass
+
+#EXTINF:-1 tvg-id="030424bd5bde2ebbc5e812968a5732ea",Mosaic 2
+http://14.186.94.163:9981/stream/channelid/1025770499?profile=pass
+
+#EXTINF:-1 tvg-id="d95d47ae7d04fe19e80e5d710b20a2f1",MyTV Giới Thiệu Chương Trình
+http://14.186.94.163:9981/stream/channelid/776429017?profile=pass
+
+#EXTINF:-1 tvg-id="bb30787cac59bd50ed0db882f834ad00",MyTV Quảng Cáo
+http://14.186.94.163:9981/stream/channelid/2088251579?profile=pass
+
+#EXTINF:-1 tvg-id="b74e0b474efb9713761c64960f1c4c44",Vin Group
+http://14.186.94.163:9981/stream/channelid/1191923383?profile=pass
+
+
+#EXTINF:-1 tvg-id="c3aee1f9004b4958a05810256ccdfa16",ABC Australia
+http://14.186.94.163:9981/stream/channelid/2044833475?profile=pass
+
+#EXTINF:-1 tvg-id="c790d150ec6bcce3bd452ec29a9c6cee",Aljazeera
+http://14.186.94.163:9981/stream/channelid/1355911367?profile=pass
+
+#EXTINF:-1 tvg-id="1302ed220909a108893dbd295876087d",Animal Planet
+http://14.186.94.163:9981/stream/channelid/585957907?profile=pass
+
+#EXTINF:-1 tvg-id="7c9947f0c55c809daaab94c9a6c272c5",Animal Planet HD
+http://14.186.94.163:9981/stream/channelid/1883740540?profile=pass
+
+#EXTINF:-1 tvg-id="029df1e36eff131074f3f9d12846d070",Animax FHD
+http://14.186.94.163:9981/stream/channelid/1676778754?profile=pass
+
+#EXTINF:-1 tvg-id="5cbfc8856cee96b04ead5cb4b7077ef1",Arirang
+http://14.186.94.163:9981/stream/channelid/97042268?profile=pass
+
+#EXTINF:-1 tvg-id="3f1e62e0d3670ff03e9eca3641fcf5e8",Asian Food Network
+http://14.186.94.163:9981/stream/channelid/1617043007?profile=pass
+
+#EXTINF:-1 tvg-id="150242fd34ba8bd0e7d617c377e2a686",Asian Food Network HD
+http://14.186.94.163:9981/stream/channelid/2101477909?profile=pass
+
+#EXTINF:-1 tvg-id="b9168a734eaa05b1560c720bdd9d0b82",AXN
+http://14.186.94.163:9981/stream/channelid/1938429625?profile=pass
+
+#EXTINF:-1 tvg-id="70c1b8d4e850c05f5a69a4b47834cb12",AXN HD
+http://14.186.94.163:9981/stream/channelid/1421394288?profile=pass
+
+#EXTINF:-1 tvg-id="2bbf4c8962b05095c5314d61c8ff63da",Baby TV HD
+http://14.186.94.163:9981/stream/channelid/156024619?profile=pass
+
+#EXTINF:-1 tvg-id="67f415bc6f78710782ed9a58b69f3ebf",BBC CBeeBies FHD
+http://14.186.94.163:9981/stream/channelid/1008071783?profile=pass
+
+#EXTINF:-1 tvg-id="b7ca8c7a7180a40fdf89bed44f7ae19a",BBC Lifestyle HD
+http://14.186.94.163:9981/stream/channelid/2056047287?profile=pass
+
+#EXTINF:-1 tvg-id="0684538b473011b2ef30c9d537fa4cd3",BBC World News
+http://14.186.94.163:9981/stream/channelid/190022662?profile=pass
+
+#EXTINF:-1 tvg-id="3203545bf0e3de38c5a4b018fd630c89",BBC World News HD
+http://14.186.94.163:9981/stream/channelid/1532232498?profile=pass
+
+#EXTINF:-1 tvg-id="1fd2ef41bb3f8422c7d1891c1203fa7b",Bloomberg
+http://14.186.94.163:9981/stream/channelid/1106235935?profile=pass
+
+#EXTINF:-1 tvg-id="a81fe61c82dc8201e1f0c77f96477def",Bloomberg HD
+http://14.186.94.163:9981/stream/channelid/484843432?profile=pass
+
+#EXTINF:-1 tvg-id="b9cf718898d3beef5e6472e2aca9676c",Boomerang FHD
+http://14.186.94.163:9981/stream/channelid/141676473?profile=pass
+
+#EXTINF:-1 tvg-id="bef4c4ad5e20834ee6dd97f41cb155ee",Cartoon Network
+http://14.186.94.163:9981/stream/channelid/767882430?profile=pass
+
+#EXTINF:-1 tvg-id="2c9a2ac0fe6e59418f7811ec66f24924",Cartoon Network HD
+http://14.186.94.163:9981/stream/channelid/1076533804?profile=pass
+
+#EXTINF:-1 tvg-id="683bb1e7392a9636a50dd13bcb494462",CCTV2
+http://14.186.94.163:9981/stream/channelid/1739668328?profile=pass
+
+#EXTINF:-1 tvg-id="f5b8ddf37d2a7632aa00e6ce765af1fc",CCTV4
+http://14.186.94.163:9981/stream/channelid/1943910645?profile=pass
+
+#EXTINF:-1 tvg-id="f13b5ee7ac4a5dc518e070a6d4f204ef",CCTV7
+http://14.186.94.163:9981/stream/channelid/1734228977?profile=pass
+
+#EXTINF:-1 tvg-id="dd8d3ad3f43deeb343e3cc7815ec7b45",CCTV10
+http://14.186.94.163:9981/stream/channelid/1396346333?profile=pass
+
+#EXTINF:-1 tvg-id="406ad59375ea5eb613699c3307befd22",CCTV12
+http://14.186.94.163:9981/stream/channelid/332753472?profile=pass
+
+#EXTINF:-1 tvg-id="720aaad28713fea9d7af709fa646c824",CCTV14
+http://14.186.94.163:9981/stream/channelid/1386875506?profile=pass
+
+#EXTINF:-1 tvg-id="b027e2f7fed454beec81ccd0f35a28cf",CCTV15
+http://14.186.94.163:9981/stream/channelid/2011310000?profile=pass
+
+#EXTINF:-1 tvg-id="e25207aca967ae5c411b73f9b8071c03",Cinema World
+http://14.186.94.163:9981/stream/channelid/738677474?profile=pass
+
+#EXTINF:-1 tvg-id="237d5f4b65dcbf7b7e327ea9842d1522",Cinema World HD
+http://14.186.94.163:9981/stream/channelid/1264549155?profile=pass
+
+#EXTINF:-1 tvg-id="a5c9e0dd026014c0b4ccc8a50a4c9f7e",Cinemax
+http://14.186.94.163:9981/stream/channelid/1575012773?profile=pass
+
+#EXTINF:-1 tvg-id="95c6a2c138b420b4d5fabad5a6106cb0",Cinemax HD
+http://14.186.94.163:9981/stream/channelid/1101186709?profile=pass
+
+#EXTINF:-1 tvg-id="7e6534d28305a40da4fdf0209cab04aa",Clubbing TV HD
+http://14.186.94.163:9981/stream/channelid/1379165566?profile=pass
+
+#EXTINF:-1 tvg-id="3d9b0d682bbbf8eb2b4ba743c3b88eb2",CNA
+http://14.186.94.163:9981/stream/channelid/1745722173?profile=pass
+
+#EXTINF:-1 tvg-id="97ea568f565375df7eaa20ef27cf79e6",CNA HD
+http://14.186.94.163:9981/stream/channelid/257354391?profile=pass
+
+#EXTINF:-1 tvg-id="15cc7da77b98ca1bc6babec5b3f89cfc",CNBC
+http://14.186.94.163:9981/stream/channelid/662555669?profile=pass
+
+#EXTINF:-1 tvg-id="4aa8f5dee9dda52b386852fe2c9a60b8",CNN
+http://14.186.94.163:9981/stream/channelid/1593157706?profile=pass
+
+#EXTINF:-1 tvg-id="326e951c1f02b89c426161b83fb3aef6",CNN HD
+http://14.186.94.163:9981/stream/channelid/479555122?profile=pass
+
+#EXTINF:-1 tvg-id="4747c09160365867daf4d58c593e8614",Da Vinci
+http://14.186.94.163:9981/stream/channelid/297813831?profile=pass
+
+#EXTINF:-1 tvg-id="70dfd0d59bc2e4fbb0007e1ec895b9fb",Da Vinci HD
+http://14.186.94.163:9981/stream/channelid/1439752048?profile=pass
+
+#EXTINF:-1 tvg-id="f91bfd79022b9b2ecfe4c82c98d7007b",Discovery Asia HD
+http://14.186.94.163:9981/stream/channelid/2046630905?profile=pass
+
+#EXTINF:-1 tvg-id="ef43cae5add9c78c60560265d8edb797",Discovery Channel
+http://14.186.94.163:9981/stream/channelid/1707754479?profile=pass
+
+#EXTINF:-1 tvg-id="9a28408908f4d1d60fe6ea279e79539a",BBC Cbeebies
+http://14.186.94.163:9981/stream/channelid/155199642?profile=pass
+
+#EXTINF:-1 tvg-id="a895ea49ed02417d247b1664f771cd1e",Dragon TV
+http://14.186.94.163:9981/stream/channelid/1240110504?profile=pass
+
+#EXTINF:-1 tvg-id="6cbce9718c847546c892a5858039c9d8",DW (Deutsch)
+http://14.186.94.163:9981/stream/channelid/1911143532?profile=pass
+
+#EXTINF:-1 tvg-id="27a810f292c05895351a5d78762154ae",DW (English)
+http://14.186.94.163:9981/stream/channelid/1913694247?profile=pass
+
+#EXTINF:-1 tvg-id="dab894356a50841003411e7cc5082850",DW (English) HD
+http://14.186.94.163:9981/stream/channelid/898939098?profile=pass
+
+#EXTINF:-1 tvg-id="7892b3fac9da328c02f3a080a0ae65a4",Fashion TV
+http://14.186.94.163:9981/stream/channelid/2058588792?profile=pass
+
+#EXTINF:-1 tvg-id="a46707bdd2629106bb58312685c6c25c",Fashion TV HD
+http://14.186.94.163:9981/stream/channelid/1023895460?profile=pass
+
+#EXTINF:-1 tvg-id="8ad34bcb0e6e13ed6ddc66d87390d0f0",Filmy 
+http://14.186.94.163:9981/stream/channelid/1263260554?profile=pass
+
+#EXTINF:-1 tvg-id="fc8ed6526a7159d52dd84da43725b391",HITS
+http://14.186.94.163:9981/stream/channelid/1389793020?profile=pass
+
+#EXTINF:-1 tvg-id="3de1f54f8c78e264ea60de4b36ee193d",BOX HITS
+http://14.186.94.163:9981/stream/channelid/1341514045?profile=pass
+
+#EXTINF:-1 tvg-id="7536dedb88d83c040d96136bef05025c",BOX HITS HD
+http://14.186.94.163:9981/stream/channelid/1541289589?profile=pass
+
+#EXTINF:-1 tvg-id="d8836736c4c37c876e1ddab44da179f1",FRANCE 24 (Francais)
+http://14.186.94.163:9981/stream/channelid/912753624?profile=pass
+
+#EXTINF:-1 tvg-id="a121f7bd3af36a81ecb6e1db52879c1e",HBO
+http://14.186.94.163:9981/stream/channelid/1039606177?profile=pass
+
+#EXTINF:-1 tvg-id="9839ee6e75f7be01e43bbdd11134be2e",HBO HD
+http://14.186.94.163:9981/stream/channelid/1861106072?profile=pass
+
+#EXTINF:-1 tvg-id="113d8d4d20c53c29a5f29225f77b3576",Hunan
+http://14.186.94.163:9981/stream/channelid/1301101841?profile=pass
+
+#EXTINF:-1 tvg-id="8e915c669f1839467a2e9e4fae13aa4f",KBS WORLD
+http://14.186.94.163:9981/stream/channelid/1717342606?profile=pass
+
+#EXTINF:-1 tvg-id="76ad6d338afb997159fc61eca9d8090a",MSTV
+http://14.186.94.163:9981/stream/channelid/862825846?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/qE1q70A.jpg" tvg-id="9f9bad3f5967a7bee488f4e5f8ad2774",MTV
+http://14.186.94.163:9981/stream/channelid/1068342175?profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/qE1q70A.jpg" tvg-id="9c6899b778b8f76c45eb84242f94465f",MTV HD
+http://14.186.94.163:9981/stream/channelid/932800668?profile=pass
+
+#EXTINF:-1 tvg-id="a7a3571b102422d66181ac130be42c88",NAT GEO PEOPLE
+http://14.186.94.163:9981/stream/channelid/458728359?profile=pass
+
+#EXTINF:-1 tvg-id="abc418dd8b801fa6fc06644335d01c74",NAT GEO PEOPLE HD
+http://14.186.94.163:9981/stream/channelid/1561904299?profile=pass
+
+#EXTINF:-1 tvg-id="8d6e280f5ba3aa3e33b8cda8a1bba0a1",NAT GEO WILD HD
+http://14.186.94.163:9981/stream/channelid/254307981?profile=pass
+
+#EXTINF:-1 tvg-id="372eaf9b76ccd06d95b55a0b8a39bc4b",NATIONAL GEOGRAPHIC HD
+http://14.186.94.163:9981/stream/channelid/464465463?profile=pass
+
+#EXTINF:-1 tvg-id="37ffcceec2b042db5b7e3964e73d98f4",NHK Premium
+http://14.186.94.163:9981/stream/channelid/1858928439?profile=pass
+
+#EXTINF:-1 tvg-id="1c06a1faeebc62c5d95db1d11cfe02a1",NHK WORLD JAPAN
+http://14.186.94.163:9981/stream/channelid/2057373212?profile=pass
+
+#EXTINF:-1 tvg-id="314a5843a1a5fe0917209a2457ea25e6",NHK WORLD JAPAN HD
+http://14.186.94.163:9981/stream/channelid/1129859633?profile=pass
+
+#EXTINF:-1 tvg-id="721a8350be0339b7f467f73aa108cc72",OPT1
+http://14.186.94.163:9981/stream/channelid/1350769266?profile=pass
+
+#EXTINF:-1 tvg-id="65313901f44ae88ea385fb2db271b7b9",Outdoor Channel HD
+http://14.186.94.163:9981/stream/channelid/20525413?profile=pass
+
+#EXTINF:-1 tvg-id="1e6119158043c99db83b705b39658c38",Phoenix 
+http://14.186.94.163:9981/stream/channelid/353984798?profile=pass
+
+#EXTINF:-1 tvg-id="4f679b590a23aebf9a04272fb313325f",Phoenix Infonews
+http://14.186.94.163:9981/stream/channelid/1503356751?profile=pass
+
+#EXTINF:-1 tvg-id="d66733caf810563029e7a9ba0f449021",Rai Italia
+http://14.186.94.163:9981/stream/channelid/1244882902?profile=pass
+
+#EXTINF:-1 tvg-id="98284902122eac6e3020716b15d0d19c",Russia Today
+http://14.186.94.163:9981/stream/channelid/38348952?profile=pass
+
+#EXTINF:-1 tvg-id="444f527033e81dd26b7278de89ea63cb",Sahara One
+http://14.186.94.163:9981/stream/channelid/1884442436?profile=pass
+
+#EXTINF:-1 tvg-id="436f6c9895b262ed7ae8f60cce05e79f",Shenzhen Satellite TV
+http://14.186.94.163:9981/stream/channelid/409759555?profile=pass
+
+#EXTINF:-1 tvg-id="f5c6c8b1952dfb5460bde24e67ac044d",TLC
+http://14.186.94.163:9981/stream/channelid/835241717?profile=pass
+
+#EXTINF:-1 tvg-id="a4ca28904362ddc4138f96af5c7d2c46",TLC HD
+http://14.186.94.163:9981/stream/channelid/271108772?profile=pass
+
+#EXTINF:-1 tvg-id="f41be3e1a9621c0478d0c55a556749a3",TV5 MONDE ASIE
+http://14.186.94.163:9981/stream/channelid/1642273780?profile=pass
+
+#EXTINF:-1 tvg-id="d7fecef5a50cdbe18c3eb1aba515cf4e",TVE HD
+http://14.186.94.163:9981/stream/channelid/1976499927?profile=pass
+
+#EXTINF:-1 tvg-id="26ab2304e8c83e100d31c959ce70e2d4",Baby First
+http://14.186.94.163:9981/stream/channelid/69446438?profile=pass
+
+#EXTINF:-1 tvg-id="3768290ba8e81583d311c81528424dd7",WBTV
+http://14.186.94.163:9981/stream/channelid/187263031?profile=pass
+
+#EXTINF:-1 tvg-id="7606e79c09a9f35c9ad2deee5852de5d",WBTV HD
+http://14.186.94.163:9981/stream/channelid/484902518?profile=pass
+
+#EXTINF:-1 tvg-id="d8c7ec50d384a7da00b3b9609ffade41",Xing Kong
+http://14.186.94.163:9981/stream/channelid/1357694936?profile=pass
+
+#EXTINF:-1 tvg-id="f7a6517386365ea5e94e9cf4d0a0af14",Youman
+http://14.186.94.163:9981/stream/channelid/1934730999?profile=pass
+
+#EXTINF:-1 tvg-id="1411e6f44aeaf979853ad09c04c7f579",YTN
+http://14.186.94.163:9981/stream/channelid/1961234708?profile=pass
+
+#EXTINF:-1 tvg-id="38979caf2cfdc04e6a67083beefc16a0",Россия PTP
+http://14.186.94.163:9981/stream/channelid/798791480?profile=pass
+
+#EXTINF:-1 tvg-id="5146ce1cbe7cff9804b356e4be708a25",Discovery Channel HD
+http://14.186.94.163:9981/stream/channelid/483280465?profile=pass
+
+#EXTINF:-1 tvg-id="7b6e12e96dbd4443a68ffaa179fce8d1",Animax
+http://14.186.94.163:9981/stream/channelid/1762815611?profile=pass
+
+#EXTINF:-1 tvg-id="958247fd70fc157ade11cee3a356db41",FRANCE 24 (English)
+http://14.186.94.163:9981/stream/channelid/2101838485?profile=pass
+
+#EXTINF:-1 tvg-id="e842f28f82bd5c6439749776f44acca0",NATIONAL GEOGRAPHIC
+http://14.186.94.163:9981/stream/channelid/267535080?profile=pass
+
