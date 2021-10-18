@@ -302,10 +302,10 @@ http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/kupjtv.m3u8.m3u8
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://i.imgur.com/CVxACz9.png" group-title="🌍|Quốc Tế",KIX
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="blueantent" tvg-logo="https://i.imgur.com/BaZuGNL.png" group-title="🌍|Quốc Tế",Blue Ant Entertainment
+#EXTINF:-1 tvg-id="blueantent" tvg-logo="https://i.imgur.com/BaZuGNL.png" group-title="🌍|Quốc Tế",Rock Entertainment
 https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="blueantext" tvg-logo="https://i.imgur.com/EUHDtZ5.png" group-title="🌍|Quốc Tế",Blue Ant Extreme
+#EXTINF:-1 tvg-id="blueantext" tvg-logo="https://i.imgur.com/EUHDtZ5.png" group-title="🌍|Quốc Tế",Rock Extreme
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/kupjtv.m3u8
 
 #EXTINF:0  tvg-id="hbohd" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/8zmMx6y/hbo.png",HBO
@@ -321,10 +321,10 @@ http://vthanh.xyz/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png",Box Hits
-http://103.195.239.138:80/boxhits/mpegts
+http://103.195.238.226/boxhits/mpegts
 
 #EXTINF:-1 tvg-id="hitshd" tvg-logo="https://i.ibb.co/Yb6fhGz/HITS-M.jpg" group-title="🌍|Quốc Tế",HITS
-http://103.195.239.138/hits/mpegts
+http://103.195.238.226/hits/mpegts
 
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/z8Cm35k.png" group-title="🌍|Quốc Tế",Warner TV
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/kupjtv.m3u8
@@ -366,7 +366,7 @@ https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/kupjtv.m3u8
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="ngcwhd" tvg-logo="https://i.ibb.co/m8WRJn4/natwild.jpg" group-title="🌍|Quốc Tế",National Geographic Wild HD
-https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/fXuxFbz.png" group-title="🌍|Quốc Tế",Discovery HD
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/kupjtv.m3u8
