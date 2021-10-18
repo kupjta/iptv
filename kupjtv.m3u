@@ -53,7 +53,8 @@ http://vthanh.xyz/vieon.m3u8?kenh=vie-giai-tri-hd
 http://vthanh.xyz/sctv.m3u8?id=vtvcab2|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/w4Hk5SV/cab3.jpg",🇻🇳|VTVCab3 HD - Onsports
-http://vthanh.xyz/sctv.m3u8?id=vtvcab3|Referer=http://sctvonline.vn
+#http://vthanh.xyz/sctv.m3u8?id=vtvcab3|Referer=http://sctvonline.vn
+http://203.162.123.188:21585/vtvcab3/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/6tSq3hP/cab4.jpg" ,🇻🇳|VTVCab4 - Văn Hóa
 http://vthanh.xyz/sctv.m3u8?id=vtvcab4|Referer=http://sctvonline.vn
@@ -68,7 +69,8 @@ http://vthanh.xyz/sctv.m3u8?id=vtvcab6|Referer=http://sctvonline.vn
 http://vthanh.xyz/sctv.m3u8?id=vtvcab7|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/vdxbmPn/cab8.jpg",🇻🇳|VTVCab8 - BIBI
-http://vthanh.xyz/sctv.m3u8?id=vtvcab8|Referer=http://sctvonline.vn
+#http://vthanh.xyz/sctv.m3u8?id=vtvcab8|Referer=http://sctvonline.vn
+http://203.162.123.188:21585/vtvcab8/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/4Fj6h9Z/cab9.jpg",🇻🇳|VTVCab9 - Info TV
 http://vthanh.xyz/sctv.m3u8?id=vtvcab9|Referer=http://sctvonline.vn
@@ -193,7 +195,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/yBnxfhH/sctv1-hd.png",SCTV 1 | Hài
 #http://vthanh.xyz/sctv.m3u8?id=sctv1|Referer=http://sctvonline.vn/
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=http://sctvonline.vn/
+#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=http://sctvonline.vn/
+http://203.162.123.188:21585/sctv9/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png",SCTV2 | AMC
 #http://vthanh.xyz/sctv.m3u8?id=sctv2|Referer=http://sctvonline.vn/
@@ -221,7 +224,8 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv8/sd1/index.m3u8?md5=4VmSMUN05v
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/bdMgBLN/logo26072108-sctv9-hd.png",SCTV9 | Phim Châu Á
 #http://vthanh.xyz/sctv.m3u8?id=sctv9|Referer=http://sctvonline.vn/
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv9/sd1/index.m3u8?md5=YbHnb-7yJPcp86S-bNWnvA&expires=2556118740|Referer=http://sctvonline.vn/
+#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv9/sd1/index.m3u8?md5=YbHnb-7yJPcp86S-bNWnvA&expires=2556118740|Referer=http://sctvonline.vn/
+http://203.162.123.188:21585/sctv9/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png",SCTV11 | Ngôi Sao
 #http://vthanh.xyz/sctv.m3u8?id=sctv11|Referer=http://sctvonline.vn/
