@@ -195,11 +195,10 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/yBnxfhH/sctv1-hd.png",SCTV 1 | Hài
 #http://vthanh.xyz/sctv.m3u8?id=sctv1|Referer=http://sctvonline.vn/
-#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=http://sctvonline.vn/
 http://203.162.123.188:21585/sctv9/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png",SCTV2 | AMC
-#http://vthanh.xyz/sctv.m3u8?id=sctv2|Referer=http://sctvonline.vn/
+http://vthanh.xyz/sctv.m3u8?id=sctv2|Referer=http://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv2/sd1/index.m3u8?md5=4uJKDAWdU9pdIfSzvhQJPQ&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/pwy6LhX/sctv3-hd.png",SCTV3 | Thiếu Nhi
