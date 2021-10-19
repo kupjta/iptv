@@ -342,8 +342,7 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/kupjtv.m3u8
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/fSv164Q/box1.jpg",Box Movies 1
-http://103.195.238.226/boxhits/mpegts
-#http://vthanh.xyz/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
+http://vthanh.xyz/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -505,9 +504,11 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/kupjtv.m3u8
 http://vthanh.xyz/sctv.m3u8?id=musicbox|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="hbohd-asia" group-title="🎬|HBO" tvg-logo="https://i.ibb.co/8zmMx6y/hbo.png",HBO (𝔸𝕤𝕚𝕒)
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:0 tvg-id="cinemaxhd-asia" group-title="🎬|HBO" tvg-logo="https://i.ibb.co/Wx1sLCn/cinemax.png",Cinemax (𝔸𝕤𝕚𝕒)
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:0 tvg-id="hbofamilyhd-asia" group-title="🎬|HBO" tvg-logo="https://i.ibb.co/x2sGhs7/hbo-family.png",HBO Family (𝔸𝕤𝕚𝕒)
