@@ -1,6 +1,6 @@
 #EXITM3U url-tvg="http://onetv.click/schedule/epg.xml"
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/LZPw92B/kkids.png",K+KIDS HD
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/jbpSd38/kkids.jpg",K+KIDS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=7061F716898B5B1E&Ticket=D7E1F2E0E04675CE
