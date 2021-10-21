@@ -222,11 +222,12 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/yBnxfhH/sctv1-hd.png",SCTV 1 | Hài
 #http://vthanh.xyz/sctv.m3u8?id=sctv1|Referer=http://sctvonline.vn/
-http://203.162.123.188:21585/sctv9/index.m3u8
+http://203.162.123.188:21585/sctv1/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png",SCTV2 | AMC
-http://vthanh.xyz/sctv.m3u8?id=sctv2|Referer=http://sctvonline.vn/
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv2/sd1/index.m3u8?md5=4uJKDAWdU9pdIfSzvhQJPQ&expires=2556118740|Referer=http://sctvonline.vn/
+#http://vthanh.xyz/sctv.m3u8?id=sctv2|Referer=http://sctvonline.vn/
+#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv2/sd1/index.m3u8?md5=4uJKDAWdU9pdIfSzvhQJPQ&expires=2556118740|Referer=http://sctvonline.vn/
+https://vips-livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/pwy6LhX/sctv3-hd.png",SCTV3 | Thiếu Nhi
 #http://vthanh.xyz/sctv.m3u8?id=sctv3|Referer=http://sctvonline.vn/
@@ -246,7 +247,8 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv7/sd1/index.m3u8?md5=t2rQwa4sPn
 
 #EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/1Z8k49W/logo26072108-sctv8.png",SCTV8 | Kinh Tế
 #http://vthanh.xyz/sctv.m3u8?id=sctv8|Referer=http://sctvonline.vn/
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv8/sd1/index.m3u8?md5=4VmSMUN05v9AhUS7aYe6Ig&expires=2556118740|Referer=http://sctvonline.vn/
+#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv8/sd1/index.m3u8?md5=4VmSMUN05v9AhUS7aYe6Ig&expires=2556118740|Referer=http://sctvonline.vn/
+https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/bdMgBLN/logo26072108-sctv9-hd.png",SCTV9 | Phim Châu Á
 #http://vthanh.xyz/sctv.m3u8?id=sctv9|Referer=http://sctvonline.vn/
