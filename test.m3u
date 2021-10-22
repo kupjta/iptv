@@ -1,3 +1,89 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Others" tvg-id="K+LIFE",K+LIFE HD (ace)
 http://127.0.0.1:6878/ace/getstream?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
+#EXTINF:-1,UFC
+https://by.com.vn/UFCthethao
+#EXTINF:-1,Sky Sport F1 HD DE
+https://by.com.vn/SKY-F1HD
+#EXTINF:-1,Sky Sports F1 stream
+https://by.com.vn/SKY-F1-Stream
+#EXTINF:-1,FOX Sport News
+https://by.com.vn/FOX-Sport-News
+#EXTINF:-1,NBA
+https://by.com.vn/NBA-TV-HD
+#EXTINF:-1,O2TV Tenis
+https://by.com.vn/O2TV-Tennis
+#EXTINF:-1,Golf channel PL
+https://by.com.vn/Golf-Channel-PL
+#EXTINF:-1,Ziggo Golf
+https://by.com.vn/Ziggo-Golf
+#EXTINF:-1,Espn 1
+https://by.com.vn/ESPN-HD1
+#EXTINF:-1,Espn 1 NL
+https://by.com.vn/ESPN1-NL
+#EXTINF:-1,Espn 2
+https://by.com.vn/ESPN-HD2
+#EXTINF:-1,Espn 2 NL
+https://by.com.vn/ESPN2-NL
+#EXTINF:-1,Espn 4 NL
+https://by.com.vn/ESPN4-NL
+#EXTINF:-1,CINEMAX
+https://by.com.vn/CINEMAX-HD
+#EXTINF:-1,Cinemax HD2
+https://by.com.vn/Cinemax-HD2
+#EXTINF:-1,HBO
+https://by.com.vn/HBO1-HD
+#EXTINF:-1,FOX HD
+https://by.com.vn/FOX-HD
+#EXTINF:-1,FOX Life FHD
+https://by.com.vn/FOX-Life-FHD
+#EXTINF:-1,Warner TV
+https://by.com.vn/bdsdWm
+#EXTINF:-1,Blue Ant Entertainment HD
+https://by.com.vn/Blu-Ant-HD
+#EXTINF:-1,Fashion TV
+https://by.com.vn/Fashion-HD
+#EXTINF:-1,National Geographic HD
+https://by.com.vn/mvKHll
+#EXTINF:-1,Discovery Science HD
+https://by.com.vn/Discovery-Science-HD
+#EXTINF:-1,Boomerang
+https://by.com.vn/Boomerang
+#EXTINF:-1,KIX
+https://by.com.vn/KIX-HD
+#EXTINF:-1,History
+https://by.com.vn/HISTORY
+#EXTINF:-1,Sexy KpopTV
+https://by.com.vn/Sexy-KpopTV
+#EXTINF:-1,HD Music TV
+https://by.com.vn/HD-Music-TV
+#EXTINF:-1,MTV Live HD
+https://by.com.vn/MTV-Life-HD
+#EXTINF:-1,MTV Hits
+https://by.com.vn/MTV-Hits
+#EXTINF:-1,VTVCAB 3 THE THAO
+https://by.com.vn/VTVCAB-3-THE-THAO
+#EXTINF:-1,VTV3
+https://by.com.vn/iTMJ7C
+#EXTINF:-1,VTC3
+https://by.com.vn/VTC-HD3
+#EXTINF:-1,HTV THỂ THAO 
+https://by.com.vn/HTV-THETHAO
+#EXTINF:-1,HTVC PHIM HD
+https://by.com.vn/HTVC-PHIM
+#EXTINF:-1,ANTV
+https://by.com.vn/ANTV-HD
+#EXTINF:-1,Da Nang TV1
+https://by.com.vn/DaNang-TV1
+#EXTINF:-1,Da Nang TV2
+https://by.com.vn/DaNang-TV2
+#EXTINF:-1,Tien Giang TV
+https://by.com.vn/TienGiang
+#EXTINF:-1,Kien Giang TV
+https://by.com.vn/KienGiang
+#EXTINF:-1,Kien Giang TV1
+https://by.com.vn/KienGiang1
+#EXTINF:-1,Quang Nam TV
+https://by.com.vn/QuangNam-TV
+#EXTINF:-1,Ca Mau HD
+https://by.com.vn/CaMau-HD
