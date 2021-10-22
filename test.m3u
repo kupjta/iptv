@@ -1,3 +1,3 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Others" tvg-id="DAZN 2 HD",TEST
+#EXTINF:-1 group-title="Others" tvg-id="K+LIFE",K+LIFE HD (ace)
 http://127.0.0.1:6878/ace/getstream?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
