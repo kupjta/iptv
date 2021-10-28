@@ -4,10 +4,7 @@
 
 #EXTM3U K+
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="https://i.ibb.co/zXfswdq/klife.png" group-title="K+",K+ Life HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://i.ibb.co/JCYgyJQ/kcine.png" group-title="K+",K+ Cine HD
