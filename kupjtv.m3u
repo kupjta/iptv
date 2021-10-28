@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="http://gg.gg/lichphatsongiptv" url-tvg="http://onetv.click/schedule/epg.xml" refresh="3600" aspect-ratio=16:9 m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0 
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" refresh="3600" aspect-ratio=16:9 m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0 
+#EXTM3U url-tvg="http://gg.gg/lichphatsongiptv"
 #EXTM3U Kupj
 
 #EXTM3U K+
@@ -151,10 +152,10 @@ https://vips-livecdn.fptplay.net/sdb/vtc8_hls.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" tvg-logo="https://i.ibb.co/9vvSX6X/vtc9.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc9_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC9
 https://vips-livecdn.fptplay.net/sdb/vtc9_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="vtc10hd" tvg-logo="https://i.ibb.co/HH0YCZX/vtc10.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC10
+#EXTINF:-1 tvg-id="vtc10" tvg-logo="https://i.ibb.co/HH0YCZX/vtc10.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC10
 https://vips-livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtc11hd" tvg-logo="https://i.ibb.co/4pZpWz4/vtc11.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC11
+#EXTINF:-1 tvg-id="vtc11" tvg-logo="https://i.ibb.co/4pZpWz4/vtc11.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC11
 https://vips-livecdn.fptplay.net/sdb/vtc11_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="vtc12" tvg-logo="https://i.ibb.co/Np03FCK/vtc12.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC12
@@ -179,7 +180,7 @@ https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.imgur.com/8GOohTX.png" group-title="🇻🇳|HTV",HTV3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="htv4" tvg-logo="https://i.imgur.com/JBNgrHU.png" group-title="🇻🇳|HTV",HTV Keys
+#EXTINF:-1 tvg-id="htvkey" tvg-logo="https://i.imgur.com/JBNgrHU.png" group-title="🇻🇳|HTV",HTV Keys
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.imgur.com/EPZzYTx.png" group-title="🇻🇳|HTV",HTV7 HD
