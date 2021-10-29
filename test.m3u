@@ -1,13 +1,13 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Acestream",Kênh 1
-acestream://6995fd79ae02f5559172feaccbfe46e0418c9502
-#EXTINF:-1 group-title="Acestream",Kênh 2
+acestream://6995fd79ae02f5559172feaccbfe46e0418c9502 (VTV6)
+#EXTINF:-1 group-title="Acestream",Kênh 2 (On Sports)
 acestream://ef85d17ddd020e6d5924338ee8a246a6be1c7eff
 #EXTINF:-1 group-title="Acestream",Kênh 3 (K+ LIFE)
 acestream://bdc6c6efb3572f2710ac16eee1e2e471ea621017
-#EXTINF:-1 group-title="Acestream",Kênh 4
+#EXTINF:-1 group-title="Acestream",Kênh 4 (Bein Sports 2)
 acestream://1925018afeb5d44791e4c49867c8c3259a018145
-#EXTINF:-1 group-title="Acestream",Kênh 5
+#EXTINF:-1 group-title="Acestream",Kênh 5 (Bein Sports 1)
 acestream://d4575f751d08f80801b2aa25e9c09aa774a95b0d
 #EXTINF:-1 group-title="VIỆT NAM",VTV3 HD
 acestream://e91d570b565d1359fc3b5c1936203eb45782a657
@@ -25,3 +25,5 @@ acestream://ae47144f17fca39a7fea4dae02bc806430317a0d
 acestream://c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
 #EXTINF:-1 group-title="Sports",Sky Sport 2
 acestream://46c49e9e01749e13c7fd87300924bfa5dad66d11
+#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 1
+acestream://5f7ba5cddba6d44435b75e28649b00393bbf2dc4
