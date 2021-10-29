@@ -1,6 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Acestream",Kênh 1
-acestream://6995fd79ae02f5559172feaccbfe46e0418c9502 (VTV6)
+#EXTINF:-1 group-title="Acestream",Kênh 1 (VTV6)
+acestream://6995fd79ae02f5559172feaccbfe46e0418c9502
 #EXTINF:-1 group-title="Acestream",Kênh 2 (On Sports)
 acestream://ef85d17ddd020e6d5924338ee8a246a6be1c7eff
 #EXTINF:-1 group-title="Acestream",Kênh 3 (K+ LIFE)
