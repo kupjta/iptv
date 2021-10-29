@@ -17,23 +17,25 @@ acestream://e2f68dc6f9a3a17cef317276d38153351837db99
 acestream://bc92bbc45be12cf51706daf41ca9fc4212677455
 #EXTINF:-1 group-title="VIỆT NAM",ANTV
 acestream://2ba398b25fbee0e1e530ba925957967d3eff947e
-#EXTINF:-1 group-title="VIỆT NAM",HTVC PHIM
+#EXTINF:-1 group-title="VIỆT NAM",HTVC Phim
 acestream://e70330600a0b14f13378cd720f4a67df73cfb362
-#EXTINF:-1 group-title="VIỆT NAM",HTV THE THAO
+#EXTINF:-1 group-title="VIỆT NAM",HTV Thể Thao
 acestream://ae47144f17fca39a7fea4dae02bc806430317a0d
 #EXTINF:-1 group-title="Sports",Sky Sport 1
 acestream://c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
 #EXTINF:-1 group-title="Sports",Sky Sport 2
 acestream://46c49e9e01749e13c7fd87300924bfa5dad66d11
-#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 1
+#EXTINF:-1 group-title="Sports",Eleven Sports 1
 acestream://5f7ba5cddba6d44435b75e28649b00393bbf2dc4
-#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 2
+#EXTINF:-1 group-title="Sports",Eleven Sports 2
 acestream://572880fd38805efc2d5c9fa72a72669a00583808
-#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 3
+#EXTINF:-1 group-title="Sports",ELEVEN Sports 3
 acestream://d7f042a816012aaa4898b1f56107a2c13c7df323
-#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 4
+#EXTINF:-1 group-title="Sports",ELEVEN Sports 4
 acestream://0e86afa4f4aea82b00e527967eec9dc938ded8c1
 #EXTINF:-1 group-title="Sports",Movistar La Liga
 acestream://9007568a18c3a3c89fb9e745206a60554c114917
-#EXTINF:-1 group-title="Sports",Movistar Liga
+#EXTINF:-1 group-title="Sports",Movistar Liga De Campeones
 acestream://b0aa6d932aaf12452c91ed5fb07642c6a31394d7
+#EXTINF:-1 group-title="Sports",Movistar Deportes
+acestream://57fb15b9403695ef6eaa79699a7ea5c374e4fa2f
