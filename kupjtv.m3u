@@ -328,10 +328,13 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/kupjtv.m3u8
 http://vthanh.xyz/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
+http://vthanh.xyz/sctv.m3u8?id=hollywood|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png",Box Hits
 http://103.195.238.226/boxhits/mpegts
+
+#EXTINF:-1 tvg-id="inthebox" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/Qdv98Db/inthebox.png",In The Box
+http://103.195.238.226/inthebox/mpegts
 
 #EXTINF:-1 tvg-id="hitshd" tvg-logo="https://i.ibb.co/Yb6fhGz/HITS-M.jpg" group-title="🌍|Quốc Tế",HITS
 http://103.195.238.226/hits/mpegts
@@ -457,19 +460,19 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 http://vthanh.xyz/sctv.m3u8?id=planetearth|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="foxsportshd" tvg-logo="https://i.imgur.com/JsFd6Nl.png" group-title="🌍|Quốc Tế",Fox Sports
-http://38.131.11.9:1080/play/a02k
+http://201.35.250.178:8001/play/a00l
 
 #EXTINF:-1 tvg-id="foxsports2hd" tvg-logo="https://i.imgur.com/acCilxO.png" group-title="🌍|Quốc Tế",Fox Sports 2
-http://38.131.11.9:1080/play/a033
+http://201.35.250.178:8001/play/a00m
 
 #EXTINF:-1 tvg-id="foxsports3hd" tvg-logo="https://i.imgur.com/dhRuUbt.png" group-title="🌍|Quốc Tế",Fox Sports 3
-http://38.131.11.9:1080/play/a034
+#http://38.131.11.9:1080/play/a034
 
 #EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.imgur.com/Zyy11Cs.png" group-title="🌍|Quốc Tế",Fashion TV
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/wcT2VqP/man.png",Man
-#http://103.195.238.226/man/mpegts
+http://103.195.238.226/man/mpegts
 
 #EXTINF:-1 tvg-id="woman" tvg-logo="https://i.ibb.co/GTrnKhc/woman.jpg" group-title="🌍|Quốc Tế",Woman
 http://vthanh.xyz/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
