@@ -1,5 +1,4 @@
 #EXITM3U url-tvg="http://onetv.click/schedule/epg.xml"
-
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/jbpSd38/kkids.jpg",K+ Kids HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
