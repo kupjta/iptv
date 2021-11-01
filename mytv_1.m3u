@@ -1,16 +1,8 @@
-#EXTINF:-1,K+1 HD
-http://fpt.kupjtv.tk:13579/udp/225.1.1.5:30120
-#EXTINF:-1,K+1 HD
-http://fpt.kupjtv.tk:13579/udp/225.1.1.78:30120
-#EXTINF:-1,K+NS HD
-http://fpt.kupjtv.tk:13579/udp/225.1.1.6:30120
 #EXTINF:-1,K+NS HD
 http://fpt.kupjtv.tk:13579/udp/225.1.1.80:30120
-#EXTINF:-1,K+PM HD
-http://fpt.kupjtv.tk:13579/udp/225.1.1.73:30120
-#EXTINF:-1,K+PM HD
-http://fpt.kupjtv.tk:13579/udp/225.1.1.81:30120
-#EXTINF:-1,K+PC HD
-http://fpt.kupjtv.tk:13579/udp/225.1.1.77:30120
-#EXTINF:-1,K+PC HD
-http://fpt.kupjtv.tk:13579/udp/225.1.1.82:30120
+#EXTINF:-1,K+1 HD
+http://fpt1.kupjtv.tk:34040/udp/225.1.1.5:30120
+#EXTINF:-1,K+1 HD
+http://fpt2.kupjtv.tk:4025/udp/225.1.1.78:30120
+#EXTINF:-1,K+NS HD
+http://fpt3.kupjtv.tk:40400/udp/225.1.1.6:30120
