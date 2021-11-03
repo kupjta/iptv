@@ -125,49 +125,49 @@ http://vthanh.xyz/vieon.m3u8?type=tivi&kenh=vie-dramas-hd
 http://vthanh.xyz/sctv.m3u8?id=vtvcab20|Referer=http://sctvonline.vn
 
 #EXTM3U VTC
-#EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/RSFtDPh/vtc1.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC1
+#EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/RSFtDPh/vtc1.jpg" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.xyz/vieon.m3u8?type=dvr&kenh=vtc1-hd&time=${start}" group-title="🇻🇳|VTC",VTC1
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="vtc2" tvg-logo="https://i.ibb.co/GWP8TXQ/vtc2.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC2
+#EXTINF:-1 tvg-id="vtc2" tvg-logo="https://i.ibb.co/GWP8TXQ/vtc2.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-3600.m3u8" group-title="🇻🇳|VTC",VTC2
 https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="vtc3hd" tvg-logo="https://i.ibb.co/SyBBGpy/vtc3.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC3
+#EXTINF:-1 tvg-id="vtc3hd" tvg-logo="https://i.ibb.co/SyBBGpy/vtc3.jpg" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.xyz/vieon.m3u8?type=dvr&kenh=vtc3-hd&time=${start}" group-title="🇻🇳|VTC",VTC3
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="vtc4hd" tvg-logo="https://i.ibb.co/VHjg6mz/vtc4.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC4
+#EXTINF:-1 tvg-id="vtc4hd" tvg-logo="https://i.ibb.co/VHjg6mz/vtc4.jpg" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.xyz/vieon.m3u8?type=dvr&kenh=vtc4-yeah1-family-hd&time=${start}" group-title="🇻🇳|VTC",VTC4
 https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="vtc5hd" tvg-logo="https://i.ibb.co/VL5FvJM/Vtc5.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC5
+#EXTINF:-1 tvg-id="vtc5hd" tvg-logo="https://i.ibb.co/VL5FvJM/Vtc5.jpg" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.xyz/vieon.m3u8?type=dvr&kenh=vtc5-hd&time=${start}" group-title="🇻🇳|VTC",VTC5
 https://vips-livecdn.fptplay.net/sdb/vtc5_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://i.ibb.co/NV5krSX/vtc6.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC6
+#EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://i.ibb.co/NV5krSX/vtc6.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-3600.m3u8" group-title="🇻🇳|VTC",VTC6
 https://vips-livecdn.fptplay.net/sdb/vtc6_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="vtc7hd" tvg-logo="https://i.ibb.co/YWKyB2Z/Vtc7.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc7_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC7
+#EXTINF:-1 tvg-id="vtc7hd" tvg-logo="https://i.ibb.co/YWKyB2Z/Vtc7.jpg" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.xyz/vieon.m3u8?type=dvr&kenh=vtc7-todaytv-hd&time=${start}" group-title="🇻🇳|VTC",VTC7
 https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="vtc8" tvg-logo="https://i.ibb.co/3vjN1Rm/vtc8.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc8_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC8
+#EXTINF:-1 tvg-id="vtc8" tvg-logo="https://i.ibb.co/3vjN1Rm/vtc8.jpg" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.xyz/vieon.m3u8?type=dvr&kenh=vtc8&time=${start}" group-title="🇻🇳|VTC",VTC8
 https://vips-livecdn.fptplay.net/sdb/vtc8_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="vtc9hd" tvg-logo="https://i.ibb.co/9vvSX6X/vtc9.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc9_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC9
+#EXTINF:-1 tvg-id="vtc9hd" tvg-logo="https://i.ibb.co/9vvSX6X/vtc9.jpg" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.xyz/vieon.m3u8?type=dvr&kenh=vtc9-hd&time=${start}" group-title="🇻🇳|VTC",VTC9
 https://vips-livecdn.fptplay.net/sdb/vtc9_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="vtc10" tvg-logo="https://i.ibb.co/HH0YCZX/vtc10.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC10
+#EXTINF:-1 tvg-id="vtc10" tvg-logo="https://i.ibb.co/HH0YCZX/vtc10.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-3600.m3u8" group-title="🇻🇳|VTC",VTC10
 https://vips-livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtc11" tvg-logo="https://i.ibb.co/4pZpWz4/vtc11.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC11
+#EXTINF:-1 tvg-id="vtc11" tvg-logo="https://i.ibb.co/4pZpWz4/vtc11.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-3600.m3u8" group-title="🇻🇳|VTC",VTC11
 https://vips-livecdn.fptplay.net/sdb/vtc11_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="vtc12" tvg-logo="https://i.ibb.co/Np03FCK/vtc12.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC12
+#EXTINF:-1 tvg-id="vtc12" tvg-logo="https://i.ibb.co/Np03FCK/vtc12.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-3600.m3u8" group-title="🇻🇳|VTC",VTC12
 https://vips-livecdn.fptplay.net/sdb/vtc12_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="vtc13hd" tvg-logo="https://i.ibb.co/vkfB3nz/vtc13.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC13
+#EXTINF:-1 tvg-id="vtc13hd" tvg-logo="https://i.ibb.co/vkfB3nz/vtc13.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-3600.m3u8" group-title="🇻🇳|VTC",VTC13
 https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="vtc14hd" tvg-logo="https://i.ibb.co/dW7MT3x/vtc14.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC14
+#EXTINF:-1 tvg-id="vtc14hd" tvg-logo="https://i.ibb.co/dW7MT3x/vtc14.jpg" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.xyz/vieon.m3u8?type=dvr&kenh=vtc14-hd&time=${start}" group-title="🇻🇳|VTC",VTC14
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="vtc16" tvg-logo="https://i.ibb.co/jw4mpg3/vtc16.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-10800.m3u8" group-title="🇻🇳|VTC",VTC16
+#EXTINF:-1 tvg-id="vtc16" tvg-logo="https://i.ibb.co/jw4mpg3/vtc16.jpg" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.xyz/vieon.m3u8?type=dvr&kenh=vtc16-hd&time=${start}" group-title="🇻🇳|VTC",VTC16
 https://vips-livecdn.fptplay.net/sdb/vtc16_hls.smil/kupjtv.m3u8
 
 #EXTM3U HTV
