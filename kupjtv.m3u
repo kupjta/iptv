@@ -97,8 +97,7 @@ http://vthanh.xyz/sctv.m3u8?id=vtvcab6|Referer=http://sctvonline.vn
 http://vthanh.xyz/sctv.m3u8?id=vtvcab7|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/vdxbmPn/cab8.jpg",🇻🇳|VTVCab8 - BIBI
-#http://vthanh.xyz/sctv.m3u8?id=vtvcab8|Referer=http://sctvonline.vn
-http://203.162.123.188:21585/vtvcab8/index.m3u8
+http://vthanh.xyz/sctv.m3u8?id=vtvcab8|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/4Fj6h9Z/cab9.jpg",🇻🇳|VTVCab9 - Info TV
 http://vthanh.xyz/sctv.m3u8?id=vtvcab9|Referer=http://sctvonline.vn
@@ -247,8 +246,7 @@ http://vthanh.xyz/sctv.m3u8?id=sctv7|Referer=http://sctvonline.vn/
 https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/bdMgBLN/logo26072108-sctv9-hd.png",SCTV9 | Phim Châu Á
-#http://vthanh.xyz/sctv.m3u8?id=sctv9|Referer=http://sctvonline.vn/
-http://203.162.123.188:21585/sctv9/index.m3u8
+http://vthanh.xyz/sctv.m3u8?id=sctv9|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png",SCTV11 | Ngôi Sao
 http://vthanh.xyz/sctv.m3u8?id=sctv11|Referer=http://sctvonline.vn/
