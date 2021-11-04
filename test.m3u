@@ -21,12 +21,16 @@ acestream://2ba398b25fbee0e1e530ba925957967d3eff947e
 acestream://e70330600a0b14f13378cd720f4a67df73cfb362
 #EXTINF:-1 group-title="VIỆT NAM",HTV Thể Thao
 acestream://ae47144f17fca39a7fea4dae02bc806430317a0d
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/JChDVpP/bt-sport1.png",BT Sport 1
+acestream://d63cf72bc2661238fcd2e343ccc2582b5bd9bc14
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/ZKVVt3t/bt-sport2.png",BT Sport 2
+acestream://99c2acebde1c1dc7a05419771110ff64fb444a96
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/qYcm8Nw/Skysports1.png",Sky Sport 1
-acestream://bf1c1973456c16eeb0dc6a2ce897b65c8f721706
+#acestream://bf1c1973456c16eeb0dc6a2ce897b65c8f721706
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/j8X4kPx/Skysports2.png",Sky Sport 2
-acestream://46c49e9e01749e13c7fd87300924bfa5dad66d11
+#acestream://46c49e9e01749e13c7fd87300924bfa5dad66d11
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/KbHvp4J/Skysports-F1.png",Sky Sport F1
-acestream://bf1c1973456c16eeb0dc6a2ce897b65c8f721706
+#acestream://bf1c1973456c16eeb0dc6a2ce897b65c8f721706
 #EXTINF:-1 group-title="Sports",Eleven Sports 1
 acestream://5f7ba5cddba6d44435b75e28649b00393bbf2dc4
 #EXTINF:-1 group-title="Sports",Eleven Sports 2
