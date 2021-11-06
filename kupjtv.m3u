@@ -91,7 +91,8 @@ http://vthanh.xyz/sctv.m3u8?id=vtvcab4|Referer=http://sctvonline.vn
 http://vthanh.xyz/sctv.m3u8?id=vtvcab5|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab6hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/XJwLZ9t/Onsports.jpg",🇻🇳|VTVCab6 - OnSports+
-http://vthanh.xyz/sctv.m3u8?id=vtvcab6|Referer=http://sctvonline.vn
+http://vthanh.xyz/vtvgo.m3u8?id=196
+#http://vthanh.xyz/sctv.m3u8?id=vtvcab6|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab7hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/ySjPtML/cab7.png",🇻🇳|VTVCab7 - Sức khỏe
 http://vthanh.xyz/sctv.m3u8?id=vtvcab7|Referer=http://sctvonline.vn
@@ -115,7 +116,8 @@ http://vthanh.xyz/sctv.m3u8?id=vtvcab15|Referer=http://sctvonline.vn
 http://vthanh.xyz/sctv.m3u8?id=vtvcab16|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MDxj7xt/cab17.jpg",🇻🇳|VTVCab17 - Yeah1! TV
-http://vthanh.xyz/sctv.m3u8?id=vtvcab17|Referer=http://sctvonline.vn
+http://vthanh.xyz/vtvgo.m3u8?id=195
+#http://vthanh.xyz/sctv.m3u8?id=vtvcab17|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/FBmKPs5/cab19.jpg",🇻🇳|VTVCab19 - Vie DRAMAS
 http://vthanh.xyz/vieon.m3u8?type=tivi&kenh=vie-dramas-hd
