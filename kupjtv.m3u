@@ -184,10 +184,10 @@ https://livecdn.fptplay.net/sdb/htv3_hls.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="htvkey" tvg-logo="https://i.imgur.com/JBNgrHU.png" group-title="🇻🇳|HTV",HTV Keys
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.imgur.com/EPZzYTx.png" group-title="🇻🇳|HTV",HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.imgur.com/EPZzYTx.png" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-${offset}.m3u8" group-title="🇻🇳|HTV",HTV7 HD
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://i.imgur.com/vMxj1BX.png" group-title="🇻🇳|HTV",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://i.imgur.com/vMxj1BX.png" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-${offset}.m3u8" group-title="🇻🇳|HTV",HTV9 HD
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://i.imgur.com/WltXVFn.png" group-title="🇻🇳|HTV",HTVC Ca Nhạc
