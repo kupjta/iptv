@@ -75,7 +75,7 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/kupjtv.m3u8
 #EXTM3U VTV CAB
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/YR8ntg2/cab1.jpg",🇻🇳|VTVCab1 - Vie Giải Trí
-http://vthanh.me/vieon.m3u8?type=tivi&kenh=vie-giai-tri-hd
+http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=vie-giai-tri-hd
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MGQLhzz/cab2.jpg",🇻🇳|VTVCab2 - On Phim Việt
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=vtvcab2|Referer=http://sctvonline.vn
@@ -91,7 +91,7 @@ http://vthanh.me/sctv.m3u8?pass=vienthi&id=vtvcab4|Referer=http://sctvonline.vn
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=vtvcab5|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab6hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/XJwLZ9t/Onsports.jpg",🇻🇳|VTVCab6 - OnSports+
-http://vthanh.me/vtvgo.m3u8?id=196
+http://vthanh.me/vtvgo.m3u8?pass=vienthi&id=196
 #http://vthanh.me/sctv.m3u8?pass=vienthi&id=vtvcab6|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab7hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/ySjPtML/cab7.png",🇻🇳|VTVCab7 - Sức khỏe
@@ -116,11 +116,11 @@ http://vthanh.me/sctv.m3u8?pass=vienthi&id=vtvcab15|Referer=http://sctvonline.vn
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=vtvcab16|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/MDxj7xt/cab17.jpg",🇻🇳|VTVCab17 - Yeah1! TV
-http://vthanh.me/vtvgo.m3u8?id=195
+http://vthanh.me/vtvgo.m3u8?pass=vienthi&id=195
 #http://vthanh.me/sctv.m3u8?pass=vienthi&id=vtvcab17|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/FBmKPs5/cab19.jpg",🇻🇳|VTVCab19 - Vie DRAMAS
-http://vthanh.me/vieon.m3u8?type=tivi&kenh=vie-dramas-hd
+http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=vie-dramas-hd
 
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="🇻🇳|VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab20hd.jpg",🇻🇳|VTVCab20 - V Family
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=vtvcab20|Referer=http://sctvonline.vn
@@ -332,13 +332,13 @@ http://vthanh.me/sctv.m3u8?pass=vienthi&id=boxmovie|Referer=http://sctvonline.vn
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=hollywood|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8",Box Hits
-http://cdnfpt.vthanh.xyz/boxhits/mpegts
+http://live.kupjtv.tk/boxhits/mpegts
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/Qdv98Db/inthebox.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8",In The Box
-http://cdnfpt.vthanh.xyz/inthebox/mpegts
+http://live.kupjtv.tk/inthebox/mpegts
 
 #EXTINF:-1 tvg-id="hitshd" tvg-logo="https://i.ibb.co/Yb6fhGz/HITS-M.jpg" group-title="🌍|Quốc Tế",HITS
-http://cdnfpt.vthanh.xyz/hits/mpegts
+http://live.kupjtv.tk/hits/mpegts
 
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/z8Cm35k.png" group-title="🌍|Quốc Tế",Warner TV
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/kupjtv.m3u8
@@ -473,7 +473,7 @@ http://201.35.250.178:8001/play/a00m
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="🌍|Quốc Tế" tvg-logo="https://i.ibb.co/wcT2VqP/man.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8",Man
-http://cdnfpt.vthanh.xyz/man/mpegts
+http://live.kupjtv.tk/man/mpegts
 
 #EXTINF:-1 tvg-id="woman" tvg-logo="https://i.ibb.co/GTrnKhc/woman.jpg" group-title="🌍|Quốc Tế" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/woman/chunklist_2_${start}.m3u8",Woman
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=woman|Referer=http://sctvonline.vn/
@@ -615,7 +615,7 @@ https://livecdn.fptplay.net/sda/dongnai1_hls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id=""dongnai3 group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/VWnhwB1/dn2.jpg",Đồng Nai 3
-http://vthanh.me/vieon.m3u8?kenh=dong-nai-3
+http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=dong-nai-3
 
 #EXTINF:-1 tvg-id="dongthap" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/zrMj8mP/dongthap1.jpg",Đồng Tháp
 http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
@@ -657,7 +657,7 @@ https://livecdn.fptplay.net/sda/haugiang_2000.stream/kupjtv.m3u8
 https://livecdn.fptplay.net/sda/hoabinh_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="hungyen" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/JB0KYSR/hungyen.jpg",Hưng Yên
-http://103.90.220.236/hytvlive/tv1live.m3u8
+http://live1.kupjtv.tk/hytvlive/tv1live.m3u8
 
 #EXTINF:0 tvg-id="kiengiang" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/mNnRv3Y/kiengiang.png",Kiên Giang
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
@@ -708,13 +708,13 @@ https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="qtv1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://vthanh.xyz/ic/168.png", Quảng Ninh 1 HD
-http://103.90.220.236/qtvlive/tv1live.m3u8
+http://live1.kupjtv.tk/qtvlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="qtv3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://vthanh.xyz/ic/169.png", Quảng Ninh 3 HD
-http://103.90.220.236/qtvlive/tv3live.m3u8
+http://live1.kupjtv.tk/qtvlive/tv3live.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🇻🇳| Địa phương" tvg-logo="https://vthanh.xyz/ic/170.png", Quảng Trị HD
-http://103.90.220.236/qrtvlive/tv1live.m3u8
+http://live1.kupjtv.tk/qrtvlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🇻🇳| Địa phương" tvg-logo="https://vthanh.xyz/ic/171.png", Sóc Trăng 1
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
@@ -729,10 +729,10 @@ http://118.107.85.4:1935/live/smil:STV.smil/chunklist_b1384000.m3u8
 http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🇻🇳| Địa phương" tvg-logo="https://vthanh.xyz/ic/175.png", Thái Bình HD
-http://103.90.220.236/tbtvlive/tv1live.m3u8
+http://live1.kupjtv.tk/tbtvlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🇻🇳| Địa phương" tvg-logo="https://vthanh.xyz/ic/176.png", Thái Nguyên 1 HD
-http://103.90.220.236/tntvlive/tv1live.m3u8
+http://live1.kupjtv.tk/tntvlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🇻🇳| Địa phương" tvg-logo="https://vthanh.xyz/ic/178.png", Thanh Hóa HD
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
