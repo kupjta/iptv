@@ -576,10 +576,10 @@ https://livecdn.fptplay.net/hda3/btv1_hls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="binhphuoc1" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/W5n8TvT/bptv1.png",Bình Phước 1
-https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/kupjtv.m3u8
+http://live1.kupjtv.tk/bptvlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="binhphuoc2" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/RjhfM1P/bptv2.jpg",Bình Phước 2
-https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/kupjtv.m3u8
+http://live1.kupjtv.tk/bptvlive/tv2live.m3u8
 
 #EXTINF:-1 tvg-id="binhthuan" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/fQfx3Ht/binhthuan.jpg",Bình Thuận
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/kupjtv.m3u8
