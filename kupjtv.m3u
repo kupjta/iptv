@@ -96,7 +96,7 @@ http://vthanh.me/sctv.m3u8?pass=vienthi&id=vtvcab5|Referer=http://sctvonline.vn
 http://vthanh.me/vtvgo.m3u8?pass=vienthi&id=196
 #http://vthanh.me/sctv.m3u8?pass=vienthi&id=vtvcab6|Referer=http://sctvonline.vn
 
-#EXTINF:0 tvg-id="vtvcab7hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/ySjPtML/cab7.png",🇻🇳|VTVCab7 - Sức khỏe
+#EXTINF:0 tvg-id="vtvcab7hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/ySjPtML/cab7.png",🇻🇳|VTVCab7 - Sức Khỏe
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=vtvcab7|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="🇻🇳|VTVCab" tvg-logo="https://i.ibb.co/vdxbmPn/cab8.jpg",🇻🇳|VTVCab8 - BIBI
@@ -198,7 +198,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://i.imgur.com/qQSl5rD.png" group-title="🇻🇳|HTV",HTVC Phim
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://i.imgur.com/GWGhPu7.png" group-title="🇻🇳|HTV",Du Lịch và Cuộc Sống
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://i.imgur.com/GWGhPu7.png" group-title="🇻🇳|HTV",Du Lịch Và Cuộc Sống
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://i.imgur.com/EAv5N7c.png" group-title="🇻🇳|HTV",HTVC Gia Đình
@@ -255,7 +255,7 @@ http://vthanh.me/sctv.m3u8?pass=vienthi&id=sctv9|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png",SCTV11 | Ngôi Sao
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=sctv11|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv12hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/hxNHc7x/logo26072108-sctv12-hd.png",SCTV12 | Du Lịch và Cuộc Sống
+#EXTINF:-1 tvg-id="sctv12hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/hxNHc7x/logo26072108-sctv12-hd.png",SCTV12 | Du Lịch Và Cuộc Sống
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=sctv12|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv13hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/3pQsyPf/logo26072108-sctv13-hd.png",SCTV 13 | Lady TV
