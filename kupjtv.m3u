@@ -294,6 +294,19 @@ http://vthanh.me/sctv.m3u8?pass=vienthi&id=btv5|Referer=http://sctvonline.vn/
 http://livecdn.kupjtv.tk:21585/sctvpth/index.m3u8
 #http://vthanh.me/sctv.m3u8?pass=vienthi&id=sctvpth|Referer=http://sctvonline.vn/
 
+#EXTM3U THVL
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳|THVL" tvg-logo="https://i.ibb.co/CJV5pRn/thvl1.jpg", THVL1 HD
+https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/kupjtv.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳|THVL" tvg-logo="https://i.ibb.co/YDGHSw6/thvl2.jpg", THVL2 HD
+https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/kupjtv.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳|THVL" tvg-logo="https://i.ibb.co/7pFJX5X/thvl3.jpg", THVL3 HD
+https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/kupjtv.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳|THVL" tvg-logo="https://i.ibb.co/HHnfjpR/thvl4.jpg", THVL4 HD
+http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=thvl4-hd
+
 #EXTM3U AVG
 #EXTINF:-1  tvg-id="btv9" group-title="🇻🇳|AVG" tvg-logo="https://i.ibb.co/bbvJBv6/anvien.jpg",An Viên HD-BTV 9
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/kupjtv.m3u8
