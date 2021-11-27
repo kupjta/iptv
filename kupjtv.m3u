@@ -617,7 +617,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/kupjtv.m3u8
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="daknong" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/k1L81pV/ptd.png",Đắk Nông
-https://htv-drm-live-cdn.fptplay.net/htvonline/daknong.480p.nimble.tms/chunks.m3u8
+http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=dak-nong
 
 #EXTINF:-1 tvg-id="dienbien" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/qrsL0yf/dbtv.jpg",Điện Biên
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/kupjtv.m3u8
