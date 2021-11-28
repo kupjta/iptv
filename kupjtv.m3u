@@ -340,10 +340,12 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/kupjtv.m3u8
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/fSv164Q/box1.jpg",Box Movies 1
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=boxmovie|Referer=http://sctvonline.vn/
+https://8387100975.vws.vegacdn.vn/live/box-movie/chunklist_1.m3u8
+#http://vthanh.me/sctv.m3u8?pass=vienthi&id=boxmovie|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=hollywood|Referer=http://sctvonline.vn/
+https://8387100975.vws.vegacdn.vn/live/hollywood-classics/chunklist_1.m3u8
+#http://vthanh.me/sctv.m3u8?pass=vienthi&id=hollywood|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8",Box Hits
 https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_1.m3u8
@@ -387,7 +389,8 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/kupjtv.m3u8
 
 #EXTINF:0 tvg-id="happykids"  group-title="Quốc Tế" tvg-logo="https://i.ibb.co/vXSWhQJ/hapyykids.jpg",Happy Kids
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=happykids|Referer=http://sctvonline.vn/
+https://8387100975.vws.vegacdn.vn/live/happy-kids/chunklist_1.m3u8
+#http://vthanh.me/sctv.m3u8?pass=vienthi&id=happykids|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png" group-title="Quốc Tế",Animal Planet
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/kupjtv.m3u8
@@ -417,7 +420,8 @@ https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/d7qWHVD/251.jpg" group-title="Quốc Tế",Dr Fit HD
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=drfit|Referer=http://sctvonline.vn/
+https://8387100975.vws.vegacdn.vn/live/dr-fit/chunklist_1.m3u8
+#http://vthanh.me/sctv.m3u8?pass=vienthi&id=drfit|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.imgur.com/amlBPub.png" group-title="Quốc Tế",TLC
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/kupjtv.m3u8
@@ -474,7 +478,8 @@ https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/kupjtv.m3u8
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:0 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/ZGBcMK2/panetearth.jpg",Planet Earth
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=planetearth|Referer=http://sctvonline.vn/
+https://8387100975.vws.vegacdn.vn/live/planet-earth/chunklist_1.m3u8
+#http://vthanh.me/sctv.m3u8?pass=vienthi&id=planetearth|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="foxsportshd" tvg-logo="https://i.imgur.com/JsFd6Nl.png" group-title="Quốc Tế",Fox Sports
 http://201.35.250.178:8001/play/a00l
@@ -506,7 +511,8 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/kupjtv.m3u8
 #https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmusichd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/ts1LrXn/musicbox.png",Music Box
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=musicbox|Referer=http://sctvonline.vn/
+https://8387100975.vws.vegacdn.vn/live/box-music/chunklist_1.m3u8
+#http://vthanh.me/sctv.m3u8?pass=vienthi&id=musicbox|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="starworld" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/jZnYZNF/star-world.png",Star World
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
