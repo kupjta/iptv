@@ -1,9 +1,6 @@
 #EXTM3U url-tvg="http://gg.gg/epgviet" refresh="3600" aspect-ratio=16:9 m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0 
 #EXTM3U Kupj
 
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://i.ibb.co/zXfswdq/klife.png" group-title="K+",BPTV3 - ANT
-https://8387e1fb5a.vws.vegacdn.vn/live/binhphuoc3/chunklist_1.m3u8
-
 #EXTM3U K+
 
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="https://i.ibb.co/zXfswdq/klife.png" group-title="K+",K+ Life HD
@@ -230,9 +227,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #http://vthanh.me/sctv.m3u8?pass=vienthi&id=sctv1|Referer=http://sctvonline.vn/
 http://livecdn.kupjtv.tk:21585/sctv1/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/netstars/chunklist_2_${start}.m3u8",SCTV2 | AMC
-#http://vthanh.me/sctv.m3u8?pass=vienthi&id=sctv2|Referer=http://sctvonline.vn/
-https://vips-livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/netstars/chunklist_2_${start}.m3u8",SCTV2 | NET Star
+https://8387d1dfc2.vws.vegacdn.vn/live/sctv2-netstars/chunklist_1.m3u8
+#https://vips-livecdn.fptplay.net/sda/sctv2_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="🇻🇳|SCTV" tvg-logo="https://i.ibb.co/pwy6LhX/sctv3-hd.png",SCTV3 | Thiếu Nhi
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=sctv3|Referer=http://sctvonline.vn/
@@ -597,6 +594,9 @@ http://live1.kupjtv.tk/bptvlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="binhphuoc2" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/RjhfM1P/bptv2.jpg",Bình Phước 2
 http://live1.kupjtv.tk/bptvlive/tv2live.m3u8
+
+#EXTINF:-1 tvg-id="anttv" tvg-logo="https://i.ibb.co/v4NMHf5/Ant.png" group-title="",BPTV3 - ANT
+https://8387e1fb5a.vws.vegacdn.vn/live/binhphuoc3/chunklist_1.m3u8
 
 #EXTINF:-1 tvg-id="binhthuan" group-title="🇻🇳|Địa Phương" tvg-logo="https://i.ibb.co/fQfx3Ht/binhthuan.jpg",Bình Thuận
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/kupjtv.m3u8
