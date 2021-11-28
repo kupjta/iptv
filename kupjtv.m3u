@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="http://gg.gg/epgviet" refresh="3600" aspect-ratio=16:9 m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0 
 #EXTM3U Kupj
 
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://i.ibb.co/zXfswdq/klife.png" group-title="K+",K+ Life HD
+https://8387e1fb5a.vws.vegacdn.vn/live/binhphuoc3/chunklist_1.m3u8|Referer=http://nethubtv.vn
+
 #EXTM3U K+
 
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="https://i.ibb.co/zXfswdq/klife.png" group-title="K+",K+ Life HD
