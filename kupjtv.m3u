@@ -346,7 +346,8 @@ http://vthanh.me/sctv.m3u8?pass=vienthi&id=boxmovie|Referer=http://sctvonline.vn
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=hollywood|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8",Box Hits
-http://live.kupjtv.tk/boxhits/mpegts
+https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_1.m3u8
+#http://live.kupjtv.tk/boxhits/mpegts
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Qdv98Db/inthebox.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8",In The Box
 http://live.kupjtv.tk/inthebox/mpegts
