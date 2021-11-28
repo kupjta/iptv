@@ -350,7 +350,8 @@ https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_1.m3u8
 #http://live.kupjtv.tk/boxhits/mpegts
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Qdv98Db/inthebox.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8",In The Box
-http://live.kupjtv.tk/inthebox/mpegts
+https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_1.m3u8
+#http://live.kupjtv.tk/inthebox/mpegts
 
 #EXTINF:-1 tvg-id="hitshd" tvg-logo="https://i.ibb.co/Yb6fhGz/HITS-M.jpg" group-title="Quốc Tế",HITS
 http://live.kupjtv.tk/hits/mpegts
@@ -488,10 +489,12 @@ http://201.35.250.178:8001/play/a00m
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/wcT2VqP/man.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8",Man
-http://live.kupjtv.tk/man/mpegts
+https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_1.m3u8
+#http://live.kupjtv.tk/man/mpegts
 
 #EXTINF:-1 tvg-id="woman" tvg-logo="https://i.ibb.co/GTrnKhc/woman.jpg" group-title="Quốc Tế" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/woman/chunklist_2_${start}.m3u8",Woman
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=woman|Referer=http://sctvonline.vn/
+https://8387100975.vws.vegacdn.vn/live/woman/chunklist_1.m3u8
+#http://vthanh.me/sctv.m3u8?pass=vienthi&id=woman|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="mtv" tvg-logo="https://i.imgur.com/gpWosop.png" group-title="Quốc Tế",MTV
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/kupjtv.m3u8
