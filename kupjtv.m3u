@@ -306,19 +306,6 @@ https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/kupjtv.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://i.ibb.co/HHnfjpR/thvl4.jpg",THVL4 HD
 http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=thvl4-hd
 
-#EXTM3U AVG
-#EXTINF:-1  tvg-id="btv9" group-title="AVG" tvg-logo="https://i.ibb.co/bbvJBv6/anvien.jpg",An Viên HD-BTV 9
-https://livecdn.fptplay.net/sdc/btv9_hls.smil/kupjtv.m3u8
-
-#EXTINF:-1 tvg-id="ncm" tvg-logo="https://edge2.cdn.i-com.vn/image/236x140/smart/image.i-com.vn:1937//Uploads/images/kenh/ncm.jpg" group-title="AVG",NCM BTV10
-https://livecdn.fptplay.net/sda/ncm_hls.smil/kupjtv.m3u8
-
-#EXTINF:-1 tvg-id="btv6" tvg-logo="https://i.ibb.co/1b0kHsx/Icon-channel-btv6-158573005113.png" group-title="AVG",BTV 6
-https://livecdn.fptplay.net/sda/btv6_hls.smil/kupjtv.m3u8
-
-#EXTINF:0 tvg-id="imoviehd" group-title="AVG" tvg-logo="https://i.ibb.co/cgssdJM/btv4.png",BTV4-iMovie
-https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/kupjtv.m3u8
-
 #EXTM3U Quốc Tế
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://i.imgur.com/5Gtp7WP.png" group-title="Quốc Tế",AXN
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/kupjtv.m3u8.m3u8
@@ -473,15 +460,6 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/ZGBcMK2/panetearth.jpg",Planet Earth
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=planetearth|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="foxsportshd" tvg-logo="https://i.imgur.com/JsFd6Nl.png" group-title="Quốc Tế",Fox Sports
-http://201.35.250.178:8001/play/a00l
-
-#EXTINF:-1 tvg-id="foxsports2hd" tvg-logo="https://i.imgur.com/acCilxO.png" group-title="Quốc Tế",Fox Sports 2
-http://201.35.250.178:8001/play/a00m
-
-#EXTINF:-1 tvg-id="foxsports3hd" tvg-logo="https://i.imgur.com/dhRuUbt.png" group-title="Quốc Tế",Fox Sports 3
-#http://38.131.11.9:1080/play/a034
-
 #EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.imgur.com/Zyy11Cs.png" group-title="Quốc Tế",Fashion TV
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/kupjtv.m3u8
 
@@ -512,22 +490,18 @@ http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="boxmusichd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/kJtH8Fm/hollywoodhd.png",Hollywood HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:0 tvg-id="hbohd-asia" group-title="HBO" tvg-logo="https://i.ibb.co/8zmMx6y/hbo.png",HBO (𝔸𝕤𝕚𝕒)
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTM3U AVG
+#EXTINF:-1  tvg-id="btv9" group-title="AVG" tvg-logo="https://i.ibb.co/bbvJBv6/anvien.jpg",An Viên HD-BTV 9
+https://livecdn.fptplay.net/sdc/btv9_hls.smil/kupjtv.m3u8
 
-#EXTINF:0 tvg-id="cinemaxhd-asia" group-title="HBO" tvg-logo="https://i.ibb.co/Wx1sLCn/cinemax.png",Cinemax (𝔸𝕤𝕚𝕒)
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-id="ncm" tvg-logo="https://edge2.cdn.i-com.vn/image/236x140/smart/image.i-com.vn:1937//Uploads/images/kenh/ncm.jpg" group-title="AVG",NCM BTV10
+https://livecdn.fptplay.net/sda/ncm_hls.smil/kupjtv.m3u8
 
-#EXTINF:0 tvg-id="hbofamilyhd-asia" group-title="HBO" tvg-logo="https://i.ibb.co/x2sGhs7/hbo-family.png",HBO Family (𝔸𝕤𝕚𝕒)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="btv6" tvg-logo="https://i.ibb.co/1b0kHsx/Icon-channel-btv6-158573005113.png" group-title="AVG",BTV 6
+https://livecdn.fptplay.net/sda/btv6_hls.smil/kupjtv.m3u8
 
-#EXTINF:0 tvg-id="hbohitshd-asia" group-title="HBO" tvg-logo="https://i.ibb.co/6JD2q8k/hbo-hits.png",HBO Hits (𝔸𝕤𝕚𝕒)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
-#EXTINF:0 tvg-id="hbosignaturehd-asia" group-title="HBO" tvg-logo="https://i.ibb.co/XtWXt4M/hbo-sign.jpg",HBO Signature (𝔸𝕤𝕚𝕒)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:0 tvg-id="imoviehd" group-title="AVG" tvg-logo="https://i.ibb.co/cgssdJM/btv4.png",BTV4-iMovie
+https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/kupjtv.m3u8
 
 #EXTM3U Kênh Khác
 #EXTINF:0 group-title="Kênh Khác" tvg-logo="https://i.ibb.co/ZK58vtR/golfnews.jpg",Golf News TV
