@@ -1,12 +1,12 @@
 #EXTM3U Kupj
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://vthanh.xyz/ic/8.png", VTV6 FPT (Vietnam)
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/5Y1LGMm/vtv6.jpg", VTV6 FPT
 http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=2&id=vtv6fpt
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://vthanh.xyz/ic/8.png", VTV6 FPT (Singapore)
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/5Y1LGMm/vtv6.jpg", VTV6 FPT
 http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=3&id=vtv6
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://vthanh.xyz/ic/8.png", VTV6 VNPT
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/5Y1LGMm/vtv6.jpg", VTV6 VNPT
 http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=2&id=vtv6vnpt
 
 #EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 1
