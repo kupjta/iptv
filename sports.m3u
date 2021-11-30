@@ -1,0 +1,86 @@
+#EXTM3U Kupj
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://vthanh.xyz/ic/8.png", VTV6 FPT (Vietnam)
+http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=2&id=vtv6fpt
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://vthanh.xyz/ic/8.png", VTV6 FPT (Singapore)
+http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=3&id=vtv6
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://vthanh.xyz/ic/8.png", VTV6 VNPT
+http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=2&id=vtv6vnpt
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 1
+https://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 2
+https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 3
+https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 4
+https://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 5
+https://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 6
+https://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 7
+https://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 8
+https://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 9
+https://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 10
+https://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 1
+https://livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 2
+https://livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 3
+https://livecdn.fptplay.net/hdevent/uefa03_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 4
+https://livecdn.fptplay.net/hdevent/uefa04_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 5
+https://livecdn.fptplay.net/hdevent/uefa05_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 6
+https://livecdn.fptplay.net/hdevent/uefa06_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 7
+https://livecdn.fptplay.net/hdevent/uefa07_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 8
+https://livecdn.fptplay.net/hdevent/uefa08_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 9
+https://livecdn.fptplay.net/hdevent/uefa09_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 10
+https://livecdn.fptplay.net/hdevent/uefa10_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", World Cup 1
+https://livecdn.fptplay.net/hdevent/worldcup01_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", World Cup 2
+https://livecdn.fptplay.net/hdevent/worldcup02_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", World Cup 3
+https://livecdn.fptplay.net/hdevent/worldcup03_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", World Cup 4
+https://livecdn.fptplay.net/hdevent/worldcup04_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", World Cup 5
+https://livecdn.fptplay.net/hdevent/worldcup05_vhls.smil/chunklist.m3u8
