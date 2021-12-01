@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://gg.gg/epgviet" refresh="3600" aspect-ratio=16:9 m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0 
 #EXTM3U Kupj
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="https://i.ibb.co/zXfswdq/klife.png" group-title="K+",K+ Life HD
-https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/chunklist.m3u8
+https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/playlist.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiI2NVVIRGpVTVIiLCJpYXQiOjE2MzgzNzk5OTYsInVzZXJJRCI6ImhnbE12cXQ3UiJ9.0LL-1JP69llOw1JVJmJJtxREJVeysIAp8uQ6BZL-Z_M
 
 #EXTM3U K+
 
