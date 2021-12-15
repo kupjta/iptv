@@ -63,3 +63,12 @@ https://playlist-vip.vieon.vn/playlist/content/vieon/076ab463-3aab-4493-8088-2ad
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://playlist-vip.vieon.vn/playlist/content/vieon/6676793a-898a-4228-959b-f302463bcebd/1639632488000/542df213d4ddbe82d73336b1fc59fab6/h264/playlist.mpd?is_global=0&model=&pkgs=46,46&platform=web&play_trial=0&uid=7bc7ea57-e3e1-9cbf-ef9c-8cf7cefa4f03&user_type=1&sn=sgn-vnpt-002&rid=8
+
+#EXTINF:-1 group-title="Phim lẻ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/22/vqirqomw_1920x1080-nguoisat102_296_168.webp",Người Sắt
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://playlist-vip.vieon.vn/playlist/content/vieon/4098c279-3de1-41a4-917b-21ef86308ced/1639648979000/2fd7186d977b6440135f91ed1389edd0/h264/playlist.mpd?is_global=0&model=&pkgs=46,46&platform=web&play_trial=0&uid=7bc7ea57-e3e1-9cbf-ef9c-8cf7cefa4f03&user_type=1&sn=sgn-vnpt-002&rid=8
+
+#EXTINF:-1 group-title="Phim lẻ" tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4_ntc/2021/11/01/7xba3eqp_1920x1080-nguoisat2-carousel_1920_1080.webp",Người Sắt 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
