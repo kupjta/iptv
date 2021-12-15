@@ -58,3 +58,8 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/meninblac
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://playlist-vip.vieon.vn/playlist/content/vieon/076ab463-3aab-4493-8088-2ad3be9db625/1639631755000/52658248d615c8e39edaa07e10bb6b8f/h264/playlist.mpd?is_global=0&model=&pkgs=46,46&platform=mobile_web&play_trial=0&uid=7bc7ea57-e3e1-9cbf-ef9c-8cf7cefa4f03&user_type=1&sn=sgn-vnpt-002&rid=8
+
+#EXTINF:-1 group-title="Phim lẻ" tvg-logo="https://www.galaxycine.vn/media/2020/10/2/changvocuaem300x450_1601623865804.jpg",Chàng Vợ Của Em
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://playlist-vip.vieon.vn/playlist/content/vieon/6676793a-898a-4228-959b-f302463bcebd/1639632488000/542df213d4ddbe82d73336b1fc59fab6/h264/playlist.mpd?is_global=0&model=&pkgs=46,46&platform=web&play_trial=0&uid=7bc7ea57-e3e1-9cbf-ef9c-8cf7cefa4f03&user_type=1&sn=sgn-vnpt-002&rid=8
