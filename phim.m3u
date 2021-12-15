@@ -54,7 +54,7 @@ https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/meninblac
 #EXTINF:-1 group-title="Phim lẻ" tvg-logo="https://static.fptplay.net/static/img/share/video/27_09_2021/dhfrczmvawanvzsia7hurwstvq727-09-2021_02g32-53.jpg?w=282&mode=scale",Đặc Vụ Áo Đen 3
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/meninblack3_2012_us_1080p_sub_logofptplay/22aa7ff123928ae96b5a2cca5a5daeed.smil/chunklist_b2828000.m3u8
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/JCYgyJQ/kcine.png",K+ Cine
+#EXTINF:-1 group-title="Phim lẻ" tvg-logo="https://static.247phim.com/147243/conversions/5ecb35d274ff3_chappie_d-435_627.jpg",Cảnh sát người máy Chappie
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://playlist-vip.vieon.vn/playlist/content/vieon/076ab463-3aab-4493-8088-2ad3be9db625/1639631755000/52658248d615c8e39edaa07e10bb6b8f/h264/playlist.mpd?is_global=0&model=&pkgs=46,46&platform=mobile_web&play_trial=0&uid=7bc7ea57-e3e1-9cbf-ef9c-8cf7cefa4f03&user_type=1&sn=sgn-vnpt-002&rid=8
