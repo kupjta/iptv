@@ -2,6 +2,6 @@
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/JCYgyJQ/kcine.png",K+ Cine
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AbVPWbR31B_otiKfYVHpy7Ap82hyx3W2zFllVMBjoO_0%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFVIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM5MzkyMzM4MTg3LHU6IjhlZmRjMjBmLWRkNjQtNTJmOS1lNjM3LWE5ZTc0YzBhYzY2ZiIsZGU6MyxsZjowfQ
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AzRJ_a5-IOfhOazZRwe6PEsl14xKF9ZwVw6_6G8H5-dE%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFFIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQwMDYyOTUzNjE4LHU6ImQwNTMwNzA3LTc0NzItOWQ5NS0wYTc3LWVmMTdhYzM0MDkwNyIsZGU6MyxsZjowfQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/playlist.mpd
+https://sglive.vegacdn.kplus.vn/bpk-tv/prod_kplus_cinehd/default/i.mpd
