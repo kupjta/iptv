@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+<channel id="dbt1">
+    <display-name lang="vi">Doraemon: Đôi bạn thân 1</display-name>
+</channel>
+<programme channel="dbt1">
+    <title lang="vi">Doraemon: Đôi bạn thân</title> 
+    <desc lang="vi">Stand by Me Doraemon là một bộ phim điện ảnh hoạt hình máy tính 3D của Nhật Bản ra mắt năm 2014 do Yamazaki Takashi và Yagi Ryūichi đồng đạo diễn. Dựa trên nhiều mẩu truyện ngắn khác nhau trong manga Doraemon gốc, tác phẩm được biên tập lại thành phim hoàn chỉnh phát hành nhân dịp kỉ niệm 80 năm ngày sinh cố tác giả Fujiko F. Fujio. Nội dung phim kể về Doraemon, một chú mèo máy không tai đến từ tương lai trở về những năm 70 để giúp một cậu bé "vô tích sự" Nobi Nobita thay đổi tương lai đen tối sang một viễn cảnh tương lai tươi sáng vốn sẽ thay đổi số phận của con cháu Nobita về sau và khi Doraemon hoàn tất nhiệm vụ chia tay Nobita cùng với đó là cuộc hội ngộ bất ngờ của họ do chính Nobita tạo ra</desc> 
+</programme>
