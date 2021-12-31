@@ -38,7 +38,7 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/kupjtv.m3u8
 #EXTM3U VTV CAB
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/YR8ntg2/cab1.jpg",VTVCab1 - Vie Giải Trí
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab1|Referer=http://sctvonline.vn
+#http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab1|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/MGQLhzz/cab2.jpg",VTVCab2 - On Phim Việt
 http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab2|Referer=http://sctvonline.vn
@@ -53,8 +53,7 @@ http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab4|Referer=http://s
 http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab5|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/XJwLZ9t/Onsports.jpg",VTVCab6 - OnSports+
-http://vthanh.me/vtvgo.m3u8?pass=vienthi&id=196
-#http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab6|Referer=http://sctvonline.vn
+http://vthanh.me/getlink2021/tivi.php?ott=vtvgo&id=196
 
 #EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/ySjPtML/cab7.png",VTVCab7 - Sức Khỏe
 http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab7|Referer=http://sctvonline.vn
@@ -82,7 +81,7 @@ http://vthanh.me/vtvgo.m3u8?pass=vienthi&id=195
 #http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab17|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/FBmKPs5/cab19.jpg",VTVCab19 - Vie DRAMAS
-http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=vie-dramas-hd
+#http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=vie-dramas-hd
 
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab20hd.jpg",VTVCab20 - V Family
 http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab20|Referer=http://sctvonline.vn
@@ -116,7 +115,7 @@ https://vips-livecdn.fptplay.net/sdb/vtc8_hls.smil/kupjtv.m3u8
 https://vips-livecdn.fptplay.net/sdb/vtc9_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="vtc10" tvg-logo="https://i.ibb.co/HH0YCZX/vtc10.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8" group-title="VTC",VTC10
-https://vips-livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/sdb/vtc10_hls.smil/kupjtv.m3u8
 
 #EXTINF:-1 tvg-id="vtc11" tvg-logo="https://i.ibb.co/4pZpWz4/vtc11.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8" group-title="VTC",VTC11
 https://vips-livecdn.fptplay.net/sdb/vtc11_hls.smil/kupjtv.m3u8
