@@ -288,19 +288,19 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/kupjtv.m3u8
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/fSv164Q/box1.jpg",Box Movies 1
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=boxmovie|Referer=http://sctvonline.vn/
+http://cdn.kupjtv.tk/Boxmovie1/index.m3u8
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=hollywood|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8",Box Hits
-http://live.kupjtv.tk/boxhits/mpegts?token=9d30fea30e9f4401f64cefb5c64746823d567599-0fac2131199048a86267cbad3361a144-1638240034-1638153634
+http://cdn.kupjtv.tk/Boxhits/index.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Qdv98Db/inthebox.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8",In The Box
-http://live.kupjtv.tk/inthebox/mpegts?token=2a63ef11369085ae49c82d5ba8faee7eb62b0f96-8a089c7ab91f3d09abd6920c0030f75b-1638239999-1638153599
+http://cdn.kupjtv.tk/Inthebox/index.m3u8
 
 #EXTINF:-1 tvg-id="hitshd" tvg-logo="https://i.ibb.co/Yb6fhGz/HITS-M.jpg" group-title="Quốc Tế",HITS
-http://live.kupjtv.tk/hits/mpegts?token=27bc43114d5589eb7904532534256b204211634a-904287df20be44f430ad5d2e1577a0a6-1638239437-1638153037
+http://cdnmega.vthanh.xyz/hits/mpegts
 
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/z8Cm35k.png" group-title="Quốc Tế",Warner TV
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/kupjtv.m3u8
