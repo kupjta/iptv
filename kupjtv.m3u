@@ -38,7 +38,7 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/kupjtv.m3u8
 #EXTM3U VTV CAB
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/YR8ntg2/cab1.jpg",VTVCab1 - Vie Giải Trí
-#http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab1|Referer=http://sctvonline.vn
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab1/index.m3u8?md5=dBooYMMaJzuC4PQSnva4EQ&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/MGQLhzz/cab2.jpg",VTVCab2 - On Phim Việt
 http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab2|Referer=http://sctvonline.vn
@@ -77,11 +77,11 @@ http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab15|Referer=http://
 http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab16|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/MDxj7xt/cab17.jpg",VTVCab17 - Yeah1! TV
-http://vthanh.me/vtvgo.m3u8?pass=vienthi&id=195
+http://vthanh.me/getlink2021/tivi.php?ott=vtvgo&id=195
 #http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab17|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/FBmKPs5/cab19.jpg",VTVCab19 - Vie DRAMAS
-#http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=vie-dramas-hd
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVCab" tvg-logo="https://static.megavie.live/media/vtvcab20hd.jpg",VTVCab20 - V Family
 http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab20|Referer=http://sctvonline.vn
@@ -188,7 +188,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 http://livecdn.kupjtv.tk:21585/sctv1/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/netstars/chunklist_2_${start}.m3u8",SCTV2 | NET Star
-https://vips-livecdn.fptplay.net/sda/sctv2_hls.smil/kupjtv.m3u8
+http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=sctv2|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.ibb.co/pwy6LhX/sctv3-hd.png",SCTV3 | Thiếu Nhi
 http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=sctv3|Referer=http://sctvonline.vn/
