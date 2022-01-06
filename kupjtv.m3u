@@ -175,9 +175,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://i.imgur.com/gSnnXza.png" group-title="HTV",HTV Thể Thao
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="htvcfbnc" tvg-logo="https://i.imgur.com/Ekn8jdW.png" group-title="HTV",FBNC
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
-
 #EXTINF:-1 group-title="HTV" tvg-id="htvcplushd" tvg-logo="https://static.megavie.live/media/htvcplushd.jpg",HTVC Plus
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
@@ -185,7 +182,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.ibb.co/yBnxfhH/sctv1-hd.png",SCTV 1 | Hài
 #http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=sctv1|Referer=http://sctvonline.vn/
-http://livecdn.kupjtv.tk:21585/sctv1/index.m3u8
+http://cdn1.kupjiptv.tk:21585/sctv1/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/netstars/chunklist_2_${start}.m3u8",SCTV2 | NET Star
 http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=sctv2|Referer=http://sctvonline.vn/
@@ -250,7 +247,7 @@ http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=sctv22|Referer=http://sc
 http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=btv5|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.ibb.co/G2XQD3X/logo26072108-sctv-phim-THHD.png" group-title="SCTV",SCTV HD Phim Tổng Hợp
-http://livecdn.kupjtv.tk:21585/sctvpth/index.m3u8
+http://cdn1.kupjiptv.tk:21585/sctvpth/index.m3u8
 #http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=sctvpth|Referer=http://sctvonline.vn/
 
 #EXTM3U THVL
@@ -286,16 +283,16 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/kupjtv.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/kupjtv.m3u8
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/fSv164Q/box1.jpg",Box Movies 1
-http://cdn.kupjtv.tk/Boxmovie1/index.m3u8
+http://cdn2.kupjiptv.tk/Boxmovie1/index.m3u8
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
 http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=hollywood|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8",Box Hits
-http://cdn.kupjtv.tk/Boxhits/index.m3u8
+http://cdn2.kupjiptv.tk/Boxhits/index.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Qdv98Db/inthebox.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8",In The Box
-http://cdn.kupjtv.tk/Inthebox/index.m3u8
+http://cdn2.kupjiptv.tk/Inthebox/index.m3u8
 
 #EXTINF:-1 tvg-id="hitshd" tvg-logo="https://i.ibb.co/Yb6fhGz/HITS-M.jpg" group-title="Quốc Tế",HITS
 http://cdnmega.vthanh.xyz/hits/mpegts
