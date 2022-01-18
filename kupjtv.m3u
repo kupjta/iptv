@@ -335,7 +335,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.ibb.co/ZVr23Rb/HGTV.png" group-title="Quốc Tế",HGTV - Home and Garden
-http://kupjta.ihostfull.com/hgtv/5
+http://kupjta.ihostfull.com/hgtv/5.m3u8
 
 #EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://i.imgur.com/3sQunND.png" group-title="Quốc Tế",BBC Earth
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/kupjtv.m3u8
