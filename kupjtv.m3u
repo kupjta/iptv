@@ -283,7 +283,7 @@ http://cdnmega.vthanh.xyz/hits/mpegts
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/z8Cm35k.png" group-title="Quốc Tế",Warner TV
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/kupjtv.m3u8
 
-#EXTINF:-1 tvg-id="cinemaworld" tvg-logo="https://i.imgur.com/KcEAjUh.png" group-title="Quốc Tế",Cinema World
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://i.imgur.com/KcEAjUh.png" group-title="Quốc Tế",Cinema World
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/kupjtv.m3u8.m3u8
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="Quốc Tế",Cartoon Network
