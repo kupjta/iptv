@@ -2,3 +2,11 @@
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/JCYgyJQ/kcine.png",K+ Cine
 https://live.quangkv.com/fpt/manifest.mpd
+
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://i.ibb.co/zXfswdq/klife.png" group-title="K+",K+ Life HD
+
+#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://i.ibb.co/jbpSd38/kkids.jpg" group-title="K+",K+ Kids HD
+
+#EXTINF:-1 tvg-id="ksport1hd" tvg-logo="https://i.ibb.co/0FN3R4Z/ksport1.png" group-title="K+",K+ Sport1 HD
+
+#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://i.ibb.co/Vm5L8wH/ksport2.png" group-title="K+",K+ Sport2 HD
