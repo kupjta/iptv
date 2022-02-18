@@ -1,6 +1,6 @@
 #EXITM3U url-tvg="http://onetv.click/schedule/epg.xml"
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/JCYgyJQ/kcine.png",K+ Cine
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/JCYgyJQ/kcine.png",Testing
 https://live.quangkv.com/fpt/manifest.mpd
 
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="https://i.ibb.co/zXfswdq/klife.png" group-title="K+",K+ Life HD
