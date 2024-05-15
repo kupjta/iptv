@@ -1,92 +1,109 @@
 #EXTM3U Kupj
-
-#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/8.png", VTV6 FPT (Vietnam)
-http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vthanhtv1&sv=2&id=vtv6fpt
-
-#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/8.png", VTV6 FPT (Singapore)
-http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vthanhtv1&sv=3&id=vtv6
-
-#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/8.png", VTV6 MyTV (Vietnam)
-http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vthanhtv1&sv=2&id=vtv6vnpt
-
-#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/8.png", VTV6 MyTV (Japan)
-http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vthanhtv1&sv=5&id=vtv6vnpt
-
-#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/8.png", VTV6 T2
-http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vthanhtv1&sv=2&id=vtv6t2
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 1
-https://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 2
-https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 3
-https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 4
-https://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 5
-https://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 6
-https://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 7
-https://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 8
-https://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 9
-https://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 10
-https://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 1
-https://livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 2
-https://livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 3
-https://livecdn.fptplay.net/hdevent/uefa03_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 4
-https://livecdn.fptplay.net/hdevent/uefa04_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 5
-https://livecdn.fptplay.net/hdevent/uefa05_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 6
-https://livecdn.fptplay.net/hdevent/uefa06_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 7
-https://livecdn.fptplay.net/hdevent/uefa07_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 8
-https://livecdn.fptplay.net/hdevent/uefa08_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 9
-https://livecdn.fptplay.net/hdevent/uefa09_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", UEFA 10
-https://livecdn.fptplay.net/hdevent/uefa10_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", World Cup 1
-https://livecdn.fptplay.net/hdevent/worldcup01_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", World Cup 2
-https://livecdn.fptplay.net/hdevent/worldcup02_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", World Cup 3
-https://livecdn.fptplay.net/hdevent/worldcup03_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", World Cup 4
-https://livecdn.fptplay.net/hdevent/worldcup04_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="FPTplay" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", World Cup 5
-https://livecdn.fptplay.net/hdevent/worldcup05_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png",Hub Premier 1 FHD
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png",Hub Premier 2 FHD
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png",Hub Premier 3 FHD
+https://7pal.short.gy/HPremier3
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/PD1qeRO.jpg",USA NetWork FHD
+https://7pal.short.gy/usanetwork
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png",Now Premier League 1 FHD
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png",Now Premier League 2 FHD
+https://7pal.short.gy/nowhkp2
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://www.nowtv.now.com/media/logo/623-wbg-e.png",Now Premier League 3 FHD
+https://7pal.short.gy/nowhkp3
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/LIxOI3U.png",Astro Super Sport UHD
+https://7pal.short.gy/astrouhd
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro SuperSport 1 FHD
+https://7pal.short.gy/astross1
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",Astro SuperSport 2 FHD
+https://7pal.short.gy/astross2
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro SuperSport 3 FHD
+https://7pal.short.gy/astross3
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4 FHD
+https://7pal.short.gy/astross4
+#EXTINF:-1 group-title="⚽Sport TV" tvg-logo="https://i.imgur.com/ETzQJdt.png",Sky Sports MainEvent UHD
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/ZYpUQ3w.png",beIN 4k
+https://7pal.short.gy/bein-uhd
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 1 4k
+https://7pal.short.gy/nowSport4k
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://www.theSportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",HUB Premier 2 UHD
+https://7pal.short.gy/HubP2uhd
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/J2dnfBZ.png",VSport Ultra HD
+https://7pal.short.gy/VSportUHD
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://media.info/l/o/5/5824.1689874022.png",TNT Sport Ultimate 4K HDR
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",Digi 4K
+https://7pal.short.gy/digi4k
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/PUaJPaE.png",Eleven Sport 1 4K
+https://7pal.short.gy/11Sports1
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/EPIy6eZ.png",5 Sport 4K
+https://7pal.short.gy/5Sport
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/9wrgXyy.png",Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/wgvrku8.png",Sky Sport Bundesliga UHD
+https://7pal.short.gy/ssblgde
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/APE7FAm.jpg",Euro Sport 4K 
+https://7pal.short.gy/euSport4k
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_Sport_1_logo_stack_rgb.png",Sky Sport 1 NZ FHD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_Sport_2_logo_stack_rgb.png",Sky Sport 2 NZ FHD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_Sport_3_logo_stack_rgb.png",Sky Sport 3 NZ FHD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_Sport_4_logo_stack_rgb.png",Sky Sport 4 NZ FHD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png",Sky Sport 8 PremierLeague NZ FHD
+https://7pal.short.gy/skyspt8nz
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 FHD
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2 FHD
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3 FHD
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4 FHD
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/mnAYZiQ.png",Sky Sports MainEvent FHD
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/dUAIbXN.png",Sky Sports PremierLeague FHD
+https://7pal.short.gy/sSportspl
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/TRX5fQr.png",Sky Sports Football FHD
+https://7pal.short.gy/sSportsfb
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-Sports-f1-vector-logo-2021.png",Sky Sports F1 FHD
+https://7pal.short.gy/sSportsf1
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/1YbopYK.png",Sky Sports Tennis FHD
+https://7pal.short.gy/sSportstn
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/6h5V23t.png",Sky Sports Golf FHD
+https://7pal.short.gy/sSportsgf
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/I1gtyo7.png",Sky Sports News FHD
+https://7pal.short.gy/sSportsnw
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/tXHyBzW.png",Sky Sports Action FHD
+https://7pal.short.gy/sSportsat
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Sky_Sports_Box_Office.png",Sky Sports Box Office
+https://7pal.short.gy/sSportsbo
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/XKBiWym.jpg",NFL Network FHD
+https://7pal.short.gy/nflnw
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/qAT0jSA.png",NBA TV FHD
+https://7pal.short.gy/nbatvus
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/ZGrahiw.png",MLB Network FHD
+https://7pal.short.gy/mlbnw
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://images.superSport.com/media/yvuloxza/premier-league-1.png",Super Sport Premier League FHD
+https://7pal.short.gy/spersppl
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://images.superSport.com/media/wx5prn11/football-6.png",Super Sport Football FHD
+https://7pal.short.gy/sperspfb
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://images.superSport.com/media/ngsfbrab/laliga.png",Super Sport Laliga FHD
+https://7pal.short.gy/sperspllg
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://images.superSport.com/media/o1qmay0z/psl-1.png",Super Sport PSL FHD
+https://7pal.short.gy/spersppsl
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://saeseries.com/wp-content/uploads/2023/12/MotorSportpng_-1024x275.png",Super Sport MotoSport FHD
+https://7pal.short.gy/sperspmts
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://images.superSport.com/media/krybzs0y/action-1.png",Super Sport Action FHD
+https://7pal.short.gy/sperspat
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://images.superSport.com/media/ngeluwwy/rugby-5.png",Super Sport Rugby FHD
+https://7pal.short.gy/spersprb
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://i.imgur.com/YtTDeWW.jpg",Super Sport Golf FHD
+https://7pal.short.gy/sperspgf
+#EXTINF:-1 group-title="Sport TV" tvg-logo="https://archive.org/download/superSport-tennis/superSport-tennis.png",Super Sport Tennis FHD
+https://7pal.short.gy/spersptns
