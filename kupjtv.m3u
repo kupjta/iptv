@@ -121,10 +121,10 @@ https://1.org.vn/sctv-14
 https://1.org.vn/sctv15
 #EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16
 https://1.org.vn/sctv16
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18
-https://1.org.vn/sctv18
 #EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
 https://1.org.vn/sctv-17
+#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18
+https://1.org.vn/sctv18
 #EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV19
 https://1.org.vn/sctv19
 #EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/DyDeccA.png",SCTV20
@@ -158,10 +158,14 @@ https://1.org.vn/vcab12
 https://1.org.vn/vcab15
 #EXTINF:-1 tvg-id="VTVCab17hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/Nx646LH/ontreding-BEARTV.png",ON TRENDING TV
 https://1.org.vn/vcab17
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
+https://tth.vn/vtvcab18
 #EXTINF:-1 tvg-id="VTVCab19hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/T84Wq4j/VTVCab10-BEARTV.png",VTVCab19 - Vie DRAMAS
 https://1.org.vn/vcab19
 #EXTINF:-1 tvg-id="VTVCab20hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/r5ywFHj/vfamily-BEARTV.png",ON V FAMILY
 https://1.org.vn/vcab20
+#EXTINF:-1 tvg-id="VTVCab21hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/r5ywFHj/vfamily-BEARTV.png",ON KIDS
+https://tth.vn/vtvcab21
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
 https://tth.vn/onsport
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
@@ -169,7 +173,7 @@ https://tth.vn/onsportplus
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
 https://tth.vn/onfootball
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
-https://tth.vn/onsportplus
+https://tth.vn/vtvcab18
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
 https://tth.vn/vtvcab23
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5 - ON Sports Action
