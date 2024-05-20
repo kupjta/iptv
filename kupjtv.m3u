@@ -401,28 +401,31 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/category/itb.png",In The Box
 https://tth.vn/intheboxhd
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
-https://1.org.vn/boxmovie1
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
-https://1.org.vn/hlwclassic
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics FHD
 https://tth.vn/Hollywood
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
-https://1.org.vn/pnearth
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
-https://1.org.vn/hpkid
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
-https://1.org.vn/boxms
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
-https://1.org.vn/woman
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8?|Referer=https://sctvonline.vn/
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
+https://tth.vn/boxmovie1hd
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2EDOvcL.png",Box Hits
+https://tth.vn/boxhits
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
-https://1.org.vn/drfit
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8?|Referer=https://sctvonline.vn/
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?|Referer=https://sctvonline.vn/
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?|Referer=https://sctvonline.vn/
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
+https://tth.vn/musicbox
+
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
 http://s4.nihontv.net:21585/cartoon/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO Việt Nam
 http://s4.nihontv.net:21585/hbo/index.m3u8
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO Việt Nam
+http://1.55.187.3:12345/udp/225.1.4.90:30120
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO Thái Lan
-http://ip168.homeip.net:8086/hbo.m3u8
+https://tth.vn/cinemaxhd
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax Thái Lan
 http://ip168.homeip.net:8086/cinemax.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
