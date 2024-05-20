@@ -83,49 +83,6 @@ https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du lịch & Cuộc sống
 https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
-https://1.org.vn/sctv1
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/sa5Ix86.png",SCTV2
-https://1.org.vn/sctv2
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/OHetPmW.png",SCTV3
-https://1.org.vn/sctv3
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/q4GDdbO.png",SCTV4
-https://1.org.vn/sctv4
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/FsDtbV5.png",SCTV6
-https://1.org.vn/sctv6
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/5Px8WQl.png",SCTV7
-https://1.org.vn/sctv7
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/qDJ9Cke.png",SCTV8
-https://1.org.vn/sctv8
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/9dUXDYr.png",SCTV9
-https://1.org.vn/sctv9
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/G8By4lM.png",SCTV11
-https://1.org.vn/sctv11
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/didV8dZ.png",SCTV12
-https://1.org.vn/sctv12
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/3i51qm8.png",SCTV13
-https://1.org.vn/sctv13
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14
-https://1.org.vn/sctv-14
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
-https://1.org.vn/sctv15
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16
-https://1.org.vn/sctv16
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
-https://1.org.vn/sctv-17
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18
-https://1.org.vn/sctv18
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV19
-https://1.org.vn/sctv19
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/DyDeccA.png",SCTV20
-https://1.org.vn/sctv20
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/0YPmAH3.png",SCTV21
-https://1.org.vn/sctv21
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
-https://1.org.vn/sctv22
-#EXTINF:-1 group-title="SCTV-WEB" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV Phim Tổng Hợp
-https://1.org.vn/sctvpth
-
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
