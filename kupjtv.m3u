@@ -428,8 +428,6 @@ http://1.55.187.3:12345/udp/225.1.4.16:30120
 http://s4.nihontv.net:21585/hbo/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO Việt Nam
 http://1.55.187.3:12345/udp/225.1.4.90:30120
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO Thái Lan
-https://tth.vn/cinemaxhd
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax Thái Lan
 http://ip168.homeip.net:8086/cinemax.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
