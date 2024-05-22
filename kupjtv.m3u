@@ -87,12 +87,18 @@ https://tth.vn/vtvcab1
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://tth.vn/vtvcab2
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://tth.vn/onsport
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://tth.vn/vtvcab4
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://tth.vn/vtvcab5
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://tth.vn/onsportplus
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
@@ -110,31 +116,25 @@ https://tth.vn/vtvcab12
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://tth.vn/vtvcab15
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://tth.vn/onfootball
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8?|Referer=https://sctvonline.vn/
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://tth.vn/onsportnews
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?|Referer=https://sctvonline.vn/
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/57/ON_Life_-_Copyright_by_VTVcab_2022.png/revision/latest/scale-to-width-down/200?cb=20230703100435&path-prefix=vi",On Life
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://tth.vn/vtvcab22
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://tth.vn/onsportnews
 #EXTINF:-1 tvg-id="VTVCab21hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/mq65M0Y/On-kids.jpg",ON KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://tth.vn/vtvcab21
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.ibb.co/QXk7C6G/On-life.jpg",On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://tth.vn/onsport
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://tth.vn/onsportplus
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://tth.vn/onfootball
+https://tth.vn/vtvcab22
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://tth.vn/vtvcab23
@@ -434,7 +434,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?|Referer=https://sctv
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
 https://tth.vn/musicbox
-
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
 http://s4.nihontv.net:21585/cartoon/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network HD
@@ -447,3 +446,7 @@ https://tth.vn/hbo
 http://s4.nihontv.net:21585/discovery/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery HD
 https://tth.vn/discovery
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.ibb.co/kh12yNY/axn.jpg",AXN HD
+https://tth.vn/axn
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.ibb.co/7tYMyzv/discpveryasia.jpg",Discovery Asia
+http://tth.vn/discoveryasia
