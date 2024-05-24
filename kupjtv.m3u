@@ -471,6 +471,8 @@ https://tth.vn/hbo
 http://s4.nihontv.net:21585/discovery/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery HD
 https://tth.vn/discovery
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.ibb.co/kh12yNY/axn.jpg",AXN
+http://s4.nihontv.net:21585/axn/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.ibb.co/kh12yNY/axn.jpg",AXN HD
 https://tth.vn/axn
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.ibb.co/7tYMyzv/discpveryasia.jpg",Discovery Asia
