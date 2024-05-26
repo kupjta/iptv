@@ -54,8 +54,8 @@ https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
 https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTVC" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2 HD
 https://vc.101vn.com/htv/htvcmb.php?id=2669
-#EXTINF:-1 tvg-id="htv3" group-title="HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 SD
-https://1011154949.vnns.net/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
+https://vc.101vn.com/htv/htvcmb.php?id=2535
 #EXTINF:-1 tvg-id="htvkey" group-title="HTVC" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTVC" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 FHD
