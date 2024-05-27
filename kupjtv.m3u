@@ -65,19 +65,19 @@ https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
 http://171.238.180.25:18080/304.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://i.imgur.com/LFL1x49.png",HTVC Thuần Việt
-http://m3u.at/live-thuan-viet?@/playlist.m3u8
+https://tth.vn/htvcthuanviet
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://i.imgur.com/fRSFr9h.png",HTVC Gia đình
-https://tth.vn/htvc-gia-dinh-HD
+https://tth.vn/htvcgidinh
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://i.imgur.com/LFqj48k.png",HTVC Phụ nữ
-http://m3u.at/live-phu-nu-hd?@-/playlist.m3u8
+https://tth.vn/htvcphunu
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://i.imgur.com/DowOolr.png",HTVC Ca nhạc
-http://m3u.at/htvc-ca-nhac-hd?@/playlist.m3u8
+https:/tth.vn/htvccanhac
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="https://i.imgur.com/SKeH11N.png",HTVC Phim HD
-https://tth.vn/htvc-phim-FHD
+https://tth.vn/htvcphim
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC Plus
-http://m3u.at/live-phu-nu-hd?@-/playlist.m3u8
+https://tth.vn/htvcplus
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du lịch & Cuộc sống
-http://m3u.at/htvc-du-lich?@-/playlist.m3u8
+https://tth.vn/htvcdulich
 
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
 http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
