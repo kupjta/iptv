@@ -256,10 +256,6 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8?
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?
-#EXTINF:-1 tvg-id="sctvhdpth"group-title="SCTV" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV Cartoon
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/cartoon/index.m3u8?
 
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png",TVB VIỆT NAM
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
