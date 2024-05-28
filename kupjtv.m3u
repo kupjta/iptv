@@ -67,7 +67,7 @@ http://171.238.180.25:18080/304.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://i.imgur.com/LFL1x49.png",HTVC Thuần Việt
 https://tth.vn/htvcthuanviet
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://i.imgur.com/fRSFr9h.png",HTVC Gia đình
-https://tth.vn/htvcgidinh
+https://tth.vn/htvcgiadinh
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://i.imgur.com/LFqj48k.png",HTVC Phụ nữ
 https://tth.vn/htvcphunu
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://i.imgur.com/DowOolr.png",HTVC Ca nhạc
