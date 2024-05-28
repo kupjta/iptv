@@ -60,9 +60,9 @@ https://vc.101vn.com/htv/htvcmb.php?id=2535
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 FHD
 https://vc.101vn.com/htv/htvcmb.php?id=256
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTVC" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9 FHD
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9 FHD
 https://vc.101vn.com/htv/htvcmb.php?id=2667
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
 http://171.238.180.25:18080/304.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://i.imgur.com/LFL1x49.png",HTVC Thuần Việt
 https://tth.vn/htvcthuanviet
