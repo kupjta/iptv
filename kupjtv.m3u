@@ -163,6 +163,9 @@ https://tth.vn/vtvcab22
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://tth.vn/vtvcab23
+#EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5 - ON Sports Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://tth.vn/btv5hd
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
