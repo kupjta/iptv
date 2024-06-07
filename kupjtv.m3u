@@ -77,7 +77,7 @@ https://devsy.pw/htvcphim/index.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC Plus
 https://devsy.pw/htvcplus/index.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du lịch & Cuộc sống
-https://devsy.pw/htvdulich/index.m3u8
+https://devsy.pw/htvcdulich/index.m3u8
 
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
 http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
