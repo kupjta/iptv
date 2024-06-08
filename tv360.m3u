@@ -166,3 +166,5 @@ https://devsy.pw/tvhd/135/index.m3u8
 https://devsy.pw/tvhd/163/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/Man_150x901j3_1675158880.webp",Man
 https://devsy.pw/tvhd/237/index.m3u8
+#EXTINF:-1 tvg-id="hgtv" group-title="Quốc tế" tvg-logo="https://www.pngfind.com/pngs/m/234-2345543_hgtv-logo-png-transparent-background-sign-png-download.png",HGTV
+https://devsy.pw/tvhd/99/index.m3u8
