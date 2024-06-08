@@ -21,3 +21,30 @@ https://devsy.pw/tvhd/6/index.m3u8
 https://devsy.pw/tvhd/115/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://devsy.pw/tvhd/8/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
+https://devsy.pw/tvhd/16/index.m3u8
+#EXTINF:-1 tvg-id="vtc2hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
+https://devsy.pw/tvhd/196/index.m3u8
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
+https://devsy.pw/tvhd/197/index.m3u8
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
+https://devsy.pw/tvhd/198/index.m3u8
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
+https://devsy.pw/tvhd/199/index.m3u8
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
+https://devsy.pw/tvhd/200/index.m3u8
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
+https://devsy.pw/tvhd/201/index.m3u8
+#EXTINF:-1 tvg-id="vtc8hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
+https://devsy.pw/tvhd/202/index.m3u8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9
+https://devsy.pw/tvhd/203/index.m3u8
+#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10
+https://devsy.pw/tvhd/204/index.m3u8
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
+https://devsy.pw/tvhd/205/index.m3u8
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14
+https://devsy.pw/tvhd/17/index.m3u8
+#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16
+https://devsy.pw/tvhd/18/index.m3u8
