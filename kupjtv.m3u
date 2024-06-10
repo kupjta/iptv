@@ -22,6 +22,65 @@ https://api.wintv.me/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://api.wintv.me/vtv9/index.m3u8
 
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab1/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab2/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab3/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab4/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab5/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab6/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab7/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab8/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab9/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab10/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab12/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab15/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab16/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab17/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab18/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
+https://api.wintv.me/vtvcab19/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
+https://api.wintv.me/vtvcab20/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab HD" tvg-logo="https://i.ibb.co/mq65M0Y/On-kids.jpg",ON KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab21/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab HD" tvg-logo="https://i.ibb.co/QXk7C6G/On-life.jpg",On Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab22/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://api.wintv.me/vtvcab23/index.m3u8
+
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD
 https://1236573804.pop.vnptcdn.com/VTC1/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc2hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2 HD
