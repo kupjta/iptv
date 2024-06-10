@@ -470,7 +470,7 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/category/itb.png",In The Box
 https://tth.vn/intheboxhd
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics FHD
-http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+https://tth.vn/Hollywood
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
 https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
