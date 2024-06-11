@@ -91,31 +91,31 @@ https://api.wintv.me/vtvcab22/index.m3u8
 https://api.wintv.me/vtvcab23/index.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD
-https://1236573804.pop.vnptcdn.com/VTC1/playlist.m3u8
+https://api.wintv.me/vtc1/index.m3u8
 #EXTINF:-1 tvg-id="vtc2hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2 HD
-https://1236573804.pop.vnptcdn.com/VTC2/playlist.m3u8
+https://api.wintv.me/vtc2/index.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD
-https://1236573804.pop.vnptcdn.com/VTC3/playlist.m3u8
+https://api.wintv.me/vtc3/index.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD
-https://1236573804.pop.vnptcdn.com/VTC4/playlist.m3u8
+https://api.wintv.me/vtc4/index.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5 HD
-https://1236573804.pop.vnptcdn.com/VTC5/playlist.m3u8
+https://api.wintv.me/vtc5/index.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 HD
-https://1236573804.pop.vnptcdn.com/VTC6/playlist.m3u8
+https://api.wintv.me/vtc6/index.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7 HD
-https://1236573804.pop.vnptcdn.com/VTC7/playlist.m3u8
+https://api.wintv.me/vtc7/index.m3u8
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC HD" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8 HD
-https://1236573804.pop.vnptcdn.com/VTC8/playlist.m3u8
+https://api.wintv.me/vtc8/index.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 HD
-https://1236573804.pop.vnptcdn.com/VTC9/playlist.m3u8
+https://api.wintv.me/vtc9/index.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC HD" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD
-https://1236573804.pop.vnptcdn.com/VTC10/playlist.m3u8
+https://api.wintv.me/vtc10/index.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC HD" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11 HD
-https://1236573804.pop.vnptcdn.com/VTC11/playlist.m3u8
+https://api.wintv.me/vtc11/index.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD
-https://1236573804.pop.vnptcdn.com/VTC14/playlist.m3u8
+https://api.wintv.me/vtc14/index.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC HD" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD
-https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
+https://api.wintv.me/vtc16/index.m3u8
 
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1 HD
