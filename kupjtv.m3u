@@ -476,24 +476,30 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/WKneY2w.png",Yên Bái
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/category/itb.png",In The Box
-https://tth.vn/intheboxhd
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics FHD
-https://tth.vn/Hollywood
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
-https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
-https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2EDOvcL.png",Box Hits
-https://tth.vn/boxhits
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
-https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
-https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
-https://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
-https://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
+https://api.wintv.me/360/159/index.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://webapi.mytv.vn/static/channel/105.png?ver=18",Box Hits
+https://api.wintv.me/360/239/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
+https://api.wintv.me/360/160/index.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/category/itb.png",In The Box
+https://api.wintv.me/360/235/index.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
+https://api.wintv.me/360/162/index.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
+https://api.wintv.me/360/212/index.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
+https://api.wintv.me/360/289/index.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
+https://api.wintv.me/360/135/index.m3u8
+#EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
+https://api.wintv.me/360/163/index.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/Man_150x901j3_1675158880.webp",Man
+https://api.wintv.me/360/237/index.m3u8
+#EXTINF:-1 tvg-id="hgtv" group-title="Quốc tế" tvg-logo="https://www.pngfind.com/pngs/m/234-2345543_hgtv-logo-png-transparent-background-sign-png-download.png",HGTV
+https://api.wintv.me/360/99/index.m3u8
+#EXTINF:-1 tvg-id="afn" group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png",Asian Food Network
+https://api.wintv.me/360/215/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
 http://s4.nihontv.net:21585/cartoon/index.m3u8
 #EXTINF:0 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
