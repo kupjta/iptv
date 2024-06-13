@@ -89,6 +89,8 @@ https://api.wintv.me/vtvcab22/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://api.wintv.me/vtvcab23/index.m3u8
+#EXTINF:-1 group-title="VTVcab HD" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/24/17/1682332092780/da2b18a32787_640_360.png",BTV5
+https://api.wintv.me/360/2380/index.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD
 https://api.wintv.me/vtc1/index.m3u8
