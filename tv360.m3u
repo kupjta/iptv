@@ -125,7 +125,8 @@ https://api.wintv.me/360/132/index.m3u8
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/FsDtbV5.png",SCTV6
 https://api.wintv.me/360/232/index.m3u8
-
+#EXTINF:-1 group-title="Khác" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/HCA_TV1_logo_04-2023.png/revision/latest/scale-to-width-down/250?cb=20231104133801&path-prefix=vi",HCATV1
+https://api.wintv.me/360/32/index.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",KÊNH 7 — Truyền Hình Quốc Hội Việt Nam
 https://api.wintv.me/360/290/index.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV — Truyền Hình Công An Nhân Dân
@@ -170,3 +171,7 @@ https://api.wintv.me/360/237/index.m3u8
 https://api.wintv.me/360/99/index.m3u8
 #EXTINF:-1 tvg-id="afn" group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png",Asian Food Network
 https://api.wintv.me/360/215/index.m3u8
+#EXTINF:-1 tvg-id="afn" group-title="Quốc tế" tvg-logo="https://www.multichannelsasia.com/wp-content/uploads/2015/11/OC_Logo2017_Primary-e1492590279375.png",Outdoor Channel
+https://api.wintv.me/360/216/index.m3u8
+#EXTINF:-1 tvg-id="afn" group-title="Quốc tế" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/654179-KBS.png",KBS World
+https://api.wintv.me/360/213/index.m3u8
