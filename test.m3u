@@ -1,3 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://epg.51zmt.top:8000/e.xml,https://akkradet.github.io/IPTV-THAI/guide.xml"
-#EXTINF:-1 tvg-id="test" group-title="Test" tvg-logo="https://i.imgur.com/nfkmvAY.png",test TV
-http://api.wintv.me/360/229/index.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍃VTVCAB TV360 THỬ NGHIỆM🍃" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/19/14/1634628644182/df4be91b9999_480_270.png",Music box HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"u4GEybmb3QNLB3QGOfe55g", "kid":"9EfJwrdqSQOzaQtwr/3gWw" } ], "type":"temporary" }
+https://live-bd2.tv360.vn/oa4Ez7KHO-1yJpN9dKx1mw/1718389392/manifest/K_PLUS_KID_SD-LEAK/master.mpd?manifestfilter=video_bitrate:1-3600000&uid=8582887
