@@ -123,7 +123,7 @@ https://api.wintv.me/vtc16/index.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1 HD
 https://api.wintv.me/htv1/index.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2 HD
-http://203.162.123.188:8080/htv2/index.m3u8?AdaptiveType=HLS
+https://api.wintv.me/htv2/index.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 https://api.wintv.me/htv3/index.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key HD
@@ -131,9 +131,9 @@ https://api.wintv.me/htv4/index.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 FHD
 https://api.wintv.me/htv7/index.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9 FHD
-http://203.162.123.188:8080/htv9/index.m3u8?AdaptiveType=HLS
+https://api.wintv.me/htv9/index.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
-http://api.wintv.me/360/195/index.m3u8
+https://api.wintv.me/htvtt/index.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://i.imgur.com/LFL1x49.png",HTVC Thuần Việt
 https://api.wintv.me/thuanviet/index.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://i.imgur.com/fRSFr9h.png",HTVC Gia đình
@@ -303,13 +303,6 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?
 
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png",TVB VIỆT NAM
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/04/19/17/1713523056731/15dcd31a84c7_480_270.png",V-Cửu Long
-https://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/master.m3u8
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/04/12/23/1712939276302/5f22d679657d_640_360.png",V-CINE
-https://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/Cine360/master.m3u8
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/04/12/23/1712939067757/dee2e3c7891b_640_360.png",V-Đồng bào 
-https://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/vung-cao/master.m3u8
-
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/lARtNRO.png",VOVTV HD
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
@@ -322,12 +315,10 @@ https://oipf0znpmnliv.vcdn.cloud/hls/quocphongvn/index.m3u8
 https://cloudvodqh.tek4tv.vn/live/quochoi_abr.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews
 https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/Je3K25E.png",HanoiTV1 HD
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2 HD
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/KhfdJDs/THVL1-HD.png",THVL1 | TH Vĩnh Long
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/L5cYQkR/THVL2-HD.png",THVL2 | TH Vĩnh Long
@@ -336,7 +327,6 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 https://api.wintv.me/vl3/index.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/L5cYQkR/THVL2-HD.png",THVL4 | TH Vĩnh Long
 https://api.wintv.me/vl4/index.m3u8
-
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/0TkI4Ar.png",ATV SD | TH An Giang
 https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
@@ -361,6 +351,8 @@ https://live.canthotv.vn/live/tv/playlist.m3u8
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/8qlDA5N.png",ĐNRTV2 HD | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/cQ0zfsX/dn3.png",ĐNRTV3 HD | TH Đồng Nai
+https://api.wintv.me/dongnai3/index.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 HD | TH Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 HD | TH Đồng Tháp
