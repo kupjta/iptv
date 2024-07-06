@@ -320,9 +320,9 @@ https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2 HD
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/KhfdJDs/THVL1-HD.png",THVL1 | TH Vĩnh Long
-https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8
+https://api.wintv.me/vl1/index.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/L5cYQkR/THVL2-HD.png",THVL2 | TH Vĩnh Long
-https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
+https://api.wintv.me/vl2/index.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/KhfdJDs/THVL1-HD.png",THVL3 | TH Vĩnh Long
 https://api.wintv.me/vl3/index.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/L5cYQkR/THVL2-HD.png",THVL4 | TH Vĩnh Long
