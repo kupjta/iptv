@@ -23,13 +23,13 @@ https://api.wintv.me/vtv8/index.m3u8
 https://api.wintv.me/vtv9/index.m3u8
 
 #EXTINF:-1 group-title="Euro 2024" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1 EURO
-https://api.wintv.me/360/2554/index.m3u8
+https://live-bd2.tv360.vn/qsvgOUm_FyTXGMyQkFODYQ/1720597581/manifest/sukien/playlist_1080p-5M.m3u8?manifestfilter=video_bitrate:1-5767168&uid=19680
 #EXTINF:-1 group-title="Euro 2024" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2 EURO
-https://api.wintv.me/360/1/index.m3u8
+https://live-evg4.tv360.vn/-x1In-86IWSU40YnmIzctg/1720597683/manifest/u23-dubaicup2/playlist_1080p-5M.m3u8
 #EXTINF:-1 group-title="Euro 2024" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3 EURO
-https://api.wintv.me/360/148/index.m3u8
+https://live-evg4.tv360.vn/gTPhZcF3n0fzJFNpobo0nQ/1720597770/manifest/Su_Kien_3/playlist_1080p.m3u8
 #EXTINF:-1 group-title="Euro 2024" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4 EURO
-https://api.wintv.me/360/2458/index.m3u8
+https://live-bd2.tv360.vn/FpDxfk9rDofFg780VkEWXA/1720597929/manifest/Su_Kien_4/playlist_1080p.m3u8?manifestfilter=video_bitrate:1-5767168&uid=19680
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
@@ -90,7 +90,7 @@ https://api.wintv.me/vtvcab22/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://api.wintv.me/vtvcab23/index.m3u8
 #EXTINF:-1 group-title="VTVcab HD" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/24/17/1682332092780/da2b18a32787_640_360.png",BTV5
-https://api.wintv.me/360/2380/index.m3u8
+http://wintv.fun/360/2380/index.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD
 https://api.wintv.me/vtc1/index.m3u8
@@ -471,29 +471,29 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
-https://api.wintv.me/360/159/index.m3u8
+http://wintv.fun/360/159/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://webapi.mytv.vn/static/channel/105.png?ver=18",Box Hits
-https://api.wintv.me/360/239/index.m3u8
+http://wintv.fun/360/239/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
-https://api.wintv.me/360/160/index.m3u8
+http://wintv.fun/360/160/index.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/category/itb.png",In The Box
-https://api.wintv.me/360/235/index.m3u8
+http://wintv.fun/360/235/index.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
-https://api.wintv.me/360/162/index.m3u8
+http://wintv.fun/360/162/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
-https://api.wintv.me/360/212/index.m3u8
+http://wintv.fun/360/212/index.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
-https://api.wintv.me/360/289/index.m3u8
+http://wintv.fun/360/289/index.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
-https://api.wintv.me/360/135/index.m3u8
+http://wintv.fun/360/135/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
-https://api.wintv.me/360/163/index.m3u8
+http://wintv.fun/360/163/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/Man_150x901j3_1675158880.webp",Man
-https://api.wintv.me/360/237/index.m3u8
+http://wintv.fun/360/237/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc tế" tvg-logo="https://www.pngfind.com/pngs/m/234-2345543_hgtv-logo-png-transparent-background-sign-png-download.png",HGTV
-https://api.wintv.me/360/99/index.m3u8
+http://wintv.fun/360/99/index.m3u8
 #EXTINF:-1 tvg-id="afn" group-title="Quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png",Asian Food Network
-https://api.wintv.me/360/215/index.m3u8
+http://wintv.fun/360/215/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
 http://s4.nihontv.net:21585/cartoon/index.m3u8
 #EXTINF:0 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
