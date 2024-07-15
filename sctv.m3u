@@ -122,3 +122,25 @@ https://cdn1.tvmienphi.xyz:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://cdn1.tvmienphi.xyz:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" group-logo="https://teohdtv.github.io/thumbs/Groups/ITB.png" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://cdn1.tvmienphi.xyz:8444/sctv/s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://cdn1.tvmienphi.xyz:8444/sctv/s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/hollywood/index.m3u8?
+#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://cdn1.tvmienphi.xyz:8444/sctv/s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/drfit/index.m3u8?
+#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://cdn1.tvmienphi.xyz:8444/sctv/s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/happykid/index.m3u8?
+#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://cdn1.tvmienphi.xyz:8444/sctv/s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?
+#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://cdn1.tvmienphi.xyz:8444/sctv/s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/planetearth/index.m3u8?
+#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://cdn1.tvmienphi.xyz:8444/sctv/s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/woman/index.m3u8?
