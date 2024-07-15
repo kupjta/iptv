@@ -22,15 +22,6 @@ https://api.wintv.me/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://api.wintv.me/vtv9/index.m3u8
 
-#EXTINF:-1 group-title="Euro 2024" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1 EURO
-https://live-bd2.tv360.vn/qsvgOUm_FyTXGMyQkFODYQ/1720597581/manifest/sukien/playlist_1080p-5M.m3u8?manifestfilter=video_bitrate:1-5767168&uid=19680
-#EXTINF:-1 group-title="Euro 2024" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2 EURO
-https://live-evg4.tv360.vn/-x1In-86IWSU40YnmIzctg/1720597683/manifest/u23-dubaicup2/playlist_1080p-5M.m3u8
-#EXTINF:-1 group-title="Euro 2024" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3 EURO
-https://live-evg4.tv360.vn/gTPhZcF3n0fzJFNpobo0nQ/1720597770/manifest/Su_Kien_3/playlist_1080p.m3u8
-#EXTINF:-1 group-title="Euro 2024" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4 EURO
-https://live-bd2.tv360.vn/FpDxfk9rDofFg780VkEWXA/1720597929/manifest/Su_Kien_4/playlist_1080p.m3u8?manifestfilter=video_bitrate:1-5767168&uid=19680
-
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://api.wintv.me/vtvcab1/index.m3u8
@@ -118,7 +109,6 @@ https://api.wintv.me/vtc11/index.m3u8
 https://api.wintv.me/vtc14/index.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC HD" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD
 https://api.wintv.me/vtc16/index.m3u8
-
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1 HD
 https://api.wintv.me/htv1/index.m3u8
