@@ -60,7 +60,7 @@ https://api.wintv.me/vtvcab12/index.m3u8
 https://api.wintv.me/vtvcab15/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://api.wintv.me/vtvcab16/index.m3u8
+https://liveh12.vtvcab.vn/hls/ONFOOTBALL123/04.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://api.wintv.me/vtvcab17/index.m3u8
