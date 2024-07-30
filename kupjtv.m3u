@@ -22,6 +22,45 @@ https://api.wintv.me/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://api.wintv.me/vtv9/index.m3u8
 
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live1.png",Olympic Live 1
+http://p2.cvtv.xyz:82/olym1?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live2.png",Olympic Live 2
+http://p2.cvtv.xyz:82/olym2?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live3.png",Olympic Live 3
+http://p2.cvtv.xyz:82/olym3?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live4.png",Olympic Live 4
+http://p2.cvtv.xyz:82/olym4?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live5.png",Olympic Live 5
+http://p2.cvtv.xyz:82/olym5?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live6.png",Olympic Live 6
+http://p2.cvtv.xyz:82/olym6?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live7.png",Olympic Live 7
+http://p2.cvtv.xyz:82/olym7?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live8.png",Olympic Live 8
+http://p2.cvtv.xyz:82/olym8?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live9.png",Olympic Live 9
+http://p2.cvtv.xyz:82/olym9?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live10.png",Olympic Live 10
+http://p2.cvtv.xyz:82/olym10?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live11.png",Olympic Live 11
+http://p2.cvtv.xyz:82/olym11?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live12.png",Olympic Live 12
+http://p2.cvtv.xyz:82/olym12?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live13.png",Olympic Live 13
+http://p2.cvtv.xyz:82/olym13?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live14.png",Olympic Live 14
+http://p2.cvtv.xyz:82/olym14?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live15.png",Olympic Live 15
+http://p2.cvtv.xyz:82/olym15?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live16.png",Olympic Live 16
+http://p2.cvtv.xyz:82/olym16?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live17.png",Olympic Live 17
+http://p2.cvtv.xyz:82/olym17?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live18.png",Olympic Live 18
+http://p2.cvtv.xyz:82/olym18?token=live
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live19.png",Olympic Live 19
+http://p2.cvtv.xyz:82/olym19?token=live
+
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://api.wintv.me/vtvcab1/index.m3u8
