@@ -30,7 +30,7 @@ https://api.wintv.me/vtvcab1/index.m3u8
 https://api.wintv.me/vtvcab2/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-http://14.167.74.50:4000/rtp/232.84.3.242:11374
+http://m3u.at/ONSPORT
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://api.wintv.me/vtvcab4/index.m3u8
@@ -39,7 +39,7 @@ https://api.wintv.me/vtvcab4/index.m3u8
 https://api.wintv.me/vtvcab5/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://api.wintv.me/vtvcab6/index.m3u8
+http://m3u.at/Onsport-plus
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://api.wintv.me/vtvcab7/index.m3u8
@@ -66,7 +66,7 @@ https://liveh12.vtvcab.vn/hls/ONFOOTBALL123/04.m3u8
 https://api.wintv.me/vtvcab17/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://api.wintv.me/vtvcab18/index.m3u8
+http://m3u.at/ONSPORT-NEWS
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://api.wintv.me/vtvcab19/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
@@ -380,14 +380,14 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
-https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
+http://m3u.at/boxmovie1
 #EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://webapi.mytv.vn/static/channel/105.png?ver=18",Box Hits
-https://wintv.fun/360/239/index.m3u8
+https://khanggtivi.xyz/vuminhthanh/vmt2024/boxhits/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/hollywood/index.m3u8?
 #EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/category/itb.png",In The Box
-https://wintv.fun/360/235/index.m3u8
+http://m3u.at/intheboxhd
 #EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
 https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
