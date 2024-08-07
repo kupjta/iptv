@@ -401,41 +401,35 @@ https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/Man_150x901j3_1675158880.webp",Man
 http://api.wintv.me/360/237/index.m3u8?mantv
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-http://183.80.197.32:4022/udp/225.1.2.231:30120
+https://khanggtivi.xyz/vuminhthanh/vmt2024/cartoon/index.m3u8
 #EXTINF:0 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
-http://14.167.74.50:4000/rtp/232.84.3.222:11254
-#EXTINF:0 tvg-id="davinci" group-title="Quốc tế" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
-http://183.80.197.32:4022/udp/225.1.1.197:30120
+https://khanggtivi.xyz/vuminhthanh/vmt2024/cartoonito/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-http://183.80.197.32:4022/udp/225.1.1.135:30120
+https://khanggtivi.xyz/vuminhthanh/vmt2024/animax/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png",Dreamworks
-http://183.80.197.32:4022/udp/225.1.1.136:30120
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
-http://183.80.197.32:4022/udp/225.1.1.134:30120
+https://khanggtivi.xyz/vuminhthanh/vmt2024/dreamworks/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network [Eng]
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:0 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito [Eng]
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://183.80.197.32:4022/udp/225.1.1.139:30120
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://14.167.74.50:4000/rtp/232.84.2.172:10840
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
-http://183.80.197.32:4022/udp/225.1.2.225:30120
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
-http://s4.nihontv.net:21585/discovery/index.m3u8
+https://khanggtivi.xyz/vuminhthanh/vmt2024/discovery/index.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-http://183.80.197.32:4022/udp/225.1.2.223:30120
-#EXTINF:-1 tvg-id="animalhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet
-http://183.80.197.32:4022/udp/225.1.1.231:30120
+https://khanggtivi.xyz/vuminhthanh/vmt2024/discoveryasia/index.m3u8
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",History
+http://api.wintv.me/360/9856/index.m3u8?history
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet [Eng]
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/CDsoyjN.png",DMAX
-http://14.167.74.50:4000/rtp/232.84.3.117:10654
+https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
-http://14.167.74.50:4000/rtp/232.84.2.129:9570
+http://api.wintv.me/360/215/index.m3u8?afn
+#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/IXJiDZh.png" group-title="Quốc tế",HGTV
+http://api.wintv.me/360/99/index.m3u8?hgtv
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/isCqVcE.png",Outdoor
+http://api.wintv.me/360/216/index.m3u8?outdoor
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/GYsKibK.png",Food Network
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/IXJiDZh.png" group-title="Quốc tế",HGTV [Eng]
@@ -446,22 +440,20 @@ https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/a
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/rNfzYP5.png",Travel Channel [Eng]
 https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
-#EXTINF:0 tvg-id="bbcearth" group-title="Quốc tế" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-http://183.80.197.32:4022/udp/225.1.2.24:30120
-#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc tế" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
-http://183.80.197.32:4022/udp/225.1.2.52:30120
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/H2tGzri.png",ABC Australia
 http://49.0.64.96:8007/ABC
 #EXTINF:-1 tvg-id="ABCNewsLive" group-title="Quốc tế" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:0 tvg-id="BBC News" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
 https://i.mjh.nz/bloomberg-tv.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International
-https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+http://p1.cvtv.xyz:81/cnn?token=live
+#EXTINF:-1 tvg-id="cnbc" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png", CNBC
+http://p1.cvtv.xyz:81/cnbc?token=live
 #EXTINF:-1 tvg-id="dw" group-title="Quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="euronews-en" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0iOuMds.png",EURONEWS English
@@ -473,7 +465,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC34/index.m3u8
 #EXTINF:-1 tvg-id="france-24-fr" group-title="Quốc tế" tvg-logo="https://i.imgur.com/no9Mv3X.png",France 24 French
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/jP0rB8j.png",Sky News
-https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_mob.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc tế" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5Monde ASIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC10/index.m3u8
@@ -489,42 +481,3 @@ https://cdn1.skygo.mn/live/disk1/KBSWorld/HLS-FTA/KBSWorld.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC28/index.m3u8
-
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live1.png",Olympic Live 1
-http://p2.cvtv.xyz:82/olym1?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live2.png",Olympic Live 2
-http://p2.cvtv.xyz:82/olym2?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live3.png",Olympic Live 3
-http://p2.cvtv.xyz:82/olym3?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live4.png",Olympic Live 4
-http://p2.cvtv.xyz:82/olym4?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live5.png",Olympic Live 5
-http://p2.cvtv.xyz:82/olym5?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live6.png",Olympic Live 6
-http://p2.cvtv.xyz:82/olym6?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live7.png",Olympic Live 7
-http://p2.cvtv.xyz:82/olym7?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live8.png",Olympic Live 8
-http://p2.cvtv.xyz:82/olym8?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live9.png",Olympic Live 9
-http://p2.cvtv.xyz:82/olym9?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live10.png",Olympic Live 10
-http://p2.cvtv.xyz:82/olym10?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live11.png",Olympic Live 11
-http://p2.cvtv.xyz:82/olym11?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live12.png",Olympic Live 12
-http://p2.cvtv.xyz:82/olym12?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live13.png",Olympic Live 13
-http://p2.cvtv.xyz:82/olym13?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live14.png",Olympic Live 14
-http://p2.cvtv.xyz:82/olym14?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live15.png",Olympic Live 15
-http://p2.cvtv.xyz:82/olym15?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live16.png",Olympic Live 16
-http://p2.cvtv.xyz:82/olym16?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live17.png",Olympic Live 17
-http://p2.cvtv.xyz:82/olym17?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live18.png",Olympic Live 18
-http://p2.cvtv.xyz:82/olym18?token=live
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live19.png",Olympic Live 19
-http://p2.cvtv.xyz:82/olym19?token=live
