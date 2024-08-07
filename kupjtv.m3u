@@ -422,7 +422,7 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/discoveryasia/index.m3u8
 http://api.wintv.me/360/9856/index.m3u8?history
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet [Eng]
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/CDsoyjN.png",DMAX
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/CDsoyjN.png",DMAX [Eng]
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 http://api.wintv.me/360/215/index.m3u8?afn
