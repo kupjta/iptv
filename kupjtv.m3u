@@ -241,7 +241,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/l8Ae26m.png",THBT HD | TH Bến Tre
-https://ott3.nethubtv.vn/live/bentretv/playlist.m3u8
+http://api.wintv.me/360/40/index.m3u8?bentre
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/Soe6MC8.png",BTV1 HD | TH Bình Dương
 https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/pEaPECX.png",BTV2 HD | TH Bình Dương
@@ -305,15 +305,15 @@ https://tv.gialaitv.vn:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/HQ7jCa6.png",TRT HD | TH Thừa Thiên Huế
 https://live.trt.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/N2gUYoh.png",KTV HD | TH Khánh Hòa
-https://ott4.nethubtv.vn/live/khanhhoatv/playlist.m3u8
+http://api.wintv.me/360/65/index.m3u8?khanhhoa
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/PKyIRIJ.png",KRT HD | TH Kon Tum
-https://ott3.nethubtv.vn/live/kontumtv/playlist.m3u8
+http://api.wintv.me/360/67/index.m3u8?kontum
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/9bFk5Lj.png",NTV HD | TH Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/DJsuiHq.png",PTP HD | TH Phú Yên
-https://ott3.nethubtv.vn/live/phuyentv/playlist.m3u8
+http://api.wintv.me/360/78/index.m3u8?phuyen
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/JCFsITk.png",QBTV | TH Quảng Bình
-https://ott4.nethubtv.vn/live/quangbinhtv/playlist.m3u8
+http://api.wintv.me/360/79/index.m3u8?quangbinh
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/1fNSjhT.png",QRT | TH Quảng Nam
 https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/FTyvVYO.png",PTQ | TH Quảng Ngãi
@@ -399,7 +399,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
 https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/Man_150x901j3_1675158880.webp",Man
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/50.ts
+http://api.wintv.me/360/237/index.m3u8?mantv
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
 http://183.80.197.32:4022/udp/225.1.2.231:30120
 #EXTINF:0 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
