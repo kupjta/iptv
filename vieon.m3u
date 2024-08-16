@@ -131,3 +131,7 @@ https://thvip.site/vl2/index.m3u8
 https://thvip.site/vl3/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4
 https://thvip.site/vl4/index.m3u8
+#EXTINF:-1 tvg-id="daknong" tvg-logo="https://i.imgur.com/pP17qVw.png" group-title="Địa phương",Đắk Nông
+https://thvip.site/daknong/index.m3u8
+#EXTINF:-1 tvg-id="daklak" tvg-logo="https://i.imgur.com/jtyDVU5.png" group-title="Địa phương",Đắk Lắk
+https://thvip.site/daklak/index.m3u8
