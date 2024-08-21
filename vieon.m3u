@@ -52,42 +52,8 @@ https://thvip.site/vtc16/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
 https://thvip.site/vtvcab1/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
-https://thvip.site/vtvcab2/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/tmcjSPR/onsports.png",ON Sports
-https://thvip.site/vtvcab3/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
-https://thvip.site/vtvcab4/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel
-https://thvip.site/vtvcab5/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/JFdVB2p/onsportplus.png",ON Sports+
-https://thvip.site/vtvcab6/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
-https://thvip.site/vtvcab8/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
-https://thvip.site/vtvcab9/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
-https://thvip.site/vtvcab10/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
-https://thvip.site/vtvcab12/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
-https://thvip.site/vtvcab15/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/48FvMCr/onfootball.png",ON Football
-https://thvip.site/vtvcab16/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
-https://thvip.site/vtvcab17/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/q0GPL5F/onsportnews.png",ON Sport News
-https://thvip.site/vtvcab18/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://thvip.site/vtvcab19/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
-https://thvip.site/vtvcab20/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/gRsBHbp/4dk0h3jq-vtvcab21-296-168.png",ON Kids
-https://thvip.site/vtvcab21/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/R2tMrMM/8gs76uhh-vtvcab22-296-168.png",ON Life
-https://thvip.site/vtvcab22/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/nbJ1y3b/ongolf.png",ON Golf 
-https://thvip.site/vtvcab23/index.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
 https://thvip.site/htv1/index.m3u8
@@ -118,10 +84,14 @@ https://thvip.site/thuanviet/index.m3u8
 #EXTINF:0 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 https://thvip.site/htvcplus/index.m3u8
 
-#EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",KÊNH 7 — Truyền Hình Quốc Hội Việt Nam
+#EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội
 https://thvip.site/qh/index.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN — Truyền Hình Quốc Phòng Việt Nam
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",Quốc Phòng
 https://thvip.site/quocphong/index.m3u8
+#EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
+https://thvip.site/anninh/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/7zgsFIK.png",NHÂN DÂN TV
+https://thvip.site/nhandan/index.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1
 https://thvip.site/vinhlong1/index.m3u8
