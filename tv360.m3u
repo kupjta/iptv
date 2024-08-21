@@ -78,8 +78,6 @@ http://api.wintv.me/360/184/index.m3u8
 http://api.wintv.me/360/185/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 http://api.wintv.me/360/186/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Sport News
-http://api.wintv.me/360/170/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 http://api.wintv.me/360/177/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
@@ -125,7 +123,7 @@ http://api.wintv.me/360/132/index.m3u8
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/FsDtbV5.png",SCTV6
 http://api.wintv.me/360/232/index.m3u8
-#EXTINF:-1 group-title="Khác" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/HCA_TV1_logo_04-2023.png/revision/latest/scale-to-width-down/250?cb=20231104133801&path-prefix=vi",HCATV1
+#EXTINF:-1 group-title="Khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/98.png",HCATV1
 http://api.wintv.me/360/32/index.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",KÊNH 7 — Truyền Hình Quốc Hội Việt Nam
 http://api.wintv.me/360/290/index.m3u8
