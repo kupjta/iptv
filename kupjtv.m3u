@@ -35,7 +35,7 @@ http://api.wintv.me/360/181/index.m3u8?cab4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 http://api.wintv.me/360/182/index.m3u8?cab5
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
-https://api.wintv.me/360/136/index.m3u8
+https://api.wintv.me/360/136/index.m3u8?cab7
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 http://api.wintv.me/360/178/index.m3u8?cab8
