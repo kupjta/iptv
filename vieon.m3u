@@ -135,3 +135,33 @@ https://thvip.site/vl4/index.m3u8
 https://thvip.site/daknong/index.m3u8
 #EXTINF:-1 tvg-id="daklak" tvg-logo="https://i.imgur.com/jtyDVU5.png" group-title="Địa phương",Đắk Lắk
 https://thvip.site/daklak/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang
+https://thvip.site/angiang/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/ATG11ql.png",Bạc Liêu
+https://thvip.site/baclieu/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/l8Ae26m.png",Bến Tre
+https://thvip.site/bentre/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/Soe6MC8.png",Bình Dương 1
+https://thvip.site/binhduong1/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/pEaPECX.png",Bình Dương 2
+https://thvip.site/binhduong2/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/sXQHPZM.png",Bình Phước 1
+https://thvip.site/binhphuoc1/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/7WTixVS.png",Bình Phước 2
+https://thvip.site/binhphuoc2/index.m3u8
+#EXTINF:-1 group-title="Địa phương"tvg-logo="https://i.imgur.com/tW0pGBM.png",Bình Thuận
+https://thvip.site/binhthuan/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/ZKV1ok2.png",Cà Mau
+https://thvip.site/camau/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ
+https://thvip.site/cantho/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/DCLUAqZ.png",Đồng Nai 1
+https://thvip.site/dongnai1/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/8qlDA5N.png",Đồng Nai 2
+https://thvip.site/dongnai2/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/cQ0zfsX/dn3.png",Đồng Nai 3
+https://thvip.site/dongnai3/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/TqAz7ET.png",Đồng Tháp 1
+https://thvip.site/dongthap1/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/PfETBEp.png",Đồng Tháp 2
+https://thvip.site/dongthap2/index.m3u8
