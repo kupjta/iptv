@@ -450,21 +450,18 @@ http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/stream
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC35/index.m3u8
 #EXTINF:-1 tvg-id="france24-en" group-title="Quốc tế" tvg-logo="https://i.imgur.com/no9Mv3X.png",France 24 English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC34/index.m3u8
+https://api.wintv.me/360/96/index.m3u8?france24eng
 #EXTINF:-1 tvg-id="france-24-fr" group-title="Quốc tế" tvg-logo="https://i.imgur.com/no9Mv3X.png",France 24 French
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/jP0rB8j.png",Sky News
 https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_mob.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc tế" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5Monde ASIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC10/index.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/cwC7Q2V.png",TV5Monde Style
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC25/index.m3u8
+https://api.wintv.me/360/9852/index.m3u8?tv5mondeasie
 #EXTINF:-1 tvg-id="nhk-world" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+https://api.wintv.me/360/106/index.m3u8?nhk-world
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+https://api.wintv.me/360/111/index.m3u8?arirang
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
 https://cdn1.skygo.mn/live/disk1/KBSWorld/HLS-FTA/KBSWorld.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV
