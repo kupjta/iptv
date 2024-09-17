@@ -394,9 +394,9 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/cartoonito/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
 https://khanggtivi.xyz/vuminhthanh/vmt2024/animax/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png",Dreamworks
-http://dinhdong.ddns.net:13579/udp/225.1.1.136:30120
+http://antm.dynu.net:14285/rtp/232.84.3.59:11698
 #EXTINF:-1 tvg-id="davincihd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/iBx7K1M.png", Da Vinci HD
-https://edge01-alm.beetv.kz/bpk-token/2an@55xhpo00542zjyjv1e22gpp422553ztt5r12yuca/btv/SWM/davinchi/davinchi.m3u8
+http://antm.dynu.net:14285/rtp/232.84.2.131:9582
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network [Eng]
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:0 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito [Eng]
