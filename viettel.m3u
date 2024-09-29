@@ -22,12 +22,6 @@ http://27.75.201.200:8889/rtp/239.12.252.51:5000
 http://27.75.201.200:8889/rtp/239.12.251.105:5000
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên HD
 http://27.75.201.200:8889/rtp/239.12.251.106:5000
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ HD
-http://27.75.201.200:8889/rtp/239.12.251.82:5000
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD
-http://27.75.201.200:8889/rtp/239.12.251.210:5000
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 HD
-http://27.75.201.200:8889/rtp/239.12.251.211:5000
 #------------------------Thiết Yếu------------------------#
 #EXTINF:0 tvg-id="quochoi" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD
 http://27.75.201.200:8889/rtp/239.12.251.179:5000
@@ -40,14 +34,6 @@ http://27.75.201.200:8889/rtp/239.12.251.208:5000
 #EXTINF:0 tvg-id="ttxvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS
 http://27.75.201.200:8889/rtp/239.12.252.8:5000
 #------------------------VTVcab------------------------#
-#EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD
-http://27.75.201.200:8889/rtp/239.12.251.200:5000
-#EXTINF:0 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ HD
-http://27.75.201.200:8889/rtp/239.12.251.189:5000
-#EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD
-http://27.75.201.200:8889/rtp/239.12.251.202:5000
-#EXTINF:0 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News HD
-http://27.75.201.200:8889/rtp/239.12.251.203:5000
 #EXTINF:0 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf HD 
 http://27.75.201.200:8889/rtp/239.12.251.233:5000
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV HD
@@ -94,8 +80,6 @@ http://27.75.201.200:8889/rtp/239.12.252.13:5000
 http://27.75.201.200:8889/rtp/239.12.252.9:5000
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao HD
 http://27.75.201.200:8889/rtp/239.12.251.23:5000
-#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD
-http://27.75.201.200:8889/rtp/239.12.251.205:5000
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 http://27.75.201.200:8889/rtp/239.12.252.20:5000
 #EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
@@ -104,8 +88,6 @@ http://27.75.201.200:8889/rtp/239.12.252.15:5000
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 HD
 http://27.75.201.200:8889/rtp/239.12.251.71:5000
 #------------------------Other------------------------#
-#EXTINF:0 tvg-id="hitv" group-title="Other" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 HiTV HD
-http://27.75.201.200:8889/rtp/239.12.252.11:5000
 #------------------------Địa phương (HD)------------------------#
 #EXTINF:0 tvg-id="yenbai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái
 http://27.75.201.200:8889/rtp/239.12.252.55:5000
@@ -121,6 +103,8 @@ http://27.75.201.200:8889/rtp/239.12.251.46:5000
 http://27.75.201.200:8889/rtp/239.12.252.25:5000
 #EXTINF:0 tvg-id="bacninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV HD _ TH Bắc Ninh
 http://27.75.201.200:8889/rtp/239.12.251.12:5000
+#EXTINF:0 tvg-id="hanam" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN HD _ TH Hà Nam
+http://27.75.201.200:8889/rtp/239.12.252.63:5000
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội
 http://27.75.201.200:8889/rtp/239.12.251.223:5000
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội
@@ -141,6 +125,10 @@ http://27.75.201.200:8889/rtp/239.12.251.68:5000
 http://27.75.201.200:8889/rtp/239.12.251.70:5000
 #EXTINF:0 tvg-id="hue" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT HD _ TH Thừa Thiên Huế
 http://27.75.201.200:8889/rtp/239.12.252.5:5000
+#EXTINF:0 tvg-id="binhdinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV HD _ TH Bình Định
+http://27.75.201.200:8889/rtp/239.12.251.14:5000
+#EXTINF:0 tvg-id="binhdinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV HD _ TH Bình Định
+http://27.75.201.200:8889/rtp/239.12.252.62:5000
 #EXTINF:0 tvg-id="khanhhoa" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa
 http://27.75.201.200:8889/rtp/239.12.252.2:5000
 #EXTINF:0 tvg-id="ninhthuan" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV HD _ TH Ninh Thuận
@@ -149,6 +137,8 @@ http://27.75.201.200:8889/rtp/239.12.251.45:5000
 http://27.75.201.200:8889/rtp/239.12.252.35:5000
 #EXTINF:0 tvg-id="daklak" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk
 http://27.75.201.200:8889/rtp/239.12.252.56:5000
+#EXTINF:0 tvg-id="daklak" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk
+http://27.75.201.200:8889/rtp/239.12.252.82:5000
 #EXTINF:0 tvg-id="binhphuoc1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD _ TH Bình Phước
 http://27.75.201.200:8889/rtp/239.12.251.17:5000
 #EXTINF:0 tvg-id="binhduong1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương
@@ -210,8 +200,6 @@ http://27.75.201.200:8889/rtp/239.12.252.27:5000
 http://27.75.201.200:8889/rtp/239.12.251.49:5000
 #EXTINF:0 tvg-id="quangngai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi
 http://27.75.201.200:8889/rtp/239.12.251.50:5000
-#EXTINF:0 tvg-id="binhdinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định
-http://27.75.201.200:8889/rtp/239.12.251.14:5000
 #EXTINF:0 tvg-id="phuyen" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP _ TH Phú Yên
 http://27.75.201.200:8889/rtp/239.12.251.47:5000
 #EXTINF:0 tvg-id="binhthuan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV _ TH Bình Thuận
@@ -251,7 +239,9 @@ http://27.75.201.200:8889/rtp/239.12.251.20:5000
 http://27.75.201.200:8889/rtp/239.12.251.162:5000
 #EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
 http://27.75.201.200:8889/rtp/239.12.252.18:5000
-#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English)
+#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
+http://27.75.201.200:8889/rtp/239.12.252.57:5000
+#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW
 http://27.75.201.200:8889/rtp/239.12.252.16:5000
 #EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English)
 http://27.75.201.200:8889/rtp/239.12.251.232:5000
@@ -260,14 +250,22 @@ http://27.75.201.200:8889/rtp/239.12.252.19:5000
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
 http://27.75.201.200:8889/rtp/239.12.252.17:5000
 #------------------------Viettel Service------------------------#
-#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/aOfcbj7.png",Event 166
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/64r9a8f.png",TV360+1
 http://27.75.201.200:8889/rtp/239.12.251.72:5000
-#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/9ixhY9E.png",Event 167
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/Aix7lFW.png",TV360+2
 http://27.75.201.200:8889/rtp/239.12.252.59:5000
-#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/vzwYC6K.png",Event 168
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/E8jruP0.png",TV360+3
 http://27.75.201.200:8889/rtp/239.12.251.253:5000
-#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/MNXPhT3.png",Event 169
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/DNPPCMG.png",TV360+4
 http://27.75.201.200:8889/rtp/239.12.251.3:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/zJCCZfk.png",TV360+5
+http://27.75.201.200:8889/rtp/239.12.252.23:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/3qsd9Os.png",TV360+6
+http://27.75.201.200:8889/rtp/239.12.252.52:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PHv952E.png",TV360+7
+http://27.75.201.200:8889/rtp/239.12.252.53:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/ytWk07o.png",TV360+8
+http://27.75.201.200:8889/rtp/239.12.252.60:5000
 #EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",MOSAIC
 http://27.75.201.200:8889/rtp/239.12.251.151:5000
 #EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
@@ -280,12 +278,10 @@ http://27.75.201.200:8889/rtp/239.12.252.36:5000
 http://27.75.201.200:8889/rtp/239.12.251.183:5000
 #EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
 http://27.75.201.200:8889/rtp/239.12.251.79:5000
-#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Unknown
-http://27.75.201.200:8889/rtp/239.12.252.23:5000
-#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Unknown
-http://27.75.201.200:8889/rtp/239.12.252.53:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",Hướng Dẫn Dịch Vụ Viettel
+http://27.75.201.200:8889/rtp/239.12.252.58:5000
+#EXTINF:0 tvg-id="" group-title="Viettel Service" tvg-logo="https://i.imgur.com/PDFu7es.png",(HiTV Infocard)
+http://27.75.201.200:8889/rtp/239.12.252.11:5000
 #------------------------Mua sắm------------------------#
-#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/OSK4RXT.png",VTVcab13
+#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping
 http://27.75.201.200:8889/rtp/239.12.252.12:5000
-#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/Z5ME87p.png",BTV6
-http://27.75.201.200:8889/rtp/239.12.252.57:5000
