@@ -414,7 +414,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://i.ibb.co/wcT2VqP/man.png",Man
 https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/237/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tvphori/cartoon/index.m3u8
+http://s4.nihontv.net:21585/cartoon/index.m3u8
 #EXTINF:0 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
 https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tvphori/boomerang/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
@@ -431,11 +431,13 @@ https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tvphori/hbo/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 group-title="Quốc tế" tvg-id="axnhd" tvg-logo="https://i.imgur.com/5Gtp7WP.png",AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tvphori/axn/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tvphori/discovery/index.m3u8
+http://s4.nihontv.net:21585/discovery/index.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
 http://antm.dynu.net:14285/rtp/232.84.3.219:11236
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.ibb.co/41wJdvL/history.png",History
