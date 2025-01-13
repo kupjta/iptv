@@ -243,7 +243,7 @@ https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2 HD
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1
-https://tv.TruyenHinh.Click/CoBan/thvl1/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/htvl1/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2
 https://tv.TruyenHinh.Click/CoBan/thvl2/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3
