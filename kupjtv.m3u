@@ -395,24 +395,27 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?
 #EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png",Box Hits
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/vstv521/239/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/hollywood/index.m3u8?
 #EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://i.ibb.co/Qdv98Db/inthebox.png",In The Box
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/vstv521/235/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
-https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
-https://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
-https://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/musicbox/index.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
-https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
-https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/woman/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://i.ibb.co/wcT2VqP/man.png",Man
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/vstv521/237/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.231/test/123/playlist.mpegts
 #EXTINF:0 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
@@ -422,7 +425,7 @@ http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.135/test/123/playlist.mp
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc tế" tvg-logo="https://i.ibb.co/m9N0CF8/dreamwork.png",Dreamworks
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.136/test/123/playlist.mpegts
 #EXTINF:-1 tvg-id="davincihd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/iBx7K1M.png", Da Vinci HD
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.197/test/123/playlist.mpegts
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/387208948?profile=pass
 #EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.134/test/123/playlist.mpegts
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network [Eng]
