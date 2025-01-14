@@ -199,14 +199,12 @@ https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/lARtNRO.png",VOVTV HD
-https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/7zgsFIK.png",NHÂN DÂN TV
 https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
-https://oipf0znpmnliv.vcdn.cloud/hls/quocphongvn/index.m3u8
+https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/YtZGuSy.png",QUỐC HỘI TV
 https://cloudvodqh.tek4tv.vn/live/quochoi_abr.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews
