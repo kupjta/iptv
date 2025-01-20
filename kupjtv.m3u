@@ -383,8 +383,6 @@ https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://i.ibb.co/wcT2VqP/man.png",Man
 https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
 
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network 
-http://125hvt.ddns.net:21585/cartoon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
 http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/26815003?profile=pass
 #EXTINF:0 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
@@ -406,16 +404,14 @@ http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/478798025?
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
-http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
 http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1756117879?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vFVxJx4.png" tvg-id="cinemawoldhd",Cinema World
 http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1635131019?profile=pass
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
-http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
+http://125hvt.ddns.net:21585/wbtv/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="axnhd" tvg-logo="https://i.imgur.com/5Gtp7WP.png",AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1017475962?profile=pass
+http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:-1 tvg-id="kixhd" tvg-logo="https://teohdtv.github.io/thumbs/INT/KIX.png" group-title="Quốc tế",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
