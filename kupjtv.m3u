@@ -376,27 +376,24 @@ https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh
 https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/26815003?profile=pass
+https://ott1.sgchill.io.vn/tv/xemtvtructuyen/coban/source/kplus528/cartoon/index.m3u8
 #EXTINF:0 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
+https://ott1.sgchill.io.vn/tv/xemtvtructuyen/coban/source/kplus528/boomerang/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
 http://samisat44.xyz:80/live/5XF88W5/A38UYQV/584498.ts
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc tế" tvg-logo="https://i.ibb.co/m9N0CF8/dreamwork.png",Dreamworks
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/352929489?profile=pass
+https://ott1.sgchill.io.vn/tv/xemtvtructuyen/coban/source/kplus528/dreamworks/index.m3u8
 #EXTINF:-1 tvg-id="davincihd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/iBx7K1M.png", Da Vinci HD
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/387208948?profile=pass
+https://tv.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh
 #EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies
 http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1590294792?profile=pass
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO HD
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/478798025?profile=pass
+https://ott1.sgchill.io.vn/tv/xemtvtructuyen/coban/source/kplus528/hbo/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1756117879?profile=pass
+https://ott1.sgchill.io.vn/tv/xemtvtructuyen/coban/source/kplus528/cinemax/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vFVxJx4.png" tvg-id="cinemawoldhd",Cinema World
 http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1635131019?profile=pass
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
@@ -416,7 +413,7 @@ http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/511426851?
 #EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc tế" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
 http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/513117364?profile=pass
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.ibb.co/41wJdvL/history.png",History
-https://ott1.sgchill.io.vn/vstv521/xemden29012025/9856/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
 http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1485540294?profile=pass
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
@@ -440,13 +437,13 @@ http://49.0.64.96:8007/ABC
 #EXTINF:-1 tvg-id="ABCNewsLive" group-title="Quốc tế" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:0 tvg-id="BBC News" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/810500939?profile=pass
+http://p1.cvtv.xyz:81/bbcn?token=live
 #EXTINF:-1 group-title="Quốc tế" tvg-id="bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/777962465?profile=pass
+http://p1.cvtv.xyz:81/bb?token=live
 #EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1582120521?profile=pass
+http://p1.cvtv.xyz:81/cnn?token=live
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc tế" tvg-logo="https://i.ibb.co/h7xsfby/cnbc.png",CNBC
 http://p1.cvtv.xyz:81/cnbc?token=live
 #EXTINF:-1 tvg-id="dw" group-title="Quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English
