@@ -1,243 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TBgGuJy.png" tvg-id="c68b8bd8905006a456e28d418bb22d3f",Animal Planet (HD 10Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1485540294?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eGkFbAh.png" tvg-id="61029d17f2d1535dc9c966f857b17c9d",ANTV
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/396165729?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KL9oaqc.png" tvg-id="c7ba707048092393a9f2e80b50219e31",Asian Food Network (HD 6.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1886436039?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rwm7Lod.png" tvg-id="7a73a53c5c1037c9b4c84d891f52df7e",AXN (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1017475962?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0t99xJZ.png" tvg-id="08f9c95e3c8dc1059923b997fda14e3a",BBC CBeeBies (HD 9Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1590294792?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qUiM77S.png" tvg-id="23c17b1eaf3b7e16f72d13164adba3ef",BBC Earth (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/511426851?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i7aYwdZ.png" tvg-id="b48c951ea1bf5955825faf738cb9da5f",BBC Lifestyle (HD 9Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/513117364?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hsByQfe.png" tvg-id="4b434f30aa9e5ad6459bc628b4760bd7",BBC News (HD 9Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/810500939?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rxFZgIK.png" tvg-id="e1c35eae8c67ab73f3ccb804909f2e45",Bloomberg (HD 15Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/777962465?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kL9ubfw.png" tvg-id="f8929b8cfcbec7a8d8fefc2809e4cc07",Box Hits (HD 5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/211522296?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6oXQdBZ.png" tvg-id="1b2a9981d08c40796a3256f5642a65fa",Cartoon Network (HD 10Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/26815003?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vFVxJx4.png" tvg-id="8b1e76e124ebbf42f9b48c344e5e0622",Cinema World (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1635131019?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NzROY7r.png" tvg-id="773bac68058c7630485fe655d09cfe35",Cinemax (HD 9Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1756117879?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RCd9AM9.png" tvg-id="493e4d5e04d43721fad283bdb5c99d21",CNN (HD 6Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1582120521?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t9fzARL.png" tvg-id="f79d05a3decfad983a27bc93841a4475",Da Vinci (HD 7.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/587570679?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/STCTI1F.png" tvg-id="cdc612c3bbc427fdd0c4f56f579e5b7c",Discovery Asia (HD 9.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1125304013?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2JR5vSZ.png" tvg-id="44cd8ef7eed5a6fc730cc8363c9db572",Discovery Channel (HD 10Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/2005847364?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N69Cori.png" tvg-id="d1460995bcda1185f1d3dfb0c302456f",Dreamworks (HD 15Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/352929489?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ppi36a4.png" tvg-id="2e22282d5de7499b0cbafcec7380ff6a",DW (English) (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/757604910?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ALDt1JX.png" tvg-id="15b6a101f8a1078734a79f1f24e0a3b6",Fashion TV (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/27375125?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7nIUtCU.png" tvg-id="c9e0899c20152e2fcc2103b15292a627",HBO (HD 11Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/478798025?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wrH7U0X.png" tvg-id="4e6748ce7ca828f2394607c46af11f49",HTV Keys (HD 6Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1313367886?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z7NOxJ3.png" tvg-id="b16ead029dbceeafd83b03fbcc6e3e6b",HTV Thể Thao (HD 7.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/44920497?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oLm4dbV.png" tvg-id="8e9f0d4a3ceed7f55304be113301da99",HTV1 (HD 6Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1242406798?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f3KlwDX.png" tvg-id="02f5c4f625fb3d40f2f9b170b5fb870d",HTV2 Vie Channel (HD 6Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1992619266?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2iE01Ca.png" tvg-id="be3ed756fc142ced1fe50a0979abdf0f",HTV3 (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1456946878?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RSlvzAs.png" tvg-id="2c98b9e9d9a25e15d007a977fb9c2fa7",HTV7 HD (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1773770796?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wdS7Cr9.png" tvg-id="45f89917c374c582a232cde87fd7ff8f",HTV9 HD (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/395966533?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHVkEIC.png" tvg-id="383ffa144743b30ac60259d1f1ff3e13",HTVC Ca Nhạc (HD 6Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/351944504?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XxIO0E0.png" tvg-id="4eac707ef5378917707bc00c24bafc19",HTVC Du Lịch và Cuộc Sống (HD 6Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/2121313358?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KxWRNH6.png" tvg-id="562a7d4474259e1b9f69583460856fd4",HTVC Gia Đình (HD 6Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1149053526?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SXV3ya9.png" tvg-id="3a15d9b234360accdbdd51a2f3ac937c",HTVC Phim (HD 4.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/853087546?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SXV3ya9.png" tvg-id="55f6efdc75b60640bc685e8eec1df2f4",HTVC Phim (HD 4.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1559230037?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PLliKL6.png" tvg-id="3fe2b4488ed44cd52db64d1a6fbd9723",HTVC Phụ Nữ (HD 6Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1219813951?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xmISDWo.png" tvg-id="6a0e569a024000587a3f67c797b62daa",HTVC Thuần Việt (HD 4Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/441847402?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SQ9cLJj.png" tvg-id="065e1f1961a620e52d5fc52931d1005d",HTVC+ (HD 4.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/421486086?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QPkuBRi.png" tvg-id="2a51dd58b9bd8d01df978c8f08fabef6",K+ Action (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1490899242?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/As4bwUs.png" tvg-id="9acde36114385d1c31e51d81a16cdb61",K+ Cine (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1642319258?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6yiAtRg.png" tvg-id="f8d63c7791e479ed30d02688bd14b00a",K+ Sport 1 (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/2000475896?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="dcf3ebeeba5f31d42b44a47f96dfb94e",K+ Sport 2 (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1860957148?profile=pass
-#EXTINF:-1 tvg-id="6725c51798d3d027bc47df31a2a0f99e",mytv/udpxytomato.txt/{PMT:480}
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/398796135?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ud78FHF.png" tvg-id="ae53cdc824caa1a119001aa22f2f33bb",Nhân Dân TV (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1221415854?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmPo7l.png" tvg-id="6603aaf4005eabd1b3eaaa09838f3565",ON BiBi (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1957299046?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6f9ngwY.png" tvg-id="5372b6f2f6688cb0ecdb4fd6eb46d03d",ON Cine (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1924559443?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87JEXEQ.png" tvg-id="22ffebf2d8fba2c86793572356ba5a8f",ON EChannel (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1928068898?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87JEXEQ.png" tvg-id="91ebde7aa313f2160d4d14ee631fa217",ON EChannel (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/2061429649?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAxiIfP.png" tvg-id="16639d83455e21a27d8f0430ce129532",ON Football (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/60646166?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAxiIfP.png" tvg-id="0454e23519f4cadec85e8ea6cd79e29b",ON Football HD (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/904025092?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BGF2I58.png" tvg-id="acecce411591e1ecf72390fd3913fc00",ON Golf HD (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1104080044?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jp57P0v.png" tvg-id="f5ed0e809337f9edf9f069d6063affd8",ON Info TV (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/978421?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/765Y3jw.png" tvg-id="f97ee341f1c37dad8bd84f9a20ba69e6",ON Movies (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1105428217?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45BXPY3.png" tvg-id="48bc6b493489a4f12ad27de2479e62af",ON Music (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1231797320?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nqwVkmM.png" tvg-id="45f224fb5dd0b28d16d93461cefb068f",ON O2TV (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/2066018885?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MPNlpzb.png" tvg-id="1e875f9a4db96a06f582e7b0011fac6b",ON Phim Việt (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/442468126?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/moYwxwf.png" tvg-id="4e875ac92db36e125ad7d262fb50fedf",ON Sports (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1230669646?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/moYwxwf.png" tvg-id="5e7f4a3466f61bccbd7c0b7af81e36d6",ON Sports HD (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/877297502?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/moYwxwf.png" tvg-id="ea772b974c016a1063ecc0935cd385e2",ON Sports HD (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/388724714?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wpRXpJg.png" tvg-id="8e988f20b4d7a6faa0e1350470eb3dbb",ON Sports News (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/546281614?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cFs8OVb.png" tvg-id="02b42c0180b24da54a3abb44c3c31216",ON Sports+ (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/19706882?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cFs8OVb.png" tvg-id="a4b56030e7c4bc5b767c6fd5b509d9f0",ON Sports+ (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/811644324?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6LQ0Z1O.png" tvg-id="0cb0a5143fd38b5607ca89a22eee05dd",ON Style TV (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/346402828?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHYzxmS.png" tvg-id="f63eb5c90e56dec46cde0a8e0e59da2a",ON Trending TV (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1236614902?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R82M53x.png" tvg-id="ee957f4ec3126a21a76d73b9085e50b1",ON VFamily (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1316984302?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n7QICK7.png" tvg-id="c3b43eef0e846b4191e53639cfebbf15",ON Vie Dramas (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1866380483?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7GSKm46.png" tvg-id="1d3920de08d62a214178e886387c0f31",ON Vie Giải Trí (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1579170077?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UIGZw0y.png" tvg-id="1260cce699bad36d5d8fc416bcd12541",QPVN
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1724669970?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UIGZw0y.png" tvg-id="92d51fcbd5a7216baf79e7203da6ea82",QPVN (HD 6Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1260377490?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YtZGuSy.png" tvg-id="3b0000c92942e13e8b8b568fd2b21ce2",Quốc Hội HD (HD 4Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1224736827?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YtZGuSy.png" tvg-id="fb941565c06ca668b2ddc7386d79310c",Quốc Hội HD (HD 4Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1695913211?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VzZYa4n.png" tvg-id="49734b854081bda890ee47bbcd0abc97",SCTV Phim Tổng Hợp (HD 6Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/88830793?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/imhFxSG.png" tvg-id="ac0f78cfd4df0bfc8031bc48bb619521",SCTV1 (HD 5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1333268396?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AP2o4bW.png" tvg-id="bd68ffb32a450112faf7b2695928410c",SCTV11 (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/872376509?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5nrSZd8.png" tvg-id="b7292f947e5c48885a2d56570d1f8a08",SCTV12 (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/338635191?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PEz2Ieq.png" tvg-id="62fa3b5ba23070dea05c4c4a9617f309",SCTV13 (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1530657378?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EPwjrlB.png" tvg-id="d9e10d71efaf7ac78d801a5f7a65a9eb",SCTV15 (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1896735193?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4ZROQG.png" tvg-id="4ca79d2fd393a485c25ea15863c5f058",SCTV16 (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/798861132?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ghjy4HY.png" tvg-id="0efd8ae2c833b21740269ca327f6191c",SCTV17 (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1653275918?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Eg4T4.png" tvg-id="412a7c929c1af7cee0aa0336f65bf3ee",SCTV18 (HD 6Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/310127169?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s4vfvNb.png" tvg-id="bfded1dac1bcc416b451d2d89fb5d39f",SCTV19 (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1523703487?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UpBZOaH.png" tvg-id="9708629c4ddff1677657b7a8d68cce55",SCTV2 (HD 6Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/476186775?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zwfqboB.png" tvg-id="2705c9c3314d3956d712d89afe1e3293",SCTV20 (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1137247527?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aHKybQW.png" tvg-id="54db94290eb0a931b4a780810bbe93c8",SCTV21 (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/697621332?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O0HdUpB.png" tvg-id="77fe775bbbd85038e59a61d46aa0a340",SCTV22 (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1534590583?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wZrGAtH.png" tvg-id="7f4c71b3834b5f10b9aa0fe32feb07b1",SCTV3 (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/863063167?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntSnAMJ.png" tvg-id="c39d27ecd9e72e8b555b8e45439d4a8f",SCTV4 (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1814535619?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" tvg-id="470a5b7c4a70190f827f9d216bdb8a0d",SCTV6 (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/2086341191?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EdjXUUb.png" tvg-id="8d86da0ff9fed35cc47e370c88c3727a",SCTV7 (HD 6Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/265979533?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NULoCoA.png" tvg-id="dd9ad2b7a767fe9996db669c51b60d0f",SCTV8 (HD 5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/936549085?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6dvyvea.png" tvg-id="419fd01cc049c678e2756a04bb0e567b",SCTV9 (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/483434305?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hXYkO7B.png" tvg-id="9d913b8d02d6d0fda27d87255712a2a4",SPOTV (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/222007709?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hXYkO7B.png" tvg-id="364fd7b5b9f0fa122e7ecfbb64a20ed5",SPOTV (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/903302966?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hXYkO7B.png" tvg-id="d398d2b61436d55aeb70e45eb24f4a62",SPOTV (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/919771347?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hXYkO7B.png" tvg-id="ce7eaf374b535f9b21e7228e75e0f12a",SPOTV (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/934248142?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBKmDBi.png" tvg-id="8d426e09f2875fe95d1ef5eebd93d5c7",SPOTV2 (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/158220941?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBKmDBi.png" tvg-id="d368489211d323a93e658328206e25e9",SPOTV2 (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/306735315?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBKmDBi.png" tvg-id="27a2fe185ec133ef135fb7fbb2548d1f",SPOTV2 (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/419340839?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBKmDBi.png" tvg-id="bc1e5e73a0f575e0580346d7d4da51d3",SPOTV2 (DRM)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1935548092?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gvPtTR2.png" tvg-id="cf4f4fdf9394acd6ba05553414af398e",THVL1 HD _ TH Vĩnh Long (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1599033295?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B8S0dyG.png" tvg-id="304a0ec8099bc3db751f033cbf867fce",THVL3 HD _ TH Vĩnh Long (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1208896048?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xYalJzh.png" tvg-id="437114c0dc79cee17a9a92f43467bb04",THVL4 HD _ TH Vĩnh Long (HD 7Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1075081539?profile=pass
-#EXTINF:-1 tvg-id="7ec2b2753f66776a0f98cf3ef75591f6",UDP_K+ SPORT2 SDi
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1974649470?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HD60aD.png" tvg-id="a129fbb01d92ee6a69af3d7c5676bc14",VTC1 HD (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/821766561?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PaVbyxg.png" tvg-id="232a1c19b724ae767bdedec399606f5f",VTC10 HD (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/421276195?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/phXvB0t.png" tvg-id="eb11c536367e8fd5e5165483597e076b",VTC14 HD (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/918884843?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rltq2Dy.png" tvg-id="df9380ffa8c0b2a891cad7aa4977520a",VTC16 HD (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/2139132895?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hS4bgHe.png" tvg-id="b5637a5d02f6fa81e23c0e7ea3cdae39",VTC3 HD (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1568302005?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cwYPTt.png" tvg-id="7e23ce48a4bbd4fb1bc7ca102fcd44fb",VTC4 HD (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1221469054?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VvfiwPJ.png" tvg-id="391f2cc1edff2b60e77ca8f5dd90b93a",VTC5 HD (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1093410617?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LPdjM0z.png" tvg-id="e248144d5a5ddaa4418319d0e2c1847d",VTC6 HD (HD 8Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1293175010?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y5FUbsY.png" tvg-id="17aaf32901c3323672cceeb1a584f961",VTC7 HD (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/703834647?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cnAht7i.png" tvg-id="dd8fea6c172163356bf15114e7efe492",VTC9 HD (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1827311581?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HCpqatZ.png" tvg-id="45f2f735fa1502119f53b4f3a18ffeeb",VTV Cần Thơ (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/905441861?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="436b163e6e24fa133aefc0228943dc3c",VTV1 (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1041656643?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BVwi3K3.png" tvg-id="e42e3375850f8a3a7797f9584670eeba",VTV2 (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1966288612?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7rLCvgS.png" tvg-id="2415337be39f4e70708cd60668c7ce8e",VTV3 (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/2066945316?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9zVTtsA.png" tvg-id="d5f4550f3f4dac489af687c5b7bfe4e7",VTV4 (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/257291477?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="3655e0cb0b789bb3dcd040e50a7d5780",VTV5 (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1272993078?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AgamSNe.png" tvg-id="2582667e397615895aa8c4de53283e3b",VTV7 (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/2120647205?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lpcltL9.png" tvg-id="ca7cb321d47c8fc19a2c2776e684e285",VTV8 (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/565411018?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lpcltL9.png" tvg-id="bd130ac78c4bbdb77a19aed260f79999",VTV8 (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1191842749?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ex1VkGQ.png" tvg-id="3fc2217639036418a966cfed962fc9c9",VTV9 (HD 8.5Mbps)
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1981923903?profile=pass
+#EXTINF:-1 tvg-id="6196c3d5f37f9d5c8a8ca3f8a250af34" tvg-chno="1",VTV1 HD
+http://14.176.78.54:9981/stream/channelid/1438881377?profile=pass
+#EXTINF:-1 tvg-id="4b4eb15b38beb0ebe6b2dbca95610544" tvg-chno="2",VTV2 HD
+http://14.176.78.54:9981/stream/channelid/1538346571?profile=pass
+#EXTINF:-1 tvg-id="efe7fec116645c0eb4265507d8b48c53" tvg-chno="3",VTV3 HD
+http://14.176.78.54:9981/stream/channelid/1107224559?profile=pass
+#EXTINF:-1 tvg-id="70b6cdc7f796f0cea0277896857c61b8" tvg-chno="4",VTV4 HD
+http://14.176.78.54:9981/stream/channelid/1204663920?profile=pass
+#EXTINF:-1 tvg-id="5c067a352031c895d49fbc96f64fb4e1" tvg-chno="4",VTV4 SD
+http://14.176.78.54:9981/stream/channelid/897189468?profile=pass
+#EXTINF:-1 tvg-id="12c7abc969240e96434f745502d4eb3d" tvg-chno="5",VTV5 HD
+http://14.176.78.54:9981/stream/channelid/1235994386?profile=pass
+#EXTINF:-1 tvg-id="ec1640ab591f8fd0e61677c47f393db2" tvg-chno="6",VTV Can Tho
+http://14.176.78.54:9981/stream/channelid/725620460?profile=pass
+#EXTINF:-1 tvg-id="eed03ab23e4df43fec9b23865f8c8e82" tvg-chno="7",VTV7 SD
+http://14.176.78.54:9981/stream/channelid/842715374?profile=pass
+#EXTINF:-1 tvg-id="0ceb29dbe5050aeaaed61a824f52c504" tvg-chno="8",VTV8 HD
+http://14.176.78.54:9981/stream/channelid/1529473804?profile=pass
+#EXTINF:-1 tvg-id="6a729c2352d825f4ed21bf56e95d2b7f" tvg-chno="9",VTV9 HD
+http://14.176.78.54:9981/stream/channelid/597455466?profile=pass
+#EXTINF:-1 tvg-id="f87c8e396eaa2b931c028ca35574b295" tvg-chno="10",QUANG TRI HD
+http://14.176.78.54:9981/stream/channelid/965639416?profile=pass
+#EXTINF:-1 tvg-id="670bbedf3af0f5692aa291e4ac6d7567" tvg-chno="11",HA TINH HD
+http://14.176.78.54:9981/stream/channelid/1606290279?profile=pass
+#EXTINF:-1 tvg-id="e11661980ea849eaa9cab6490ee5a6a1" tvg-chno="169",TV360+4 (169)
+http://14.176.78.54:9981/stream/channelid/409016033?profile=pass
+#EXTINF:-1 tvg-id="a13f4269c823b2cfa5587860282b2a5b" tvg-chno="170",TV360+5 (170)
+http://14.176.78.54:9981/stream/channelid/1765949345?profile=pass
+#EXTINF:-1 tvg-id="b5f96da4139a0f4cc255bba545d783e0" tvg-chno="171",TV360+6 (171)
+http://14.176.78.54:9981/stream/channelid/611187125?profile=pass
+#EXTINF:-1 tvg-id="0058de70de64ffaf82f219e85e0b466d" tvg-chno="800",K+CINE HD
+http://14.176.78.54:9981/stream/channelid/1893619712?profile=pass
+#EXTINF:-1 tvg-id="d829df504d7c0585c1bc90ec86f85569" tvg-chno="801",K+ACTION HD
+http://14.176.78.54:9981/stream/channelid/1356802520?profile=pass
+#EXTINF:-1 tvg-id="ac8ae927a79524e3ec0b5a1f0327ed5b" tvg-chno="802",K+SPORT1 HD
+http://14.176.78.54:9981/stream/channelid/669616812?profile=pass
+#EXTINF:-1 tvg-id="7f7122722d076840ac00c9fae106503b" tvg-chno="803",K+SPORT2 HD
+http://14.176.78.54:9981/stream/channelid/1914859903?profile=pass
+#EXTINF:-1 tvg-id="f5ee8150f4b56485bf71d77adbb7f0f2" tvg-chno="804",K+KIDS HD
+http://14.176.78.54:9981/stream/channelid/1350692597?profile=pass
+#EXTINF:-1 tvg-id="09aab58febb31ddf08cda08b12647a12" tvg-chno="999",NOW SPORTS 4K
+http://14.176.78.54:9981/stream/channelid/263563785?profile=pass
