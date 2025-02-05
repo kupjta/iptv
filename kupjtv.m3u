@@ -91,8 +91,6 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://tv.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 group-title="VTVcab HD" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/24/17/1682332092780/da2b18a32787_640_360.png",BTV5
-https://509942876.r.vtvcdn.com/onplus/BTV5/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
 https://thvip.site/htv1/index.m3u8
@@ -168,7 +166,7 @@ https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/sctv14/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.ibb.co/jZzbTYK/logo26072108-sctv15-hd.png",SCTV15 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e9.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
+http://e5.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.ibb.co/1KsLhCz/logo26072108-sctv16-hd.png",SCTV16 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
@@ -387,7 +385,7 @@ https://ott1.sgchill.io.vn/tv/xemtvtructuyen/coban/source/kplus528/dreamworks/in
 #EXTINF:-1 tvg-id="davincihd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/iBx7K1M.png", Da Vinci HD
 https://tv.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh
 #EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1590294792?profile=pass
+http://zakshin.ddnsfree.com:9981/stream/mux/43f5d129552b6546d536ac84763388a9
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO HD
 https://ott1.sgchill.io.vn/tv/xemtvtructuyen/coban/source/kplus528/hbo/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
@@ -395,7 +393,7 @@ http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
 https://ott1.sgchill.io.vn/tv/xemtvtructuyen/coban/source/kplus528/cinemax/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vFVxJx4.png" tvg-id="cinemawoldhd",Cinema World
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1635131019?profile=pass
+http://zakshin.ddnsfree.com:9981/stream/mux/0eafc4f7e2dc55b0ca570518c1ecd25d
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
 http://125hvt.ddns.net:21585/wbtv/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="axnhd" tvg-logo="https://i.imgur.com/5Gtp7WP.png",AXN HD
@@ -407,15 +405,17 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
 http://125hvt.ddns.net:21585/discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1125304013?profile=pass
+http://zakshin.ddnsfree.com:9981/stream/mux/0665d1e8547ad481e2470b6fed335bfc
 #EXTINF:0 tvg-id="bbcearth" group-title="Quốc tế" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/511426851?profile=pass
+http://zakshin.ddnsfree.com:9981/stream/mux/971c3efe2331285348394b21eb3cc961
 #EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc tế" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/513117364?profile=pass
+http://zakshin.ddnsfree.com:9981/stream/mux/7dea1cdb217c457fcf3231ce8bb2899d
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.ibb.co/41wJdvL/history.png",History
 https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
+#EXTINF:0 tvg-id="dmax" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vHmt91V.png",Dmax
+http://zakshin.ddnsfree.com:9981/stream/mux/a0315abbe537e6827158820e61edd9a9
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1485540294?profile=pass
+http://zakshin.ddnsfree.com:9981/stream/mux/c9c4434ad906c356f50202e5d44869cd
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/IXJiDZh.png" group-title="Quốc tế",HGTV
@@ -423,7 +423,7 @@ https://tv.TruyenHinh.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/isCqVcE.png",Outdoor
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC
-
+http://zakshin.ddnsfree.com:9981/stream/mux/385e3647488bd3b3cdc15dadcc98d4de
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/GYsKibK.png",Food Network
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/isCqVcE.png",Outdoor [Eng]
@@ -460,11 +460,11 @@ https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_mob.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc tế" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5Monde ASIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ott1.sgchill.io.vn/vstv521/xemden29012025/9852/index.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
-https://ott1.sgchill.io.vn/vstv521/xemden29012025/106/index.m3u8
+http://p1.cvtv.xyz:81/nhkw?token=live
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://i.ibb.co/nbzwz4w/arirang.jpg", Arirang
-https://ott1.sgchill.io.vn/vstv521/xemden29012025/111/index.m3u8
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV
