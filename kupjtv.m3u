@@ -346,27 +346,10 @@ https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://i.ibb.co/wcT2VqP/man.png",Man
 https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
 
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-https://ott1.sgchill.io.vn/tv/xemtvtructuyen/coban/source/kplus528/cartoon/index.m3u8
-#EXTINF:0 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/tv/xemtvtructuyen/coban/source/kplus528/boomerang/index.m3u8
-#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-http://samisat44.xyz:80/live/5XF88W5/A38UYQV/584498.ts
-#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc tế" tvg-logo="https://i.ibb.co/m9N0CF8/dreamwork.png",Dreamworks
-https://ott1.sgchill.io.vn/tv/xemtvtructuyen/coban/source/kplus528/dreamworks/index.m3u8
 #EXTINF:-1 tvg-id="davincihd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/iBx7K1M.png", Da Vinci HD
 https://tv.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh
-#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies
-http://zakshin.ddnsfree.com:9981/stream/mux/43f5d129552b6546d536ac84763388a9
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO HD
-https://ott1.sgchill.io.vn/tv/xemtvtructuyen/coban/source/kplus528/hbo/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
-https://ott1.sgchill.io.vn/tv/xemtvtructuyen/coban/source/kplus528/cinemax/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vFVxJx4.png" tvg-id="cinemawoldhd",Cinema World
-http://zakshin.ddnsfree.com:9981/stream/mux/0eafc4f7e2dc55b0ca570518c1ecd25d
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
 http://125hvt.ddns.net:21585/wbtv/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="axnhd" tvg-logo="https://i.imgur.com/5Gtp7WP.png",AXN HD
@@ -377,18 +360,8 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
 http://125hvt.ddns.net:21585/discovery/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-http://zakshin.ddnsfree.com:9981/stream/mux/0665d1e8547ad481e2470b6fed335bfc
-#EXTINF:0 tvg-id="bbcearth" group-title="Quốc tế" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-http://zakshin.ddnsfree.com:9981/stream/mux/971c3efe2331285348394b21eb3cc961
-#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc tế" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
-http://zakshin.ddnsfree.com:9981/stream/mux/7dea1cdb217c457fcf3231ce8bb2899d
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.ibb.co/41wJdvL/history.png",History
 https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
-#EXTINF:0 tvg-id="dmax" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vHmt91V.png",Dmax
-http://zakshin.ddnsfree.com:9981/stream/mux/a0315abbe537e6827158820e61edd9a9
-#EXTINF:0 tvg-id="animalhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
-http://zakshin.ddnsfree.com:9981/stream/mux/c9c4434ad906c356f50202e5d44869cd
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/IXJiDZh.png" group-title="Quốc tế",HGTV
