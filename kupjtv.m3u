@@ -39,6 +39,9 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab HD" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://truyenhinh.click/vtvcab3
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://tv.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh
@@ -62,13 +65,13 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://tv.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab HD" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://truyenhinh.click/vtvcab16
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://tv.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab HD" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://truyenhinh.click/vtvcab18
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
