@@ -122,15 +122,15 @@ https://xem.truyenhinh.click/CoBan/tv360.sk7/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.truyenhinh.click/CoBan/tv360.sk8/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://xem.truyenhinh.click/CoBan/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hitv" group-title="Kênh địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_480_270.png",HiTV
-https://xem.TruyenHinh.Click/CoBan/185.HiTV/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="youtv" group-title="Kênh địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_480_270.png",YouTV
-https://xem.TruyenHinh.Click/CoBan/31.YouTV/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.Mekong" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835047229/a15638593826_640_360.png", Mê Kông
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835047229/a15638593826_640_360.png", Mê Kông
 https://xem.TruyenHinh.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png", Phim Âu Mỹ
 https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
 
+#EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_480_270.png",HiTV
+https://xem.TruyenHinh.Click/CoBan/185.HiTV/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="youtv" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_480_270.png",YouTV
+https://xem.TruyenHinh.Click/CoBan/31.YouTV/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
