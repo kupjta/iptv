@@ -366,7 +366,7 @@ http://p1.cvtv.xyz:81/bbcn?token=live
 #EXTINF:-1 group-title="Quốc tế" tvg-id="bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
 http://p1.cvtv.xyz:81/bb?token=live
 #EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
-https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
 http://p1.cvtv.xyz:81/cnn?token=live
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc tế" tvg-logo="https://i.ibb.co/h7xsfby/cnbc.png",CNBC
