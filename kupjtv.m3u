@@ -153,8 +153,6 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.ibb.co/nmxNkPG/s21-hd.jpg",SCTV21
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.ibb.co/JK0TF38/sctv22-hd.png",SCTV22
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv22
 #EXTINF:-1 tvg-id="sctvpthhd" group-title="SCTV" tvg-logo="https://i.ibb.co/G2XQD3X/logo26072108-sctv-phim-THHD.png",SCTV Phim tổng hợp
 https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth
 
