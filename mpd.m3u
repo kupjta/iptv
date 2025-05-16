@@ -1,3 +1,23 @@
+#EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab16.png" group-title="VTVCab 16  ON Football HD",VTVCab 16  ON Football
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be7806d3022c46b3b9025163ed1d9dab:b2bfa9ff21baeded07ccf20446a5f58e
+https://s7777.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
+#EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab18.png" group-title="VTVCab 18  ON Sports News",VTVCab 18  ON Sports News
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42237749e6f549fc9686996eeaf2ec0c:7442b8f194b49deafdeb13c60128c4d1
+https://s72140.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv496/manifest.mpd
+#EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab6.png" group-title="VTVCab 6  ON Sports+",VTVCab 6  ON Sports+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2eebf5e4b9e44f38a780a4c30529e443:6aeec98808961daf75d8d594b99d743f
+https://s128199.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv311/manifest.mpd
+#EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab3.png" group-title="VTVCab 3  ON Sports HD",VTVCab 3  ON Sports
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc5ec8485544e2890c8b170bd61f944:bd77ec326b3e764d9711eb12fa8bb1ea
+https://s76174.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv264/manifest.mpd
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
