@@ -397,6 +397,10 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 http://125hvt.ddns.net:21585/discovery/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://freem3u.xyz/static/images/global/hgtv.png" group-title="Quốc tế",HGTV
 https://freem3u.xyz/api/live/play.mpd?vid=99
+#EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/global/nat_geo.png" group-title="Quốc tế",National Geographic
+https://fl5.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/global/nat_geo_wild.png" group-title="Quốc tế",National Geographic Wild
+https://fl5.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.ibb.co/41wJdvL/history.png",History
 https://xem.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.ibb.co/41wJdvL/history.png",History [ENG]
