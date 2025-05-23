@@ -89,19 +89,19 @@ https://freem3u.xyz/api/live/play.m3u8?oid=vothuatvn
 
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+CINE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/BoSung/kcinehd/TruyenHinh.Click
+https://freem3u.xyz/api/live/play.m3u8?tid=kcine
 #EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ACTION HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/BoSung/kaction/TruyenHinh.Click
+https://freem3u.xyz/api/live/play.m3u8?tid=kaction
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+SPORT1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/BoSung/ksport1hd/TruyenHinh.Click
+https://freem3u.xyz/api/live/play.m3u8?tid=ksport1
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+SPORT2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/BoSung/ksport2hd/TruyenHinh.Click
+https://freem3u.xyz/api/live/play.m3u8?tid=ksport2
 #EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+KIDS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/BoSung/kkidshd/TruyenHinh.Click
+https://freem3u.xyz/api/live/play.m3u8?tid=kkids
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
