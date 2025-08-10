@@ -371,7 +371,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 https://tv.ddns.vn/tv/cartoonhd/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc tế" tvg-logo="https://tv.ddns.vn/logo/dreamworks.png",Dreamworks
 https://tv.ddns.vn/tv/dreamworks/index.m3u8
-#EXTINF:-1 tvg-id="bbccbb" tvg-name="BBC CbeeBies" group-title="Quốc Tế" tvg-logo="https://hls.mskycdn.online/logo/bbccbb.png",BBC CbeeBies
+#EXTINF:-1 tvg-id="bbccbb" tvg-name="BBC CbeeBies" group-title="Quốc tế" tvg-logo="https://hls.mskycdn.online/logo/bbccbb.png",BBC CbeeBies
 https://hls.mskycdn.online/tv/bbccbb/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
@@ -391,6 +391,10 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 http://125hvt.ddns.net:21585/discovery/index.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc tế" tvg-logo="https://tv.ddns.vn/logo/discoveryasiahd.png",Discovery Asia
 https://tv.ddns.vn/tv/discoveryasiahd/index.m3u8
+#EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC Earth" group-title="Quốc tế" tvg-logo="https://hls.mskycdn.online/logo/bbcearth.png",BBC Earth
+https://hls.mskycdn.online/tv/bbcearth/index.m3u8
+#EXTINF:-1 tvg-id="bbclifestyle" tvg-name="BBC Lifestyle" group-title="Quốc tế" tvg-logo="https://hls.mskycdn.online/logo/bbclifestyle.png",BBC Lifestyle
+https://hls.mskycdn.online/tv/bbclifestyle/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://freem3u.xyz/static/images/global/hgtv.png" group-title="Quốc tế",HGTV
 https://freem3u.xyz/api/live/play.mpd?vid=99
 #EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/global/nat_geo.png" group-title="Quốc tế",National Geographic
@@ -398,9 +402,7 @@ https://fl5.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/global/nat_geo_wild.png" group-title="Quốc tế",National Geographic Wild
 https://fl5.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.ibb.co/41wJdvL/history.png",History
-https://xem.hoiquan.click/CoBan/historyhd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.ibb.co/41wJdvL/history.png",History [ENG]
-https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
+https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/isCqVcE.png",Outdoor
@@ -409,10 +411,8 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 http://125hvt.ddns.net:21585/tlc/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/GYsKibK.png",Food Network
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
-#EXTINF:-1 tvg-id="outdoorfhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/isCqVcE.png",Outdoor [Eng]
-https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/H2tGzri.png",ABC Australia
-http://49.0.64.96:8007/ABC
+https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive" group-title="Quốc tế" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:0 tvg-id="BBC News" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
@@ -434,7 +434,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC35/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="france-24-fr" group-title="Quốc tế" tvg-logo="https://i.imgur.com/no9Mv3X.png",France 24 French
-http://49.0.64.96:8007/France24
+https://hls.mskycdn.online/tv/france24eng/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/jP0rB8j.png",Sky News
 https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_mob.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc tế" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5Monde ASIE
@@ -448,9 +448,10 @@ https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+https://hls.mskycdn.online/tv/fashionhd/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Quốc tế",Clubbingtv
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+
 
 
 
