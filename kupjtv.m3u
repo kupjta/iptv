@@ -22,6 +22,29 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}",VTV9
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
 
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV độ trễ thấp" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
+http://14.234.23.138:12343/rtp/232.84.1.117:10254
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV độ trễ thấp" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8.5Mbps)
+http://14.234.23.138:12343/rtp/232.84.2.31:10594
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV độ trễ thấp" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 8.5Mbps)
+http://14.234.23.138:12343/rtp/232.84.1.118:10260
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV độ trễ thấp" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 9Mbps)
+http://14.234.23.138:12343/rtp/232.84.3.106:10600 
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV độ trễ thấp" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 9Mbps)
+http://14.234.23.138:12343/rtp/232.84.2.33:10606
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV độ trễ thấp" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 8.5Mbps)
+http://14.234.23.138:12343/rtp/232.84.3.86:11542
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV độ trễ thấp" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8.5Mbps)
+http://14.234.23.138:12343/rtp/232.84.3.66:11656
+#EXTINF:0 tvg-id="vtvcantho" group-title="VTV độ trễ thấp" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 9Mbps)
+http://14.234.23.138:12343/rtp/232.84.1.119:10266 
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV độ trễ thấp" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8.5Mbps)
+http://14.234.23.138:12343/rtp/232.84.2.202:10996
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV độ trễ thấp" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8.5Mbps)
+http://14.234.23.138:12343/rtp/232.84.3.104:10612
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV độ trễ thấp" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8.5Mbps)
+http://14.234.23.138:12343/rtp/232.84.2.35:10618
+
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/7GSKm46.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://xem.hoiquan.click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -408,6 +431,7 @@ https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 https://hls.mskycdn.online/tv/fashionhd/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Quốc tế",Clubbingtv
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+
 
 
 
