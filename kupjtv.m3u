@@ -24,25 +24,25 @@ https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/7GSKm46.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://xem.hoiquan.click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/v1/b521/180/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/MPNlpzb.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}",ON Phim Việt 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://xem.hoiquan.click/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/v1/b521/175/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab HD" tvg-logo="https://img.lichphatsong.xyz/logo/on-sports.jpg",ON Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://truyenhinh.click/
 https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsports
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/765Y3jw.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}",ON Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://xem.hoiquan.click/CoBan/vtvcab-4-on-movies/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/v1/b521/181/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/87JEXEQ.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}",ON E Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://xem.hoiquan.click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/v1/b521/182/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab HD" tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsplus.jpg",ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsportsplus
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/nqwVkmM.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}",ON O2TV
-https://xem.hoiquan.click/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/v1/b521/136/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/YFmPo7l.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}",ON BiBi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://xem.hoiquan.click/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8
@@ -408,6 +408,7 @@ https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 https://hls.mskycdn.online/tv/fashionhd/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Quốc tế",Clubbingtv
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+
 
 
 
