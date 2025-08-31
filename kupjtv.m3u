@@ -85,13 +85,13 @@ https://sgchill.io.vn/v1/b521/188/index.m3u8
 https://sgchill.io.vn/v1/b521/169/index.m3u8?ongolf
 
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine
-http://14.226.244.23:11111/rtp/232.84.1.96:8550
+
 #EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action
-http://14.226.244.23:11111/rtp/232.84.1.97:8556
+
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1
-http://14.226.244.23:11111/rtp/232.84.1.98:8562
+
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2
-http://14.226.244.23:11111/rtp/232.84.1.131:10368
+
 #EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids
 https://xem.hoiquan.click/https.php?id=TokenFuckVThanh
 
@@ -408,6 +408,7 @@ https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 https://hls.mskycdn.online/tv/fashionhd/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Quốc tế",Clubbingtv
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+
 
 
 
