@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}",VTV2
@@ -429,6 +429,7 @@ https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://hls.mskycdn.online/tv/fashionhd/index.m3u8
+
 
 
 
