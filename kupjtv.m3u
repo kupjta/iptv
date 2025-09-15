@@ -332,57 +332,52 @@ https://xem.hoiquan.click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="davincihd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/iBx7K1M.png",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/global/cartoon-network.png" group-title="Quốc tế",Cartoon Network
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
+#EXTINF:-1 tvg-id="cartoonito" group-title="Quốc Tế" tvg-logo="https://hls.mskycdn.online/logo/cartoonito.png" http-user-agent="com.msky.mskyandroidtvott",Cartoonito
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
+https://hls.mskycdn.online/tv/cartoonito/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc tế" tvg-logo="https://hls.mskycdn.online/logo/dreamworks.png",Dreamworks
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/dreamworks/index.m3u8
 #EXTINF:-1 tvg-id="bbccbb" tvg-name="BBC CbeeBies" group-title="Quốc tế" tvg-logo="https://hls.mskycdn.online/logo/bbccbb.png",BBC CbeeBies
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/bbccbb/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/hbohd/index.m3u8
-
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO",HBO HITS
-https://s8.sky4k.top/stream/astro/hbohits/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
-
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-96 tvg-id="414.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.png" group-title="HBO",HBO FAMLIY
-https://s8.sky4k.top/stream/astro/hbofamily/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
-
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="HBO",HBO SIGNATURE
-http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-
 #EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/global/cinemax.png" group-title="Quốc tế",Cinemax
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/warnertvhd/index.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc tế" tvg-logo="https://hls.mskycdn.online/logo/cinemaworldhd.png",Cinema World
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/cinemaworldhd/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="axnhd" tvg-logo="https://i.imgur.com/5Gtp7WP.png",AXN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/axnhd/index.m3u8
 #EXTINF:-1 tvg-id="kixhd" tvg-logo="https://teohdtv.github.io/thumbs/INT/KIX.png" group-title="Quốc tế",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/discoveryhd/index.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc tế" tvg-logo="https://hls.mskycdn.online/logo/discoveryasiahd.png",Discovery Asia
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/discoveryasiahd/index.m3u8
 #EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC Earth" group-title="Quốc tế" tvg-logo="https://hls.mskycdn.online/logo/bbcearth.png",BBC Earth
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/bbcearth/index.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-name="BBC Lifestyle" group-title="Quốc tế" tvg-logo="https://hls.mskycdn.online/logo/bbclifestyle.png",BBC Lifestyle
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/bbclifestyle/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" tvg-name="Animal Planet" group-title="Quốc tế" tvg-logo="https://hls.mskycdn.online/logo/animalhd.png",Animal Planet
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/animalhd/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://freem3u.xyz/static/images/global/hgtv.png" group-title="Quốc tế",HGTV
 https://freem3u.xyz/api/live/play.mpd?vid=99
-#EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/global/nat_geo.png" group-title="Quốc tế",National Geographic
-https://fl5.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/global/nat_geo_wild.png" group-title="Quốc tế",National Geographic Wild
-https://fl5.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.ibb.co/41wJdvL/history.png",History
 https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
@@ -392,24 +387,25 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC
 http://125hvt.ddns.net:21585/tlc/index.m3u8
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/H2tGzri.png",ABC Australia
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive" group-title="Quốc tế" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:0 tvg-id="BBC News" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/bbcworldnews/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/bloomberg/index.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/cnn/index.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc tế" tvg-logo="https://i.ibb.co/h7xsfby/cnbc.png",CNBC
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="Quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="euronews-en" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0iOuMds.png",EURONEWS English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC35/index.m3u8
 #EXTINF:-1 tvg-id="france24-en" group-title="Quốc tế" tvg-logo="https://i.imgur.com/no9Mv3X.png",France 24 English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
@@ -421,14 +417,16 @@ https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/nhkworld/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://i.ibb.co/nbzwz4w/arirang.jpg",Arirang
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/fashionhd/index.m3u8
+
 
 
 
