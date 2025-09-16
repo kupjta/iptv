@@ -332,7 +332,7 @@ https://hls.mskycdn.online/tv/cinemaworldhd/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-id="axnhd" tvg-logo="https://i.imgur.com/5Gtp7WP.png",AXN HD
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/axnhd/index.m3u8
-#EXTINF:-1 tvg-id="kixhd" tvg-logo="https://teohdtv.github.io/thumbs/INT/KIX.png" group-title="Quốc tế",KIX
+#EXTINF:-1 tvg-id="kixhd" tvg-logo="https://vnepg.site/logos/167.png" group-title="Quốc tế",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
@@ -400,4 +400,5 @@ https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/fashionhd/index.m3u8
+
 
