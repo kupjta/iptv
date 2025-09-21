@@ -325,7 +325,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://freem3u.xyz/static/images/global/cartoon-network.png" group-title="Quốc tế",Cartoon Network
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
-#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://hls.mskycdn.online/logo/cartoonito.png",Cartoonito
+#EXTINF:-1 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://hls.mskycdn.online/logo/cartoonito.png",Cartoonito
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/cartoonito/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc tế" tvg-logo="https://hls.mskycdn.online/logo/dreamworks.png",Dreamworks
@@ -410,6 +410,12 @@ https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Liv
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc tế" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5Monde ASIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="rt" tvg-name="RT News" group-title="Quốc tế" tvg-logo="https://hls.mskycdn.online/logo/rt.png",RT News
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
+https://hls.mskycdn.online/tv/rt/index.m3u8
+#EXTINF:-1 tvg-id="rtd" tvg-name="RT Documentary English" group-title="Quốc tế" tvg-logo="https://hls.mskycdn.online/logo/rtd.png",RT Documentary English
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
+https://hls.mskycdn.online/tv/rtd/index.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/nhkworld/index.m3u8
@@ -420,6 +426,7 @@ https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/fashionhd/index.m3u8
+
 
 
 
