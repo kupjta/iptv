@@ -25,19 +25,6 @@ https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://vnepg.site/logos/176.png",VietNam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://hls.mskycdn.online/logo/kcinehd.png",K+ Cine
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/kcinehd/index.m3u8
-#EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://hls.mskycdn.online/logo/kaction.png",K+ Action
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/kaction/index.m3u8
-#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://hls.mskycdn.online/logo/ksport1hd.png",K+ Sport 1
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/ksport1hd/index.m3u8
-#EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://hls.mskycdn.online/logo/ksport2hd.png",K+ Sport 2
-#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
-https://hls.mskycdn.online/tv/ksport2hd/index.m3u8
-
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/7GSKm46.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/180/index.m3u8
@@ -426,6 +413,7 @@ https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/fashionhd/index.m3u8
+
 
 
 
