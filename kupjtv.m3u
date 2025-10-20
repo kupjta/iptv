@@ -30,7 +30,7 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/MPNlpzb.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}",ON Phim Việt 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://freem3u.xyz/api/live/play.m3u8?vid=175
+https://sgchill.io.vn/s97/cb1?id=175
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab HD" tvg-logo="https://img.lichphatsong.xyz/logo/on-sports.jpg",ON Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://truyenhinh.click/
@@ -347,6 +347,7 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
+
 
 
 
