@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/vtv/vtv1.png" group-title="VTV",VTV1
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/vtv/vtv2.png" group-title="VTV","VTV2
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/3/index.m3u8
+
