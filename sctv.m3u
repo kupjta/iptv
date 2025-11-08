@@ -188,7 +188,7 @@ https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1762570476/GVpoeYdXf0RwCdr0nHcAouThhw0/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/XK4XXz9SpP5R-BdUsCXxGg/1762707600/RIPQ1Y7/live/hls/sctv16/index.m3u8?token=NKnpTKE2VEkt2E55rfv8ew&e=1762628160
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1762570476/GVpoeYdXf0RwCdr0nHcAouThhw0/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/XK4XXz9SpP5R-BdUsCXxGg/1762707600/RIPQ1Y7/live/hls/sctv16/index.m3u8?token=uv0k_-dR6YcrHqusX7zurg&e=1762624404
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
