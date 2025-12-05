@@ -191,7 +191,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://i.imgur.com/8qlDA5N.png",ĐN2 | TH Đồng Nai 2
 https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 tvg-id="dongthap1" group-title="Địa phương" tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 | TH Đồng Tháp
-https://freem3u.xyz/api/live/play.m3u8?vid=54/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=54
 #EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 | TH Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 tvg-id="lamdong1" group-title="Địa phương" tvg-logo="https://github.com/kupjta/vuminhthanh12/blob/main/LTV1.png?raw=true",LTV1 | TH Lâm Đồng 1
@@ -286,12 +286,16 @@ https://freem3u.xyz/api/live/play.m3u8?vid=163
 #EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://i.ibb.co/wcT2VqP/man.png",Man
 https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
 
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
+https://kupjta.online/iptv/5/385/index.m3u8
 #EXTINF:-1 tvg-id="hbohits" group-title="Quốc tế" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20Hits-1.jpg",HBO Hits
 http://filex.tv:8080//live/drzain/002808/302250.ts
 #EXTINF:-1 tvg-id="hbofamily" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png", HBO Family
 http://filex.tv:8080//live/drzain/002808/302249.ts
 #EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc tế" tvg-logo="https://img.lichphatsong.xyz/logo/hbosignaturehd-asia.png", HBO Signature HD
 http://filex.tv:8080//live/drzain/002808/302251.ts
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CINEMAX.jpg", Cinemax HD
+https://kupjta.online/iptv/5/386/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg", Cartoonito
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1516887&extension=ts&play_token=EmvO2AH4kY
@@ -339,6 +343,7 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
+
 
 
 
