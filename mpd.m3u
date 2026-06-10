@@ -1,33 +1,33 @@
-#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON Sports HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
-https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
-#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg", ON Sports+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
-https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
-#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg",  ON Football HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
-https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
-#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON Sports News
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d
-https://livevlisctcdnw.seenow.vn/mean/THETHAO_TINTUC_HD/manifest.mpd
-#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp", ON Golf HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a323b53e0864492b0e04c70d591c564:843584bafaf2736c4fd1b76e1eee74d8
-https://livevlisctcdnw.seenow.vn/mean/THETHAO_GOLF_HD/manifest.mpd
+#EXTINF:-1 tvg-id="onfootball" tvg-logo="https://vnepg.site/logos/24.png" group-title="VTVcab",ON Football HD
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
+https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
+#EXTINF:-1 tvg-id="ongolf" tvg-logo="https://vnepg.site/logos/31.png" group-title="VTVcab",ON Golf HD
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_GOLF_HD/manifest.mpd
+#EXTINF:-1 tvg-id="onsports" tvg-logo="https://vnepg.site/logos/14.png" group-title="VTVcab",ON Sports HD
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
+#EXTINF:-1 tvg-id="onsportsnews" tvg-logo="https://vnepg.site/logos/26.png" group-title="VTVcab",ON Sports News
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
+#EXTINF:-1 tvg-id="onsportsplus" tvg-logo="https://vnepg.site/logos/17.png" group-title="VTVcab",ON Sports+
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
+https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
 #EXTINF:-1 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv9.png", SCTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
