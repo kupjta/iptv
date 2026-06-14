@@ -1,6 +1,14 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
 #EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml"
+#EXTINF:-1 tvg-id="vtv3hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://vnepg.site/logos/3.png",VTV3
+http://42.1.99.192:8080/live/vtv3.flv
+#EXTINF:-1 tvg-id="vtv6hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://vnepg.site/logos/113.png",VTV6
+http://42.1.99.192:8080/live/vtv6.flv
+#EXTINF:-1 tvg-id="vtv9hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://vnepg.site/logos/11.png",VTV9
+http://42.1.99.192:8080/live/vtv9.flv
+#EXTINF:-1 tvg-id="vtv10hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://vnepg.site/logos/8.png",VTV10
+http://42.1.99.192:8080/live/vtv10.flv
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/1.png",VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/2.png",VTV2
@@ -15,7 +23,7 @@ https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=100
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://vnepg.site/logos/7.png",VTV5 Tây Nguyên
 https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv6" group-title="VTV" tvg-logo="https://vnepg.site/logos/113.png", VTV6
+#EXTINF:-1 tvg-id="vtv6" group-title="VTV" tvg-logo="https://vnepg.site/logos/113.png",VTV6
 https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/9.png",VTV7
 https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
