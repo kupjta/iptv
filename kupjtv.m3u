@@ -86,7 +86,7 @@ https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://vnepg.site/logos/85.png",HTV5 Bchannel
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://vnepg.site/logos/36.png",HTV7
-https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://vnepg.site/logos/37.png",HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://vnepg.site/logos/38.png",HTV Thể Thao
