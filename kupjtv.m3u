@@ -29,8 +29,8 @@ https://live.fptplay53.net/fnxhd1/vtv10hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab HD" tvg-logo="https://vnepg.site/logos/12.png",ON Vie Giải Trí
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab HD" tvg-logo="https://vnepg.site/logos/13.png",ON Phim Việt 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
@@ -61,7 +61,8 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab HD" tvg-logo="https://vnepg.site/logos/27.png",ON Vie DRAMAS
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=177
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 #EXTINF:-1 tvg-id="onvfamily" group-title="VTVcab HD" tvg-logo="https://vnepg.site/logos/28.png",ON VFamily
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
