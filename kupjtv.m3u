@@ -231,9 +231,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=75
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/4yIgKKx.png",BHTTV | TH Hà Tĩnh
 https://freem3u.xyz/api/live/play.m3u8?vid=58
 #EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://i.imgur.com/iq9JLb9.png",THP | TH Hải Phòng
-https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
+https://live.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="haiphong3" group-title="Địa phương" tvg-logo="https://i.imgur.com/iq9JLb9.png",THP3 | TH Hải Phòng 3
-https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=59
 #EXTINF:-1 tvg-id="phutho" group-title="Địa phương" tvg-logo="https://i.imgur.com/LXuRwJY.png",PTV | TH Phú Thọ
 https://freem3u.xyz/api/live/play.m3u8?vid=77
 #EXTINF:-1 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://i.imgur.com/JAglyuT.png",HY | TH Hưng Yên
