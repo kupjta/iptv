@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+#EXTM3U url-tvg="https://epg.io.vn/epg.xml.gz"
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
 #EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml"
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/1.png",VTV1
